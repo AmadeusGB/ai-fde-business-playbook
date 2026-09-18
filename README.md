@@ -8,8 +8,8 @@
 
 ## 阅读本书
 
-- [v3.6 作者审阅版 PDF（334页）](edition/v3.6/把AI带进经营.pdf)
-- [v3.6 作者审阅版 Word](edition/v3.6/把AI带进经营.docx)
+- [v3.6 电子版 PDF（334页）](edition/v3.6/把AI带进经营.pdf)
+- [v3.6 电子版 Word](edition/v3.6/把AI带进经营.docx)
 - [v3.6 修订说明](edition/v3.6/把AI带进经营—修订说明.md)
 - [阅读说明](book/reading-guide.md)
 - [正文：第1—18章](book/chapters/)
@@ -17,7 +17,9 @@
 - [作者简介](book/author.md)
 - [版权与分享说明](book/copyright-and-sharing.md)
 
-当前电子版为作者审阅版，不是印刷就绪文件。章节 Markdown 提供在线阅读文本；分页、注释和图文编排以 PDF/Word 为准。
+版本：v3.6。DOI：[10.5281/zenodo.22827116](https://doi.org/10.5281/zenodo.22827116)。
+
+章节 Markdown 提供在线阅读文本；分页、注释和图文编排以 PDF/Word 为准。电子版不作为印刷就绪文件。
 
 ## 内容结构
 
