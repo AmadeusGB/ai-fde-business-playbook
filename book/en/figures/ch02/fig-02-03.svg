@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="252pt" viewBox="0 0 504 252" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:19.456429</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 55.692 130.7376  L 448.308 130.7376  " clip-path="url(#pd1f6659bed)" style="fill: none; stroke: #252c29; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m36c3f0a327" d="M 0 2.95804  C 0.784481 2.95804 1.536938 2.646362 2.09165 2.09165  C 2.646362 1.536938 2.95804 0.784481 2.95804 0  C 2.95804 -0.784481 2.646362 -1.536938 2.09165 -2.09165  C 1.536938 -2.646362 0.784481 -2.95804 0 -2.95804  C -0.784481 -2.95804 -1.536938 -2.646362 -2.09165 -2.09165  C -2.646362 -1.536938 -2.95804 -0.784481 -2.95804 0  C -2.95804 0.784481 -2.646362 1.536938 -2.09165 2.09165  C -1.536938 2.646362 -0.784481 2.95804 0 2.95804  z " style="stroke: #98522e"/>
+    </defs>
+    <g clip-path="url(#pd1f6659bed)">
+     <use xlink:href="#m36c3f0a327" x="60.48" y="130.7376" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="line2d_2">
+    <path d="M 60.48 130.7376  L 60.48 123.6312  " clip-path="url(#pd1f6659bed)" style="fill: none; stroke: #98522e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pd1f6659bed)">
+     <use xlink:href="#m36c3f0a327" x="184.968" y="130.7376" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="line2d_3">
+    <path d="M 184.968 130.7376  L 184.968 166.2696  " clip-path="url(#pd1f6659bed)" style="fill: none; stroke: #98522e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pd1f6659bed)">
+     <use xlink:href="#m36c3f0a327" x="314.244" y="130.7376" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="line2d_4">
+    <path d="M 314.244 130.7376  L 314.244 123.6312  " clip-path="url(#pd1f6659bed)" style="fill: none; stroke: #98522e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pd1f6659bed)">
+     <use xlink:href="#m36c3f0a327" x="443.52" y="130.7376" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="line2d_5">
+    <path d="M 443.52 130.7376  L 443.52 166.2696  " clip-path="url(#pd1f6659bed)" style="fill: none; stroke: #98522e; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="60.5" y="63.0" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle"><tspan x="60.5" y="63.0">2009.03</tspan></text></g>
+   <g id="text_2">
+    <text x="60.5" y="88.5" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="60.5" y="88.5">Careers directory</tspan></text></g>
+   <g id="text_3">
+    <text x="60.5" y="114.5" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="60.5" y="114.5">Recruiting FDEs</tspan></text></g>
+   <g id="text_4">
+    <text x="185" y="183.8" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle"><tspan x="185" y="183.8">2009.04</tspan></text></g>
+   <g id="text_5">
+    <text x="185" y="209.3" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="185" y="209.3">Labor filing</tspan></text></g>
+   <g id="text_6">
+    <text x="185" y="235.3" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="185" y="235.3">One job record</tspan></text></g>
+   <g id="text_7">
+    <text x="314.2" y="63.0" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle"><tspan x="314.2" y="63.0">2010</tspan></text></g>
+   <g id="text_8">
+    <text x="314.2" y="88.5" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="314.2" y="88.5">Conference program</tspan></text></g>
+   <g id="text_9">
+    <text x="314.2" y="107.6" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="314.2" y="107.6">Several people use</tspan><tspan x="314.2" y="121.39999999999999">the title</tspan></text></g>
+   <g id="text_10">
+    <text x="443.5" y="183.8" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle"><tspan x="443.5" y="183.8">2013</tspan></text></g>
+   <g id="text_11">
+    <text x="443.5" y="209.3" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="443.5" y="209.3">Job snapshots</tspan></text></g>
+   <g id="text_12">
+    <text x="443.5" y="235.3" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="443.5" y="235.3">Related role renamed</tspan></text></g>
+   <g id="text_13">
+    <text x="252" y="17.6" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle"><tspan x="252" y="17.6">Documented occurrences; not dates of origin</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd1f6659bed">
+   <rect x="12.6" y="7.56" width="478.8" height="236.88"/>
+  </clipPath>
+ </defs>
+</svg>

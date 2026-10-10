@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="426.24pt" viewBox="0 0 504.0 426.24" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:21.696718</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pd9af7d1f66">
+   <rect x="115.92" y="34.56" width="357.84" height="142.848"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 230.4  L 504 230.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 115.92 177.408  L 473.76 177.408  L 473.76 34.56  L 115.92 34.56  z " style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 115.92 57.663323  L 204.275556 57.663323  L 204.275556 41.053091  L 115.92 41.053091  z " clip-path="url(#pd9af7d1f66)" style="fill: #58615c"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 204.275556 95.413852  L 336.808889 95.413852  L 336.808889 78.803619  L 204.275556 78.803619  z " clip-path="url(#pd9af7d1f66)" style="fill: #24564b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 336.808889 133.164381  L 469.342222 133.164381  L 469.342222 116.554148  L 336.808889 116.554148  z " clip-path="url(#pd9af7d1f66)" style="fill: #252c29"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 115.92 170.914909  L 469.342222 170.914909  L 469.342222 154.304677  L 115.92 154.304677  z " clip-path="url(#pd9af7d1f66)" style="fill: #98522e"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6"/>
+     </g>
+    <g id="ytick_2">
+     <g id="line2d_7"/>
+     </g>
+    <g id="ytick_3">
+     <g id="line2d_8"/>
+     </g>
+    <g id="ytick_4">
+     <g id="line2d_9"/>
+     </g>
+   </g>
+   <g id="line2d_10">
+    <path d="M 204.275556 177.408  L 204.275556 34.56  " clip-path="url(#pd9af7d1f66)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #bfc9c0"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 336.808889 177.408  L 336.808889 34.56  " clip-path="url(#pd9af7d1f66)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #bfc9c0"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 469.342222 177.408  L 469.342222 34.56  " clip-path="url(#pd9af7d1f66)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #bfc9c0"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 115.92 177.408  L 473.76 177.408  " style="fill: none; stroke: #252c29; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  </g>
+ </g><text x="115.92" y="349.45" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_1"><tspan x="115.92" dy="0">Start</tspan></text><text x="204.604" y="349.45" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_2"><tspan x="204.604" dy="0">Week 2</tspan></text><text x="292.96" y="349.45" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_3"><tspan x="292.96" dy="0">Week 4</tspan></text><text x="381.315" y="349.45" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_4"><tspan x="381.315" dy="0">Week 6</tspan></text><text x="469.0" y="349.45" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_5"><tspan x="469.0" dy="0">Week 8</tspan></text><text x="105" y="91.762" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" id="text_6"><tspan x="105" dy="0">Baseline and</tspan><tspan x="105" dy="14.16">samples</tspan></text><text x="105" y="161.601" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" id="text_7"><tspan x="105" dy="0">Interfaces and</tspan><tspan x="105" dy="14.16">tests</tspan></text><text x="105" y="231.439" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" id="text_8"><tspan x="105" dy="0">Controlled</tspan><tspan x="105" dy="14.16">trial</tspan></text><text x="105" y="294.198" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" id="text_9"><tspan x="105" dy="0">Business</tspan><tspan x="105" dy="14.16">participation</tspan><tspan x="105" dy="14.16">time</tspan></text><text x="115" y="25.574" fill="#24443b" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_10"><tspan x="115" dy="0">Review: prerequisites → verifiable version → continue?</tspan></text><text x="15" y="400.666" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_11"><tspan x="15" dy="0">Author-proposed plan; confirm actual dates when staff can participate</tspan></text></svg>

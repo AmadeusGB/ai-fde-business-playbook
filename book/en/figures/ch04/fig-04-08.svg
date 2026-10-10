@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="466.20000000000005pt" viewBox="0 0 504.0 466.20000000000005" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:12.788753</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p3f6bc9a750">
+   <rect x="12.6" y="7.56" width="478.8" height="236.88"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 22.176 90.468  L 98.784 90.468  " clip-path="url(#p3f6bc9a750)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 117.936 90.468  L 194.544 90.468  " clip-path="url(#p3f6bc9a750)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 213.696 90.468  L 290.304 90.468  " clip-path="url(#p3f6bc9a750)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 309.456 90.468  L 386.064 90.468  " clip-path="url(#p3f6bc9a750)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 405.216 90.468  L 481.824 90.468  " clip-path="url(#p3f6bc9a750)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="60.48" y="107.293" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_1"><tspan x="60.48" dy="0">Value</tspan></text><text x="60.48" y="234.351" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_2"><tspan x="60.48" dy="0">How and who</tspan><tspan x="60.48" dy="14.16">benefits?</tspan></text><text x="156.24" y="107.293" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_3"><tspan x="156.24" dy="0">Feasibility</tspan></text><text x="156.24" y="220.191" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_4"><tspan x="156.24" dy="0">Representative</tspan><tspan x="156.24" dy="14.16">samples; can</tspan><tspan x="156.24" dy="14.16">results be</tspan><tspan x="156.24" dy="14.16">checked?</tspan></text><text x="252.0" y="107.293" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_5"><tspan x="252.0" dy="0">Risk control</tspan></text><text x="252.0" y="220.191" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_6"><tspan x="252.0" dy="0">Error</tspan><tspan x="252.0" dy="14.16">consequences;</tspan><tspan x="252.0" dy="14.16">can recovery</tspan><tspan x="252.0" dy="14.16">work?</tspan></text><text x="347.76" y="107.293" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_7"><tspan x="347.76" dy="0">Data</tspan></text><text x="347.76" y="220.191" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_8"><tspan x="347.76" dy="0">Source and</tspan><tspan x="347.76" dy="14.16">version; is</tspan><tspan x="347.76" dy="14.16">access</tspan><tspan x="347.76" dy="14.16">available?</tspan></text><text x="443.52" y="107.293" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_9"><tspan x="443.52" dy="0">Cooperation</tspan></text><text x="443.52" y="227.271" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_10"><tspan x="443.52" dy="0">Participants</tspan><tspan x="443.52" dy="14.16">and available</tspan><tspan x="443.52" dy="14.16">time</tspan></text><text x="261.5" y="400.809" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_11"><tspan x="261.5" dy="0">Give reasons and evidence for each; high scores cannot offset some gaps</tspan></text></svg>

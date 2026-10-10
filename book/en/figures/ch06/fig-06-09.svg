@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="492.84pt" viewBox="0 0 504.0 492.84" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:22.616564</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p9735536979">
+   <rect x="12.6" y="10.656" width="478.8" height="245.088"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 266.4  L 504 266.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 141.876 111.14208  L 486.612 111.14208  L 486.612 62.12448  L 141.876 62.12448  z " clip-path="url(#p9735536979)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 141.876 169.9632  L 256.788 169.9632  L 256.788 120.9456  L 141.876 120.9456  z " clip-path="url(#p9735536979)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 256.788 169.9632  L 371.7 169.9632  L 371.7 120.9456  L 256.788 120.9456  z " clip-path="url(#p9735536979)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 371.7 169.9632  L 486.612 169.9632  L 486.612 120.9456  L 371.7 120.9456  z " clip-path="url(#p9735536979)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 141.876 228.78432  L 256.788 228.78432  L 256.788 179.76672  L 141.876 179.76672  z " clip-path="url(#p9735536979)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 256.788 228.78432  L 371.7 228.78432  L 371.7 179.76672  L 256.788 179.76672  z " clip-path="url(#p9735536979)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 371.7 228.78432  L 486.612 228.78432  L 486.612 179.76672  L 371.7 179.76672  z " clip-path="url(#p9735536979)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="199.332" y="67.125" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_1"><tspan x="199.332" dy="0">Internal</tspan></text><text x="314.244" y="67.125" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_2"><tspan x="314.244" dy="0">External</tspan></text><text x="429.156" y="67.125" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_3"><tspan x="429.156" dy="0">Joint</tspan></text><text x="17.388" y="165.461" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_4"><tspan x="17.388" dy="0">Company decisions</tspan></text><text x="314.244" y="158.281" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_5"><tspan x="314.244" dy="0">Company confirms rules, authorization, and</tspan><tspan x="314.244" dy="14.16">acceptance in all three</tspan></text><text x="17.388" y="274.28" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_6"><tspan x="17.388" dy="0">Building effort</tspan></text><text x="199.332" y="267.1" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_7"><tspan x="199.332" dy="0">Ongoing internal</tspan><tspan x="199.332" dy="14.16">development</tspan></text><text x="314.244" y="267.1" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_8"><tspan x="314.244" dy="0">Check product</tspan><tspan x="314.244" dy="14.16">boundaries</tspan></text><text x="429.156" y="260.02" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_9"><tspan x="429.156" dy="0">Define</tspan><tspan x="429.156" dy="14.16">interfaces</tspan><tspan x="429.156" dy="14.16">jointly</tspan></text><text x="17.388" y="383.099" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_10"><tspan x="17.388" dy="0">Ongoing maintenance</tspan></text><text x="199.332" y="368.84" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_11"><tspan x="199.332" dy="0">Retain</tspan><tspan x="199.332" dy="14.16">engineering</tspan><tspan x="199.332" dy="14.16">capability</tspan></text><text x="314.244" y="375.92" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_12"><tspan x="314.244" dy="0">Check support</tspan><tspan x="314.244" dy="14.16">scope</tspan></text><text x="429.156" y="375.92" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_13"><tspan x="429.156" dy="0">Verify takeover</tspan><tspan x="429.156" dy="14.16">capability</tspan></text><text x="252" y="464.614" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_14"><tspan x="252" dy="0">Cells distinguish work scope, not merit or cost level</tspan></text></svg>

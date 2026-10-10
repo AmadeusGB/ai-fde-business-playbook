@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="426.24pt" viewBox="0 0 504.0 426.24" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:14.764444</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p8922eb4039">
+   <rect x="12.6" y="9.216" width="478.8" height="211.968"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 230.4  L 504 230.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 31.752 55.84896  L 472.248 55.84896  " clip-path="url(#p8922eb4039)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 134.247025 168.64022  Q 192.147867 181.969429 248.632313 194.972573  " clip-path="url(#p8922eb4039)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 244.838012 191.841554  L 248.632313 194.972573  L 243.850917 196.129402  z " clip-path="url(#p8922eb4039)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 369.752975 168.64022  Q 311.852133 181.969429 255.367687 194.972573  " clip-path="url(#p8922eb4039)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 260.149083 196.129402  L 255.367687 194.972573  L 259.161988 191.841554  z " clip-path="url(#p8922eb4039)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="252.0" y="58.947" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_1"><tspan x="252.0" dy="0">Agree together: task, period, quality, version</tspan></text><text x="132.3" y="164.289" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="15.0" text-anchor="middle" id="text_2"><tspan x="132.3" dy="0">Original-process</tspan><tspan x="132.3" dy="17.7">baseline</tspan></text><text x="132.3" y="221.896" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_3"><tspan x="132.3" dy="0">Separate handling, waiting,</tspan><tspan x="132.3" dy="14.16">and rework; retain unfinished</tspan><tspan x="132.3" dy="14.16">tasks</tspan></text><text x="371.7" y="173.139" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="15.0" text-anchor="middle" id="text_4"><tspan x="371.7" dy="0">Controlled trial</tspan></text><text x="371.7" y="221.896" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_5"><tspan x="371.7" dy="0">Same definitions; record added</tspan><tspan x="371.7" dy="14.16">review, exceptions, and</tspan><tspan x="371.7" dy="14.16">support</tspan></text><text x="252.0" y="395.008" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_6"><tspan x="252.0" dy="0">Before comparing: has scope or task difficulty changed?</tspan></text></svg>

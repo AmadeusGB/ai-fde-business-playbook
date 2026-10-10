@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="506.1600000000001pt" viewBox="0 0 504.0 506.1600000000001" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:13.320584</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pd48b7154de">
+   <rect x="12.6" y="8.208" width="478.8" height="257.184"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6  L 504 273.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.964 249.96096  L 477.036 249.96096  L 477.036 23.63904  L 26.964 23.63904  L 26.964 249.96096  z " clip-path="url(#pd48b7154de)" style="fill: none; stroke: #98522e; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 70.056 147.08736  L 165.816 147.08736  " clip-path="url(#pd48b7154de)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 204.12 147.08736  L 299.88 147.08736  " clip-path="url(#pd48b7154de)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 338.184 147.08736  L 433.944 147.08736  " clip-path="url(#pd48b7154de)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 132.3 221.67072  L 228.06 221.67072  " clip-path="url(#pd48b7154de)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 275.94 221.67072  L 371.7 221.67072  " clip-path="url(#pd48b7154de)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="252.0" y="97.444" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_1"><tspan x="252.0" dy="0">Retain the original process and exception takeover</tspan></text><text x="117.936" y="221.621" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_2"><tspan x="117.936" dy="0">Task</tspan></text><text x="252.0" y="221.621" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_3"><tspan x="252.0" dy="0">People</tspan></text><text x="386.064" y="221.621" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_4"><tspan x="386.064" dy="0">Data</tspan></text><text x="180.18" y="359.6" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_5"><tspan x="180.18" dy="0">Permissions</tspan></text><text x="316.82" y="351.34" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_6"><tspan x="316.82" dy="0">Observation</tspan><tspan x="316.82" dy="16.52">period</tspan></text></svg>

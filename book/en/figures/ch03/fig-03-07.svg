@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="259.2pt" viewBox="0 0 504 259.2" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:11.816808</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 148.252597 111.332051  Q 175.390092 90.617776 201.461126 70.71754  " clip-path="url(#p8a2f95697c)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 196.18944 71.72219  L 201.461126 70.71754  L 199.101834 75.537679  z " clip-path="url(#p8a2f95697c)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 148.189474 135.766745  Q 175.391769 158.837564 201.570866 181.040588  " clip-path="url(#p8a2f95697c)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 199.462522 176.105521  L 201.570866 181.040588  L 196.357806 179.766223  z " clip-path="url(#p8a2f95697c)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 321.034403 58.94208  Q 333.397275 58.94208 344.418507 58.94208  " clip-path="url(#p8a2f95697c)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 339.618507 56.54208  L 344.418507 58.94208  L 339.618507 61.34208  z " clip-path="url(#p8a2f95697c)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 321.034403 195.38496  Q 333.397275 195.38496 344.418507 195.38496  " clip-path="url(#p8a2f95697c)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 339.618507 192.98496  L 344.418507 195.38496  L 339.618507 197.78496  z " clip-path="url(#p8a2f95697c)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 410.004 159.271401  Q 410.004 127.162412 410.004 96.395064  " clip-path="url(#p8a2f95697c)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 407.604 101.195064  L 410.004 96.395064  L 412.404 101.195064  z " clip-path="url(#p8a2f95697c)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="84.4" y="123.4" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle"><tspan x="84.4" y="123.4">Task enters</tspan></text></g>
+   <g id="text_2">
+    <text x="256.8" y="54.1" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle"><tspan x="256.8" y="54.1">Automatic</tspan><tspan x="256.8" y="70.9">processing</tspan></text></g>
+   <g id="text_3">
+    <text x="410" y="54.5" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle"><tspan x="410" y="54.5">Consolidate</tspan><tspan x="410" y="70.1">results</tspan></text></g>
+   <g id="text_4">
+    <text x="256.8" y="199.0" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle"><tspan x="256.8" y="199.0">Exception alert</tspan></text></g>
+   <g id="text_5">
+    <text x="410" y="198.7" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle"><tspan x="410" y="198.7">Human checks</tspan></text></g>
+   <g id="text_6">
+    <text x="252" y="15.5" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle"><tspan x="252" y="15.5">Both paths together complete the work</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8a2f95697c">
+   <rect x="12.6" y="7.776" width="478.8" height="243.648"/>
+  </clipPath>
+ </defs>
+</svg>

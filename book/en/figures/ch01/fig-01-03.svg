@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="374.173228pt" height="216pt" viewBox="0 0 374.173228 216" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 216 
+L 374.173228 216 
+L 374.173228 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 7.483465 164.16 
+L 76.705512 164.16 
+" clip-path="url(#p215dbabc46)" style="fill: none; stroke: #252d29; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 76.705512 164.16 
+L 76.705512 138.24 
+" clip-path="url(#p215dbabc46)" style="fill: none; stroke: #252d29; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 80.447244 138.24 
+L 149.669291 138.24 
+" clip-path="url(#p215dbabc46)" style="fill: none; stroke: #252d29; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 149.669291 138.24 
+L 149.669291 112.32 
+" clip-path="url(#p215dbabc46)" style="fill: none; stroke: #252d29; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 153.411024 112.32 
+L 222.633071 112.32 
+" clip-path="url(#p215dbabc46)" style="fill: none; stroke: #252d29; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 222.633071 112.32 
+L 222.633071 86.4 
+" clip-path="url(#p215dbabc46)" style="fill: none; stroke: #252d29; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 226.374803 86.4 
+L 295.59685 86.4 
+" clip-path="url(#p215dbabc46)" style="fill: none; stroke: #252d29; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 295.59685 86.4 
+L 295.59685 60.48 
+" clip-path="url(#p215dbabc46)" style="fill: none; stroke: #252d29; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 299.338583 60.48 
+L 368.56063 60.48 
+" clip-path="url(#p215dbabc46)" style="fill: none; stroke: #252d29; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a4532b" x="9.354331" y="130.897852" transform="rotate(-0 9.354331 130.897852)">01</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #252d29" x="9.354331" y="150.168281" transform="rotate(-0 9.354331 150.168281)">Procurement</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(9.354331 180.345656)">Budget, people,</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(9.354331 191.655656)">permissions</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a4532b" x="82.31811" y="104.977852" transform="rotate(-0 82.31811 104.977852)">02</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #252d29" x="82.31811" y="124.389875" transform="rotate(-0 82.31811 124.389875)">Go live</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(82.31811 154.425656)">Operating</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(82.31811 166.578469)">records</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a4532b" x="155.28189" y="79.057852" transform="rotate(-0 155.28189 79.057852)">03</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #252d29" x="155.28189" y="97.578625" transform="rotate(-0 155.28189 97.578625)">Adoption</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(155.28189 128.505656)">Actual usage</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(155.28189 140.658469)">records</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a4532b" x="228.245669" y="53.137852" transform="rotate(-0 228.245669 53.137852)">04</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(228.245669 66.569875)">Business</text>
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(228.245669 78.264656)">outcomes</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(228.245669 102.585656)">Compare with</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(228.245669 113.895656)">previous work</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a4532b" x="301.209449" y="27.217852" transform="rotate(-0 301.209449 27.217852)">05</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(301.209449 40.649875)">Renewal or</text>
+    <text style="font-size: 9.2px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(301.209449 51.718625)">replication</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(301.209449 77.37457)">Reasons to</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #59635d" transform="translate(301.209449 87.975656)">invest again</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #59635d" x="7.483465" y="209.705469" transform="rotate(-0 7.483465 209.705469)">Check each evidence set; step height does not measure value.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p215dbabc46">
+   <rect x="0" y="0" width="374.173228" height="216"/>
+  </clipPath>
+ </defs>
+</svg>

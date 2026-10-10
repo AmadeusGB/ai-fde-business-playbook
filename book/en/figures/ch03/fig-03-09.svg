@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504pt" height="244.8pt" viewBox="0 0 504 244.8" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:28.003396</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 244.8  L 504 244.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 249.214403 76.3776  Q 261.577275 76.3776 272.598507 76.3776  " clip-path="url(#p811ed3f285)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 267.798507 73.9776  L 272.598507 76.3776  L 267.798507 78.7776  z " clip-path="url(#p811ed3f285)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 26.964 106.29216  L 477.036 106.29216  " clip-path="url(#p811ed3f285)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 249.214403 138.50784  Q 261.577275 138.50784 272.598507 138.50784  " clip-path="url(#p811ed3f285)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 267.798507 136.10784  L 272.598507 138.50784  L 267.798507 140.90784  z " clip-path="url(#p811ed3f285)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 26.964 168.4224  L 477.036 168.4224  " clip-path="url(#p811ed3f285)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 249.214403 200.63808  Q 261.577275 200.63808 272.598507 200.63808  " clip-path="url(#p811ed3f285)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 267.798507 198.23808  L 272.598507 200.63808  L 267.798507 203.03808  z " clip-path="url(#p811ed3f285)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="80.9676" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="18.0" text-anchor="start"><tspan x="26.964" y="80.9676">01</tspan></text></g>
+   <g id="text_2">
+    <text x="26.964" y="143.09784" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="18.0" text-anchor="start"><tspan x="26.964" y="143.09784">02</tspan></text></g>
+   <g id="text_3">
+    <text x="26.964" y="205.22808" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="18.0" text-anchor="start"><tspan x="26.964" y="205.22808">03</tspan></text></g>
+   <g id="text_4">
+    <text x="27" y="31.9" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="start"><tspan x="27" y="31.9">First check how far execution went</tspan></text></g>
+   <g id="text_5">
+    <text x="295.1" y="22.9" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="start"><tspan x="295.1" y="22.9">Then decide how to take</tspan><tspan x="295.1" y="40.9">over</tspan></text></g>
+   <g id="text_6">
+    <text x="74.8" y="79.4" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start"><tspan x="74.8" y="79.4">Candidate matches only</tspan></text></g>
+   <g id="text_7">
+    <text x="295.1" y="72.2" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start"><tspan x="295.1" y="72.2">Withdraw suggestion; review</tspan><tspan x="295.1" y="86.6">evidence</tspan></text></g>
+   <g id="text_8">
+    <text x="74.8" y="141.6" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start"><tspan x="74.8" y="141.6">Reconciliation status written</tspan></text></g>
+   <g id="text_9">
+    <text x="295.1" y="141.6" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start"><tspan x="295.1" y="141.6">Correct status; keep records</tspan></text></g>
+   <g id="text_10">
+    <text x="74.8" y="196.5" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start"><tspan x="74.8" y="196.5">Payment or notification</tspan><tspan x="74.8" y="210.9">triggered</tspan></text></g>
+   <g id="text_11">
+    <text x="295.1" y="196.5" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start"><tspan x="295.1" y="196.5">Contact those involved; check</tspan><tspan x="295.1" y="210.9">impact</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p811ed3f285">
+   <rect x="12.6" y="7.344" width="478.8" height="230.112"/>
+  </clipPath>
+ </defs>
+</svg>

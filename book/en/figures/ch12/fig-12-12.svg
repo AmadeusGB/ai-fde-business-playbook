@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="252pt" viewBox="0 0 504 252" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 148.66465 44.667  Q 163.424005 44.667 176.729917 44.667  " clip-path="url(#p6f6496eeaf)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 172.329917 42.467  L 176.729917 44.667  L 172.329917 46.867  z " clip-path="url(#p6f6496eeaf)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 321.03265 44.667  Q 335.792005 44.667 349.097917 44.667  " clip-path="url(#p6f6496eeaf)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 344.697917 42.467  L 349.097917 44.667  L 344.697917 46.867  z " clip-path="url(#p6f6496eeaf)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 84.42 104.307339  Q 84.42 121.907588 84.42 138.054392  " clip-path="url(#p6f6496eeaf)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 86.62 133.654392  L 84.42 138.054392  L 82.22 133.654392  z " clip-path="url(#p6f6496eeaf)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 252 104.307339  Q 252 121.907588 252 138.054392  " clip-path="url(#p6f6496eeaf)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 254.2 133.654392  L 252 138.054392  L 249.8 133.654392  z " clip-path="url(#p6f6496eeaf)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 419.58 104.307339  Q 419.58 121.907588 419.58 138.054392  " clip-path="url(#p6f6496eeaf)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 421.78 133.654392  L 419.58 138.054392  L 417.38 133.654392  z " clip-path="url(#p6f6496eeaf)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 31.752 194.544  L 467.46 194.544  L 467.46 148.428  L 31.752 148.428  z " clip-path="url(#p6f6496eeaf)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="47.727" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="26.964" dy="0">Contract / order</tspan></text></g>
+   <g id="text_2">
+    <text x="26.964" y="82.005" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="26.964" dy="0">Procurement scope and ID</tspan></text></g>
+   <g id="text_3">
+    <text x="194.544" y="47.727" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="194.544" dy="0">Invoice / payment</tspan></text></g>
+   <g id="text_4">
+    <text x="194.544" y="82.005" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="194.544" dy="0">Service period and amount</tspan></text></g>
+   <g id="text_5">
+    <text x="362.124" y="47.727" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="362.124" dy="0">Delivery / use</tspan></text></g>
+   <g id="text_6">
+    <text x="362.124" y="75.625" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="362.124" dy="0">Purpose and work</tspan><tspan x="362.124" dy="12.76">records</tspan></text></g>
+   <g id="text_7">
+    <text x="252.000" y="174.291" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="252.000" dy="0">Project cost table: same period and scope; explicit allocation basis</tspan></text></g>
+   <g id="text_8">
+    <text x="252.000" y="232.101" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="252.000" dy="0">List cash spending, internal labor valuation, and one-time investment separately</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6f6496eeaf">
+   <rect x="12.6" y="10.08" width="478.8" height="230.58"/>
+  </clipPath>
+ </defs>
+</svg>

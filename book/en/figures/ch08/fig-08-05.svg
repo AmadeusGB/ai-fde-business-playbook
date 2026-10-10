@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="465" viewBox="0 0 900 465">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#24564b"/></marker></defs>
+<rect width="900" height="465" fill="white"/>
+<g stroke="#bfc9c0" stroke-width="2"><path d="M150 20H875M150 160H875M150 175H875M150 300H875M150 315H875M150 420H875"/></g>
+<g fill="#f1f4ef" stroke="#bfc9c0" stroke-width="2"><rect x="165" y="55" width="170" height="70"/><rect x="390" y="55" width="175" height="70"/><rect x="665" y="55" width="190" height="70"/><rect x="485" y="205" width="190" height="70"/><rect x="725" y="335" width="150" height="70"/></g>
+<g fill="none" stroke="#24564b" stroke-width="2.3" marker-end="url(#arrow)"><path d="M335 90H382"/><path d="M478 125L540 198"/><path d="M630 205L715 130" stroke-dasharray="8 5"/><path d="M790 125L800 328"/></g>
+<path d="M352 261L475 242" fill="none" stroke="#b6572b" stroke-width="2" stroke-dasharray="5 4"/>
+<g font-family="Arial, sans-serif" font-size="22" fill="#252c29">
+<text x="25" y="97" fill="#24564b">Finance</text><text x="25" y="242" fill="#24564b">Business</text><text x="25" y="378" fill="#24564b">Confirmer</text>
+<text x="250" y="84" text-anchor="middle"><tspan x="250">Receive</tspan><tspan x="250" dy="26">sheet</tspan></text>
+<text x="478" y="84" text-anchor="middle"><tspan x="478">Check</tspan><tspan x="478" dy="26">discrepancy</tspan></text>
+<text x="580" y="234" text-anchor="middle"><tspan x="580">Add</tspan><tspan x="580" dy="26">explanation</tspan></text>
+<text x="760" y="84" text-anchor="middle"><tspan x="760">Make</tspan><tspan x="760" dy="26">judgment</tspan></text>
+<text x="800" y="378" text-anchor="middle">Confirm</text>
+<text x="345" y="285" fill="#b6572b">Wait for reply</text>
+<text x="160" y="451" font-size="21" fill="#58615c">Each handoff needs a recipient, materials, and a condition for resuming</text>
+</g></svg>

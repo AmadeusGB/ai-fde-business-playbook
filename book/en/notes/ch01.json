@@ -1,0 +1,42 @@
+[
+  {
+    "note": 1,
+    "publication_text": "The five decision gates are an analytical framework developed by the author from the research. They distinguish whether resources are in place, the system works, employees use it, work changes, and further investment is justified. Projects may pause, narrow their scope, or end; they do not have to keep expanding. The service company, replacement-part tickets, test designs, and working-time figures are teaching examples, not records of a real client project.",
+    "urls": []
+  },
+  {
+    "note": 2,
+    "publication_text": "US Department of Homeland Security (DHS), Federal Emergency Management Agency AI Use Cases, PARC entry (DHS-254). This chapter uses the entry to describe the project's purpose and its archived status of \"Retired.\" That status does not establish the reason for retirement or the exact date use ended.",
+    "urls": [
+      "https://www.dhs.gov/ai/use-case-inventory/fema"
+    ]
+  },
+  {
+    "note": 3,
+    "publication_text": "DHS, annual accomplishments announcement dated January 17, 2025, section on generative AI pilots. The announcement covers three pilots and does not separately state what PARC achieved.",
+    "urls": [
+      "https://www.dhs.gov/archive/news/2025/01/17/dhs-strengthened-and-innovated-leveraged-new-partnerships-and-invested-workforce"
+    ]
+  },
+  {
+    "note": 4,
+    "publication_text": "GAO, Artificial Intelligence Acquisitions: Agencies Should Collect and Apply Lessons Learned to Improve Future Procurements, GAO-26-107859, April 13, 2026, printed page 34 (PDF page 38), Table 4. February 2026 is the month in which officials reported the retired status; it does not establish that the system stopped being used that month.",
+    "urls": [
+      "https://files.gao.gov/reports/GAO-26-107859/index.html"
+    ]
+  },
+  {
+    "note": 5,
+    "publication_text": "Morgan Stanley Wealth Management, Insights & Outcomes, Volume 6, 2023, printed pages 36-37 (PDF page 19). This chapter uses the report to describe the Assistant's role in internal information retrieval.",
+    "urls": [
+      "https://www.morganstanley.com/cs/pdf/FOR-Insights-and-Outcomes-VOL6-layout-ebook-digital.pdf"
+    ]
+  },
+  {
+    "note": 6,
+    "publication_text": "OpenAI, Morgan Stanley uses AI evals to shape the future of financial services, checked September 17, 2026. The evaluation and testing practices appear in the sections \"Building a foundation\" and \"Strengthening trust.\" The figure of more than 98% refers to advisor teams. This is a vendor case study. It does not provide underlying data that would allow independent verification of the adoption rate, nor does it fully explain the measurement period or the relationship between evaluation practices and financial results.",
+    "urls": [
+      "https://openai.com/index/morgan-stanley/"
+    ]
+  }
+]

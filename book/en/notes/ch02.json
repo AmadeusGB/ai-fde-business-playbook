@@ -1,0 +1,52 @@
+[
+  {
+    "note": 1,
+    "publication_text": "Palantir careers directory, Internet Archive snapshot dated March 31, 2009. See the International section. “Earliest” refers to the materials verified for this book, not a claim of worldwide invention.",
+    "urls": [
+      "https://web.archive.org/web/20090331102704id_/http://www.palantirtech.com/careers/positions"
+    ]
+  },
+  {
+    "note": 2,
+    "publication_text": "US Department of Labor, FY2009 H-1B data, case I-09093-4887487. A filing is not an employee census.",
+    "urls": [
+      "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/H-1B_Case_Data_FY2009.xlsx"
+    ]
+  },
+  {
+    "note": 3,
+    "publication_text": "Palantir, GovCon 6 Program Guide, 2010. The company's original document is preserved in a public archive and is used here to verify job titles.",
+    "urls": [
+      "https://www.wikileaks.org/hbgary-emails//fileid/7654/2783"
+    ]
+  },
+  {
+    "note": 4,
+    "publication_text": "Two snapshots of the same Palantir job listing. They do not establish a company-wide date for a title change.",
+    "urls": [
+      "https://web.archive.org/web/20130116134716id_/http://www.palantir.com/careers/OpenPosDetail?id=a0m80000000gtfMAAQ",
+      "https://web.archive.org/web/20130219045039id_/http://www.palantir.com/careers/OpenPosDetail?id=a0m80000000gtfMAAQ"
+    ]
+  },
+  {
+    "note": 5,
+    "publication_text": "Chris Neumann, retrospective on his work at Aster Data, July 15, 2026. A first-person recollection years later, not contemporaneous evidence of naming.",
+    "urls": [
+      "https://chrisneumann.com/archives/what-is-a-forward-deployed-engineer"
+    ]
+  },
+  {
+    "note": 6,
+    "publication_text": "MemSQL FDE recruiting page, snapshot dated September 21, 2014. Used only to discuss responsibilities and the spread of the title.",
+    "urls": [
+      "https://web.archive.org/web/20140921060337id_/http://boards.greenhouse.io/memsql/jobs/16862"
+    ]
+  },
+  {
+    "note": 7,
+    "publication_text": "Palantir, Deployment Strategist job posting. Roles can change as recruitment needs change. This chapter describes responsibilities from the preserved page, not an industry-wide standard.",
+    "urls": [
+      "https://jobs.lever.co/palantir/e0ab8226-b928-4e3a-bf87-08fe7b1ea595"
+    ]
+  }
+]

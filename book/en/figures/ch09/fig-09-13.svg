@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="424.08000000000004pt" viewBox="0 0 504.0 424.08000000000004" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:19.131612</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p1ddc9302b7">
+   <rect x="12.6" y="10.944" width="478.8" height="251.712"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6  L 504 273.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 177.393527 63.80352  Q 218.48412 63.80352 258.12127 63.80352  " clip-path="url(#p1ddc9302b7)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 253.72127 61.60352  L 258.12127 63.80352  L 253.72127 66.00352  z " clip-path="url(#p1ddc9302b7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 366.912 128.732741  Q 366.912 143.093992 366.912 156.001799  " clip-path="url(#p1ddc9302b7)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 369.112 151.601799  L 366.912 156.001799  L 364.712 151.601799  z " clip-path="url(#p1ddc9302b7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 259.573889 194.69376  Q 220.877606 194.69376 183.634767 194.69376  " clip-path="url(#p1ddc9302b7)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 188.034767 196.89376  L 183.634767 194.69376  L 188.034767 192.49376  z " clip-path="url(#p1ddc9302b7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 89.208 152.419541  Q 89.208 136.800034 89.208 122.633972  " clip-path="url(#p1ddc9302b7)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 87.008 127.033972  L 89.208 122.633972  L 91.408 127.033972  z " clip-path="url(#p1ddc9302b7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="26.964" y="100.527" font-size="14.00" style="fill: #24564b" data-source-index="1"><tspan x="26.964" dy="0">Error found</tspan></text><text x="26.964" y="165.668" font-size="12.00" style="fill: #58615c" data-source-index="2"><tspan x="26.964" dy="0">Locate affected tasks</tspan></text><text x="275.940" y="100.527" font-size="14.00" style="fill: #24564b" data-source-index="3"><tspan x="275.940" dy="0">Business confirmation</tspan></text><text x="275.940" y="165.668" font-size="12.00" style="fill: #58615c" data-source-index="4"><tspan x="275.940" dy="0">Revision scope and version</tspan></text><text x="275.940" y="303.407" font-size="14.00" style="fill: #24564b" data-source-index="5"><tspan x="275.940" dy="0">Release update</tspan></text><text x="275.940" y="368.548" font-size="12.00" style="fill: #58615c" data-source-index="6"><tspan x="275.940" dy="0">Invalidate index / cache</tspan></text><text x="26.964" y="303.407" font-size="14.00" style="fill: #24564b" data-source-index="7"><tspan x="26.964" dy="0">Regression check</tspan></text><text x="26.964" y="368.548" font-size="12.00" style="fill: #58615c" data-source-index="8"><tspan x="26.964" dy="0">New and historical tasks</tspan></text></g></svg>

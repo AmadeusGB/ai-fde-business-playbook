@@ -1,0 +1,121 @@
+zh,en,context,avoid,status
+把AI带进经营,Bringing AI into Business Operations,暂用英文书名待作者定稿,AI Landing in Management,provisional
+经营,business operations,业务运行及组织安排,operation management everywhere,contextual
+经营结果,business outcomes,客户或企业实际获得的变化,model performance,preferred
+经营分析,economic analysis,收入成本劳动与经营可持续性,business analysis everywhere,contextual
+老板,business owner,所有者本人作经营决定,boss,contextual
+经营负责人,business leader,承担经营责任的管理者,boss,contextual
+业务负责人,business lead,对指定业务负责的人非必然股东,business owner automatically,preferred
+老师傅,experienced technician,售后教学场景中的经验技术人员,master,preferred
+售后工程师,service engineer,工业设备售后技术服务,after sales engineer,preferred
+工单,service ticket,第一章售后任务记录,work order everywhere,contextual
+前线部署工程师,forward deployed engineer,首次完整写明后用FDE,frontline deployment engineer,preferred
+FDE,FDE,人类工程角色另与软件命名区分,agent automatically,preferred
+AI数字岗位,AI digital role,职责规则权限和人工复核组成的岗位设计,digital employee automatically,preferred
+智能体,software agent,软件系统对象,employee automatically,preferred
+五道闸门,five decision gates,作者分析框架,five universal maturity stages,preferred
+采购,procurement,第一章资源到位阶段,purchase only,contextual
+上线,go live,真实工作环境中运行的阶段,model release automatically,preferred
+采用,adoption,实际工作中的使用,login count,preferred
+结果,business outcomes,五道闸门中的工作变化,outputs automatically,contextual
+续费或复制,renewal or replication,继续投入或移交另一环境,automatic scaling,preferred
+复核,review,核对AI输出与适用条件,audit everywhere,contextual
+返工,rework,错误或不合要求后的重复劳动,review automatically,preferred
+人工接手,human takeover,任务由人继续处理,human in the loop everywhere,preferred
+批准权,approval authority,有权批准具体业务处理,management power,preferred
+资料与说明,Notes and sources,章末引用及边界,references only,preferred
+行动工具,worksheet,可填写的业务工具,action tool,preferred
+教学示例,teaching example,作者设计非真实客户记录,case study without qualifier,preferred
+教学算例,illustrative calculation,假设数据和明确计算条件,proven savings,preferred
+工作说明书,statement of work,首次写statement of work (SOW),job description,preferred
+人员补充,staff augmentation,外部工程师进入客户带队的团队,managed delivery automatically,preferred
+服务商带队交付,provider managed delivery,服务商组织约定范围的工程工作,profit sharing,preferred
+交付物,deliverable,可检查接收的项目成果,delivery item,preferred
+验收,acceptance,接收交付物的检查与确认,inspection everywhere,contextual
+毛利率,gross margin,收入与相应营业成本口径,net profit margin,preferred
+项目贡献,project contribution,管理分析口径须列扣减项,net profit,preferred
+续约,renewal,合同继续服务,retention automatically,preferred
+采购人,procuring entity,中国公共采购案例中的购买主体,purchasing agent,preferred
+采购代理机构,procurement agency,与经销商和实施商分开,reseller,preferred
+经销商,reseller,软件销售渠道,procurement agency,contextual
+集成服务商,systems integrator,组织系统集成与依赖,product vendor automatically,preferred
+原厂,product vendor,产品能力与原厂支持,original factory,preferred
+责任接口,handover responsibilities,交什么接什么及争议决定者,responsibility interface,preferred
+私有化部署,deployment in a customer controlled environment,按实际架构细化为on premises或private cloud,privatization,contextual
+信创,Xinchuang,首次解释项目中的国内IT兼容条件,universal compliance rule,preferred
+万元,"RMB 10,000",Explicit currency unit for table/figure values; prose may expand into whole RMB. Do not apply the unit multiplier twice.,ten thousand without currency,preferred
+需求发现,discovery,Chapter 2: investigate the complete work and its conditions before solution commitments,requirements gathering as complete equivalent,edition reviewed
+客户专用工作,customer-specific work,Chapter 2: customer-specific modifications and interfaces,customization that implies all changes are reusable,edition reviewed
+交付能力交接,delivery capability handover,Chapter 2 worksheet: recipient repeats task and handles exception,document handover as complete equivalent,edition reviewed
+计数单位,counting unit,"Chapter 3: configurations, licenses, processes, and people are different units",headcount automatically,edition reviewed
+冲销,clear through offsetting entries,Chapter 3: accounting correction subject to business approval,rollback as a complete equivalent,edition reviewed
+数字员工,digital employee,Chapter 3: preserve the source or procurement label while distinguishing software counts from people,AI digital role as a universal replacement for a source label,edition reviewed
+工日,person-day,Chapter 2: cumulative human effort within one calendar month; 100 person-days total,workday when interpreted as elapsed calendar duration,edition reviewed
+问题卡,problem card,Chapter 4 task definition and selection,problem ticket,edition reviewed
+受控试点,controlled pilot,Chapter 4 authorization and narrow real-work scope,proof of success,edition reviewed
+离线验证,offline validation,Historical or de-identified samples without live business actions,production pilot,edition reviewed
+受控试运行,controlled trial operation,Chapters 5–6 real operation within approved scope,shadow operation automatically,edition reviewed
+风险可控性,risk controllability,Chapter 4 score increases as controllability improves,risk level scored as merit,edition reviewed
+数据准备,data readiness,Authorized task-relevant information and versions,data volume,edition reviewed
+组织配合,organizational cooperation,Actual staff time and business participation,general enthusiasm,edition reviewed
+基线,baseline,Original complete-task records and conditions,benchmark automatically,edition reviewed
+内部资源估值,internal resource valuation,Staff time valued for resource comparison,additional cash cost,edition reviewed
+退出移交预留,exit and handover reserve,Part of cash ceiling potentially unused,paid expense,edition reviewed
+可兑现比例,cash-realizable share,Chapter 5 c is share replacing paid external work,adoption share,edition reviewed
+净节时,net time saved,Already deducts added review and rework,gross time saved,edition reviewed
+停止权,stop authority,Permission to halt specified actions under agreed conditions,veto over all projects,edition reviewed
+恢复权,authority to resume,Confirmation needed after repairs,resumption by repairer automatically,edition reviewed
+内部带头人,internal champion,Authorized bounded coordination with a substitute,sole owner of all support,edition reviewed
+业务验收,business acceptance,Authorized business confirmation separate from technical release,technical testing only,edition reviewed
+生产发布,production release,Approved technical release to production,model deployment automatically,edition reviewed
+候选差异清单,candidate discrepancy list,Proposed settlement discrepancies awaiting finance confirmation,confirmed discrepancies,edition reviewed
+核销,settlement adjustment,The fictional settlement workflow's business action; kept separate from payment,automatic payment,edition reviewed
+响应,response,Staff begin initial investigation; service-hours clock,response as full repair,edition reviewed
+恢复,restoration,Work can continue using an approved route; distinct from permanent resolution,resolution,edition reviewed
+解决,resolution,Problem repaired and verified as agreed,first reply,edition reviewed
+尾项,outstanding items,Remaining agreed delivery work; critical unauthorized actions are excluded,minor defects automatically,edition reviewed
+历时,elapsed time,Task start to end including waits,labor time,edition reviewed
+处理工时,processing labor time,Actual human processing distinct from elapsed time,elapsed hours,edition reviewed
+工作情境,work context,Materials constraints collaborators and consequences at the time of a task,workplace location only,edition reviewed
+企业经营记忆,organizational business memory,Author-defined governed and traceable rules facts cases and confirmed feedback,all chat history,edition reviewed
+检索增强生成,retrieval-augmented generation,Retrieve task materials before model synthesis,RAG as guaranteed truth,edition reviewed
+幂等处理,idempotent handling,Prevent the same request from producing duplicate effects through endpoint support,prompt to avoid retrying,edition reviewed
+执行键,execution key,Stable request identifier for lookup and duplicate recognition,model confidence,edition reviewed
+状态未知,unknown status,Outcome not yet established after timeout,failed execution automatically,edition reviewed
+批准失效,approval invalidated,Changed object/version or expired approval must be reconfirmed,continuing authorization,edition reviewed
+生产准入,production admission,approval for a particular version task scope and permissions,universal certification,edition reviewed
+影子运行,shadow operation,authorized real inputs with isolated outputs and no business effects,small production pilot,edition reviewed
+受限试点,restricted pilot,designated users tasks and actions under explicit limits,shadow operation,edition reviewed
+代表性样本,representative samples,common tasks sampled from actual work,challenge samples,edition reviewed
+挑战样本,challenge samples,deliberately selected exception and boundary cases,real-world incidence estimate,edition reviewed
+保留验证集,held-out validation set,material not used for the current development adjustments,permanent independent proof,edition reviewed
+查准率,precision,true positives divided by all flagged positives,accuracy,edition reviewed
+查全率,recall,true positives divided by all actual positives,accuracy,edition reviewed
+评分器,grader,evaluation mechanism calibrated against business-confirmed samples,permanent objective standard,edition reviewed
+完整任务,complete task,defined start end scope and final receiving state,model response alone,edition reviewed
+合格交接,qualified handover,task passes specified checks and reaches acceptance,handover notification only,edition reviewed
+固定群体,fixed cohort,initial target people retained across observation periods,total users,edition reviewed
+任务覆盖率,task coverage,AI-process tasks divided by eligible tasks,active user rate,edition reviewed
+总体合格交接覆盖率,overall qualified handover coverage,qualified handovers divided by all eligible tasks,qualified handover rate among used tasks,edition reviewed
+额度,allowance,authorized usage budget with credits where product-specific,automatic budget entitlement,edition reviewed
+净释放工时,net released hours,gross labor reduction less all added related burdens,cash savings,edition reviewed
+可用工时估值,value of available labor hours,resource valuation kept separate from realized cash,cash benefit,edition reviewed
+现金改善,cash improvement,actual avoided spending less added cash spending in stated scope,net profit,edition reviewed
+增量效果,incremental effect,estimated contribution under stated comparison assumptions,before-after change alone,edition reviewed
+累计余额,cumulative balance,monthly cash change including separate startup investment,project net profit,edition reviewed
+候选经验,candidate experience,experience pending organizational review,approved rule,edition reviewed
+现行规则,current rule,approved rule within stated scope and effective period,universal rule,edition reviewed
+反例,counterexample,material triggering rule review rather than automatically invalidating it,automatic disproof,edition reviewed
+组合验证,integrated validation,validate actual combination of systems interfaces formats and permissions,independent component tests,edition reviewed
+统一受理入口,single intake point,routes issues to actual resolver and tracks status,one team handles everything,edition reviewed
+下一笔承诺,next commitment,bounded resource and scope decision,next investment everywhere,edition reviewed
+交付资产,delivery assets,Engineering and organizational delivery assets; not automatically accounting assets,accounting assets automatically,edition reviewed
+适用边界,scope of applicability,"Task, materials, rules, people and version conditions",universal applicability,edition reviewed
+公共建设,shared development,Development for multiple delivery projects; allocated separately,free development,edition reviewed
+公共维护,shared maintenance,Maintenance shared across delivery projects,dedicated support,edition reviewed
+专属支持,dedicated support,Support attributable to the specified project and period,shared maintenance,edition reviewed
+项目批次,project cohort,Comparable projects grouped by delivery start and service age,calendar-year total automatically,edition reviewed
+扣所列成本后的余额,balance after listed costs,"Management analysis remainder after the costs explicitly listed; unlisted expenses excluded, shared costs included only where listed.",net profit,edition reviewed
+原客户群,original client cohort,Same original clients used in retention calculations,all clients including new clients,edition reviewed
+注释与参考资料,Notes and references,Book-end heading; local chapter sections remain Notes and sources,chapter-only notes,edition reviewed
+大模型,large model,Baidu descriptive role translation; source does not specify language-only model,large language model automatically,edition reviewed

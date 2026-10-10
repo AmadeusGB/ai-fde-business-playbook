@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="259.2pt" viewBox="0 0 504 259.2" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:31.375740</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 26.964 49.19616  L 477.036 49.19616  " clip-path="url(#p5a87f55eeb)" style="fill: none; stroke: #252c29; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 26.964 102.79872  L 477.036 102.79872  " clip-path="url(#p5a87f55eeb)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 26.964 151.52832  L 477.036 151.52832  " clip-path="url(#p5a87f55eeb)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 26.964 200.25792  L 477.036 200.25792  " clip-path="url(#p5a87f55eeb)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="27" y="31.6" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="17" text-anchor="start"><tspan x="27" y="31.6">Change record</tspan></text></g>
+   <g id="text_2">
+    <text x="477" y="30.0" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="end"><tspan x="477" y="30.0">Fictional delivery scenario</tspan></text></g>
+   <g id="text_3">
+    <text x="27" y="81.2" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start"><tspan x="27" y="81.2">Original request</tspan></text></g>
+   <g id="text_4">
+    <text x="137.1" y="81.2" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start"><tspan x="137.1" y="81.2">Add customer-specific approval fields</tspan></text></g>
+   <g id="text_5">
+    <text x="27" y="130.0" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start"><tspan x="27" y="130.0">Business purpose</tspan></text></g>
+   <g id="text_6">
+    <text x="137.1" y="130.0" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start"><tspan x="137.1" y="130.0">Keep approval evidence for later reference</tspan></text></g>
+   <g id="text_7">
+    <text x="27" y="178.7" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start"><tspan x="27" y="178.7">Check first</tspan></text></g>
+   <g id="text_8">
+    <text x="137.1" y="178.7" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start"><tspan x="137.1" y="178.7">Can existing configuration retain this information?</tspan></text></g>
+   <g id="text_9">
+    <text x="27" y="216.1" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start"><tspan x="27" y="216.1">If custom</tspan><tspan x="27" y="229.9">development is</tspan><tspan x="27" y="243.7">needed</tspan></text></g>
+   <g id="text_10">
+    <text x="156.2" y="223.0" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="start"><tspan x="156.2" y="223.0">Record the maintainer, upgrade scope, and conditions for</tspan><tspan x="156.2" y="236.8">reconsideration</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5a87f55eeb">
+   <rect x="12.6" y="7.776" width="478.8" height="243.648"/>
+  </clipPath>
+ </defs>
+</svg>

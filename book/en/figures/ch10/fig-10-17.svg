@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504pt" height="158.4pt" viewBox="0 0 504 158.4" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 158.4  L 504 158.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 26.964 117.08928  L 477.036 117.08928  " clip-path="url(#p732697bdf1)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="44.006" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="22.0" text-anchor="start"><tspan x="26.964" dy="0">1</tspan></text></g>
+   <g id="text_2">
+    <text x="65.268" y="41.456" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="65.268" dy="0">Evidence of task quality</tspan></text></g>
+   <g id="text_3">
+    <text x="285.516" y="44.006" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="22.0" text-anchor="start"><tspan x="285.516" dy="0">2</tspan></text></g>
+   <g id="text_4">
+    <text x="323.820" y="41.456" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="323.820" dy="0">Boundary controls validated</tspan></text></g>
+   <g id="text_5">
+    <text x="26.964" y="92.096" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="22.0" text-anchor="start"><tspan x="26.964" dy="0">3</tspan></text></g>
+   <g id="text_6">
+    <text x="65.268" y="89.546" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="65.268" dy="0">Staff have time to take over</tspan></text></g>
+   <g id="text_7">
+    <text x="285.516" y="92.096" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="22.0" text-anchor="start"><tspan x="285.516" dy="0">4</tspan></text></g>
+   <g id="text_8">
+    <text x="323.820" y="89.546" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="323.820" dy="0">Recovery path rehearsed</tspan></text></g>
+   <g id="text_9">
+    <text x="252.000" y="141.061" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.000000000000002" text-anchor="middle"><tspan x="252.000" dy="0">All four support this admission scope</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p732697bdf1">
+   <rect x="12.6" y="6.336" width="478.8" height="145.728"/>
+  </clipPath>
+ </defs>
+</svg>

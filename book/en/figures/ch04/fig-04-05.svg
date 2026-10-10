@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="479.52pt" viewBox="0 0 504.0 479.52" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:20.785970</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p9f46939f59">
+   <rect x="12.6" y="7.776" width="478.8" height="243.648"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 156.24 168.58368  L 347.76 168.58368  L 347.76 95.48928  L 156.24 95.48928  z " clip-path="url(#p9f46939f59)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 114.996395 71.894059  Q 139.483417 82.08923 162.731863 91.768719  " clip-path="url(#p9f46939f59)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 159.223074 87.708128  L 162.731863 91.768719  L 157.378116 92.139395  z " clip-path="url(#p9f46939f59)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 389.003605 71.894059  Q 364.516583 82.08923 341.268137 91.768719  " clip-path="url(#p9f46939f59)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 346.621884 92.139395  L 341.268137 91.768719  L 344.776926 87.708128  z " clip-path="url(#p9f46939f59)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 114.996395 192.178901  Q 139.483417 181.98373 162.731863 172.304241  " clip-path="url(#p9f46939f59)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 157.378116 171.933565  L 162.731863 172.304241  L 159.223074 176.364832  z " clip-path="url(#p9f46939f59)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 389.003605 192.178901  Q 364.516583 181.98373 341.268137 172.304241  " clip-path="url(#p9f46939f59)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 344.776926 176.364832  L 341.268137 172.304241  L 346.621884 171.933565  z " clip-path="url(#p9f46939f59)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="252.0" y="250.872" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_1"><tspan x="252.0" dy="0">Pilot business problem</tspan></text><text x="96.42" y="96.674" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_2"><tspan x="96.42" dy="0">Confirmed definitions</tspan></text><text x="419.0" y="96.674" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_3"><tspan x="419.0" dy="0">Necessary data</tspan></text><text x="85.0" y="403.183" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_4"><tspan x="85.0" dy="0">Business lead</tspan></text><text x="419.0" y="403.183" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_5"><tspan x="419.0" dy="0">System interfaces</tspan></text><text x="252.0" y="46.52" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_6"><tspan x="252.0" dy="0">Schedule other requests separately</tspan></text></svg>

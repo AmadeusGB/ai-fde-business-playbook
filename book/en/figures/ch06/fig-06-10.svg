@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="479.52pt" viewBox="0 0 504.0 479.52" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T11:01:05.636700</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pcb79b6c9b9">
+   <rect x="85.68" y="38.88" width="398.16" height="160.704"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 85.68 199.584  L 483.84 199.584  L 483.84 38.88  L 85.68 38.88  z " style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 85.68 199.584  L 85.68 38.88  " clip-path="url(#pcb79b6c9b9)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m7ab0b290e1" d="M 0 0  L 0 3.5  " style="stroke: #252c29; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7ab0b290e1" x="85.68" y="199.584" style="stroke: #252c29; stroke-width: 0.8"/>
+      </g>
+     </g>
+     </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 185.22 199.584  L 185.22 38.88  " clip-path="url(#pcb79b6c9b9)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m7ab0b290e1" x="185.22" y="199.584" style="stroke: #252c29; stroke-width: 0.8"/>
+      </g>
+     </g>
+     </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 284.76 199.584  L 284.76 38.88  " clip-path="url(#pcb79b6c9b9)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m7ab0b290e1" x="284.76" y="199.584" style="stroke: #252c29; stroke-width: 0.8"/>
+      </g>
+     </g>
+     </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 384.3 199.584  L 384.3 38.88  " clip-path="url(#pcb79b6c9b9)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m7ab0b290e1" x="384.3" y="199.584" style="stroke: #252c29; stroke-width: 0.8"/>
+      </g>
+     </g>
+     </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 483.84 199.584  L 483.84 38.88  " clip-path="url(#pcb79b6c9b9)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m7ab0b290e1" x="483.84" y="199.584" style="stroke: #252c29; stroke-width: 0.8"/>
+      </g>
+     </g>
+     </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     </g>
+    <g id="ytick_3">
+     <g id="line2d_13"/>
+     </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 85.68 82.4256  L 364.392 82.4256  L 364.392 57.5424  L 85.68 57.5424  z " clip-path="url(#pcb79b6c9b9)" style="fill: #58615c"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 364.392 82.4256  L 424.116 82.4256  L 424.116 57.5424  L 364.392 57.5424  z " clip-path="url(#pcb79b6c9b9)" style="fill: #98522e"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 424.116 82.4256  L 483.84 82.4256  L 483.84 57.5424  L 424.116 57.5424  z " clip-path="url(#pcb79b6c9b9)" style="fill: #24564b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 85.68 132.7104  L 145.404 132.7104  L 145.404 110.9376  L 85.68 110.9376  z " clip-path="url(#pcb79b6c9b9)" style="fill: #24564b"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 85.68 184.5504  L 324.576 184.5504  L 324.576 162.7776  L 85.68 162.7776  z " clip-path="url(#pcb79b6c9b9)" style="fill: #252c29"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 85.68 199.584  L 483.84 199.584  " style="fill: none; stroke: #252c29; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 148.52055 147.744  Q 234.990332 147.744 321.460114 147.744  " style="fill: none; stroke: #98522e; stroke-linecap: round"/>
+    <path d="M 152.52055 149.744  L 148.52055 147.744  L 152.52055 145.744  " style="fill: none; stroke: #98522e; stroke-linecap: round"/>
+    <path d="M 317.460114 145.744  L 321.460114 147.744  L 317.460114 149.744  " style="fill: none; stroke: #98522e; stroke-linecap: round"/>
+   </g>
+   </g>
+  </g>
+ </g><text x="85.484" y="397.347" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_1"><tspan x="85.484" dy="0">0</tspan></text><text x="184.829" y="397.347" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_2"><tspan x="184.829" dy="0">10</tspan></text><text x="284.369" y="397.347" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_3"><tspan x="284.369" dy="0">20</tspan></text><text x="383.909" y="397.347" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_4"><tspan x="383.909" dy="0">30</tspan></text><text x="476.5" y="397.347" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_5"><tspan x="476.5" dy="0">40</tspan></text><text x="78" y="129.92" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" id="text_6"><tspan x="78" dy="0">Weekly</tspan><tspan x="78" dy="14.16">allocation</tspan></text><text x="78" y="225.824" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" id="text_7"><tspan x="78" dy="0">Actual</tspan><tspan x="78" dy="14.16">spare time</tspan></text><text x="78" y="321.728" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end" id="text_8"><tspan x="78" dy="0">New project</tspan><tspan x="78" dy="14.16">commitments</tspan></text><text x="227.501" y="134.56" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_9"><tspan x="227.501" dy="0">Existing work 28</tspan></text><text x="394.254" y="116.323" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_10"><tspan x="394.254" dy="0">Support</tspan><tspan x="394.254" dy="14.16">6</tspan></text><text x="453.978" y="123.403" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_11"><tspan x="453.978" dy="0">Spare 6</tspan></text><text x="154.976" y="231.5" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_12"><tspan x="154.976" dy="0">6</tspan></text><text x="337.748" y="327.404" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_13"><tspan x="337.748" dy="0">24</tspan></text><text x="237.503" y="258.941" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_14"><tspan x="237.503" dy="0">Shortfall 18</tspan></text><text x="85.68" y="28.771" fill="#24443b" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_15"><tspan x="85.68" dy="0">Hours/week · all values are teaching assumptions</tspan></text><text x="20.16" y="455.544" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_16"><tspan x="20.16" dy="0">40 − 28 − 6 = 6 available; three projects need 8 hours each, totaling 24</tspan></text></svg>

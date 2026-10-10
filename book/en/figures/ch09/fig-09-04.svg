@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="374.17315pt" height="234.21793630000002pt" viewBox="0 0 374.17315 234.21793630000002" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pbcabd961ff">
+   <rect x="0" y="0" width="374.17315" height="151.108346"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 151.108346  L 374.17315 151.108346  L 374.17315 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.483463 64.976589  L 366.689687 64.976589  L 366.689687 33.243836  L 7.483463 33.243836  z " clip-path="url(#pbcabd961ff)" style="fill: #f1f4ef; stroke: #b6c4b8; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 7.483463 105.775843  L 366.689687 105.775843  L 366.689687 74.04309  L 7.483463 74.04309  z " clip-path="url(#pbcabd961ff)" style="fill: #f1f4ef; stroke: #b6c4b8; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 7.483463 146.575096  L 366.689687 146.575096  L 366.689687 114.842343  L 7.483463 114.842343  z " clip-path="url(#pbcabd961ff)" style="fill: #f1f4ef; stroke: #b6c4b8; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="11.225" y="26.931" font-size="12.00" style="fill: #24443b" data-source-index="1"><tspan x="11.225" dy="0">Check the system for one task</tspan></text><text x="290.948" y="16.000" font-size="12.00" style="fill: #536057" data-source-index="2"><tspan x="290.948" dy="0">Keep gaps</tspan><tspan x="290.948" dy="13.560">visible in</tspan><tspan x="290.948" dy="13.560">each layer</tspan></text><text x="18.709" y="82.202" font-size="12.00" style="fill: #24564b" data-source-index="3"><tspan x="18.709" dy="0">01</tspan></text><text x="52.384" y="83.143" font-size="12.00" style="fill: #24443b" data-source-index="4"><tspan x="52.384" dy="0">Materials and rules</tspan></text><text x="175.861" y="75.721" font-size="12.00" style="fill: #24443b" data-source-index="5"><tspan x="175.861" dy="0">Version, authority, and applicable</tspan><tspan x="175.861" dy="13.560">scope</tspan></text><text x="18.709" y="145.413" font-size="12.00" style="fill: #24564b" data-source-index="6"><tspan x="18.709" dy="0">02</tspan></text><text x="52.384" y="146.382" font-size="12.00" style="fill: #24443b" data-source-index="7"><tspan x="52.384" dy="0">Tasks and actions</tspan></text><text x="175.861" y="139.023" font-size="12.00" style="fill: #24443b" data-source-index="8"><tspan x="175.861" dy="0">Validation, permissions, and</tspan><tspan x="175.861" dy="13.560">status</tspan></text><text x="18.709" y="208.652" font-size="12.00" style="fill: #24564b" data-source-index="9"><tspan x="18.709" dy="0">03</tspan></text><text x="52.384" y="202.802" font-size="12.00" style="fill: #24443b" data-source-index="10"><tspan x="52.384" dy="0">Operation and</tspan><tspan x="52.384" dy="13.560">responsibility</tspan></text><text x="175.861" y="209.050" font-size="12.00" style="fill: #24443b" data-source-index="11"><tspan x="175.861" dy="0">Logs, takeover, and recovery</tspan></text></g></svg>

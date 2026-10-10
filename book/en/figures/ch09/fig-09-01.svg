@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="368.28000000000003pt" viewBox="0 0 504.0 368.28000000000003" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:24.220403</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p580a641f6e">
+   <rect x="12.6" y="9.504" width="478.8" height="218.592"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 237.6  L 504 237.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 110.362403 107.8704  Q 122.725275 107.8704 133.634703 107.8704  " clip-path="url(#p580a641f6e)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 129.234703 105.6704  L 133.634703 107.8704  L 129.234703 110.0704  z " clip-path="url(#p580a641f6e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 230.062403 107.8704  Q 242.425275 107.8704 253.334703 107.8704  " clip-path="url(#p580a641f6e)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 248.934703 105.6704  L 253.334703 107.8704  L 248.934703 110.0704  z " clip-path="url(#p580a641f6e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 349.762403 107.8704  Q 362.125275 107.8704 373.034703 107.8704  " clip-path="url(#p580a641f6e)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 368.634703 105.6704  L 373.034703 107.8704  L 368.634703 110.0704  z " clip-path="url(#p580a641f6e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 26.964 193.12128  L 477.036 193.12128  " clip-path="url(#p580a641f6e)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="26.964" y="91.190" font-size="22.00" style="fill: #98522e" data-source-index="1"><tspan x="26.964" dy="0">1</tspan></text><text x="26.964" y="168.381" font-size="13.00" style="fill: #252c29" data-source-index="2"><tspan x="26.964" dy="0">Evidence</tspan><tspan x="26.964" dy="14.690">applies</tspan></text><text x="26.964" y="239.223" font-size="12.00" style="fill: #58615c" data-source-index="3"><tspan x="26.964" dy="0">Scope and</tspan><tspan x="26.964" dy="13.560">version</tspan></text><text x="146.664" y="91.190" font-size="22.00" style="fill: #98522e" data-source-index="4"><tspan x="146.664" dy="0">2</tspan></text><text x="146.664" y="168.381" font-size="13.00" style="fill: #252c29" data-source-index="5"><tspan x="146.664" dy="0">Advice</tspan><tspan x="146.664" dy="14.690">supported</tspan></text><text x="146.664" y="239.223" font-size="12.00" style="fill: #58615c" data-source-index="6"><tspan x="146.664" dy="0">Explanation</tspan><tspan x="146.664" dy="13.560">and citations</tspan></text><text x="266.364" y="91.190" font-size="22.00" style="fill: #98522e" data-source-index="7"><tspan x="266.364" dy="0">3</tspan></text><text x="266.364" y="168.381" font-size="13.00" style="fill: #252c29" data-source-index="8"><tspan x="266.364" dy="0">Action</tspan><tspan x="266.364" dy="14.690">authorized</tspan></text><text x="266.364" y="239.223" font-size="12.00" style="fill: #58615c" data-source-index="9"><tspan x="266.364" dy="0">Identity and</tspan><tspan x="266.364" dy="13.560">approval</tspan></text><text x="386.064" y="91.190" font-size="22.00" style="fill: #98522e" data-source-index="10"><tspan x="386.064" dy="0">4</tspan></text><text x="386.064" y="168.381" font-size="13.00" style="fill: #252c29" data-source-index="11"><tspan x="386.064" dy="0">Execution</tspan><tspan x="386.064" dy="14.690">confirmed</tspan></text><text x="386.064" y="232.443" font-size="12.00" style="fill: #58615c" data-source-index="12"><tspan x="386.064" dy="0">Success or</tspan><tspan x="386.064" dy="13.560">awaiting</tspan><tspan x="386.064" dy="13.560">verification</tspan></text><text x="172.085" y="344.344" font-size="12.00" style="fill: #24564b" data-source-index="13"><tspan x="172.085" dy="0">Any unmet step → stop or return to a human</tspan></text></g></svg>

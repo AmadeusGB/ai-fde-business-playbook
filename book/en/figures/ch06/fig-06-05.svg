@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="452.88000000000005pt" viewBox="0 0 504.0 452.88000000000005" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:22.431994</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pa67f13ea14">
+   <rect x="12.6" y="9.792" width="478.8" height="225.216"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 244.8  L 504 244.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 161.028 90.86976  L 266.364 90.86976  L 266.364 54.8352  L 161.028 54.8352  z " clip-path="url(#pa67f13ea14)" style="fill: #e6eee1; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 271.152 90.86976  L 376.488 90.86976  L 376.488 54.8352  L 271.152 54.8352  z " clip-path="url(#pa67f13ea14)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 381.276 90.86976  L 486.612 90.86976  L 486.612 54.8352  L 381.276 54.8352  z " clip-path="url(#pa67f13ea14)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 161.028 131.40864  L 266.364 131.40864  L 266.364 95.37408  L 161.028 95.37408  z " clip-path="url(#pa67f13ea14)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 271.152 131.40864  L 376.488 131.40864  L 376.488 95.37408  L 271.152 95.37408  z " clip-path="url(#pa67f13ea14)" style="fill: #e6eee1; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 381.276 131.40864  L 486.612 131.40864  L 486.612 95.37408  L 381.276 95.37408  z " clip-path="url(#pa67f13ea14)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 161.028 171.94752  L 266.364 171.94752  L 266.364 135.91296  L 161.028 135.91296  z " clip-path="url(#pa67f13ea14)" style="fill: #e6eee1; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 271.152 171.94752  L 376.488 171.94752  L 376.488 135.91296  L 271.152 135.91296  z " clip-path="url(#pa67f13ea14)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 381.276 171.94752  L 486.612 171.94752  L 486.612 135.91296  L 381.276 135.91296  z " clip-path="url(#pa67f13ea14)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 161.028 212.4864  L 266.364 212.4864  L 266.364 176.45184  L 161.028 176.45184  z " clip-path="url(#pa67f13ea14)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 271.152 212.4864  L 376.488 212.4864  L 376.488 176.45184  L 271.152 176.45184  z " clip-path="url(#pa67f13ea14)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 381.276 212.4864  L 486.612 212.4864  L 486.612 176.45184  L 381.276 176.45184  z " clip-path="url(#pa67f13ea14)" style="fill: #e6eee1; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="213.696" y="60.703" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_1"><tspan x="213.696" dy="0">Business lead</tspan></text><text x="323.82" y="60.703" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_2"><tspan x="323.82" dy="0">Delivery lead</tspan></text><text x="433.944" y="53.623" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_3"><tspan x="433.944" dy="0">Production</tspan><tspan x="433.944" dy="14.16">owner</tspan></text><text x="17.388" y="140.202" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_4"><tspan x="17.388" dy="0">Rule confirmation</tspan></text><text x="214.782" y="140.91" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_5"><tspan x="214.782" dy="0">A/R</tspan></text><text x="323.696" y="140.91" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_6"><tspan x="323.696" dy="0">C</tspan></text><text x="432.033" y="140.91" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_7"><tspan x="432.033" dy="0">—</tspan></text><text x="17.388" y="215.199" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_8"><tspan x="17.388" dy="0">Building and repairs</tspan></text><text x="213.572" y="215.907" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_9"><tspan x="213.572" dy="0">C</tspan></text><text x="324.906" y="215.907" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_10"><tspan x="324.906" dy="0">A/R</tspan></text><text x="433.82" y="215.907" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_11"><tspan x="433.82" dy="0">C</tspan></text><text x="17.388" y="290.196" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_12"><tspan x="17.388" dy="0">Business acceptance</tspan></text><text x="213.404" y="290.904" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_13"><tspan x="213.404" dy="0">A</tspan></text><text x="323.833" y="290.904" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_14"><tspan x="323.833" dy="0">R</tspan></text><text x="433.82" y="290.904" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_15"><tspan x="433.82" dy="0">C</tspan></text><text x="17.388" y="365.193" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_16"><tspan x="17.388" dy="0">Technical release</tspan></text><text x="213.572" y="365.901" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_17"><tspan x="213.572" dy="0">C</tspan></text><text x="323.833" y="365.901" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_18"><tspan x="323.833" dy="0">R</tspan></text><text x="433.651" y="365.901" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_19"><tspan x="433.651" dy="0">A</tspan></text><text x="252" y="420.575" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_20"><tspan x="252" dy="0">A final decision | R execution | C consulted | — unassigned in this</tspan><tspan x="252" dy="14.16">example</tspan></text></svg>

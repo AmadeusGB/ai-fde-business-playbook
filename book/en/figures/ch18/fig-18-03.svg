@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="132mm" height="94.050mm" viewBox="0 0 374.4 266.760" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:27.408538</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1" transform="scale(0.7428571428571428 1.3)">
+  <g id="patch_1">
+   <path d="M 0 205.2  L 504 205.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 127.512 88.79004  L 204.12 88.79004  L 204.12 59.56956  L 127.512 59.56956  z " clip-path="url(#p02be1dfdac)" style="fill: #58615c"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 204.12 88.79004  L 357.336 88.79004  L 357.336 59.56956  L 204.12 59.56956  z " clip-path="url(#p02be1dfdac)" style="fill: #24564b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 127.512 152.70984  L 204.12 152.70984  L 204.12 123.48936  L 127.512 123.48936  z " clip-path="url(#p02be1dfdac)" style="fill: #58615c"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 204.12 152.70984  L 433.944 152.70984  L 433.944 123.48936  L 204.12 123.48936  z " clip-path="url(#p02be1dfdac)" style="fill: #98522e"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 357.336 163.66752  L 357.336 48.61188  " clip-path="url(#p02be1dfdac)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #252c29; stroke-width: 1.3"/>
+   </g>
+   </g>
+ </g>
+ <defs>
+  <clipPath id="p02be1dfdac">
+   <rect x="12.6" y="10.26" width="478.8" height="182.628"/>
+  </clipPath>
+ </defs>
+<text x="12.917" y="100.412" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="12.917" dy="0">20 requests</tspan></text><text x="123.178" y="100.412" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="123.178" dy="0">2</tspan></text><text x="208.541" y="100.412" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="208.541" dy="0">4</tspan></text><text x="272.563" y="100.080" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="272.563" dy="0">6 hours</tspan></text><text x="12.917" y="183.507" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="12.917" dy="0">30 requests</tspan></text><text x="123.178" y="183.507" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="123.178" dy="0">2</tspan></text><text x="236.995" y="183.507" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="236.995" dy="0">6</tspan></text><text x="329.472" y="183.176" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="329.472" dy="0">8 hours</tspan></text><text x="265.450" y="40.726" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="265.450" dy="0">6 hours available</tspan></text><text x="94.723" y="242.530" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="94.723" dy="0">Gray: fixed work / Color: review per request</tspan></text><line x1="151.63199999999998" x2="151.63199999999998" y1="77.44042800000001" y2="115.427052" stroke="#ffffff" stroke-width="1.1"/><line x1="151.63199999999998" x2="151.63199999999998" y1="160.536168" y2="198.52279200000004" stroke="#ffffff" stroke-width="1.1"/></svg>

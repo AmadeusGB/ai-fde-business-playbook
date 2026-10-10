@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="512.82pt" viewBox="0 0 504.0 512.82" version="1.1">
+ <rect x="0" y="0" width="504.0" height="512.82" fill="#ffffff"/><metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:28.353640</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p789c6d8ce1">
+   <rect x="12.6" y="11.088" width="478.8" height="252.252"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 277.2  L 504 277.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 196.54728 69.10596  Q 230.456371 69.10596 262.912018 69.10596  " clip-path="url(#p789c6d8ce1)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 258.512018 66.90596  L 262.912018 69.10596  L 258.512018 71.30596  z " clip-path="url(#p789c6d8ce1)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 196.54728 114.51132  Q 230.456371 114.51132 262.912018 114.51132  " clip-path="url(#p789c6d8ce1)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 258.512018 112.31132  L 262.912018 114.51132  L 258.512018 116.71132  z " clip-path="url(#p789c6d8ce1)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 196.54728 159.91668  Q 230.456371 159.91668 262.912018 159.91668  " clip-path="url(#p789c6d8ce1)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 258.512018 157.71668  L 262.912018 159.91668  L 258.512018 162.11668  z " clip-path="url(#p789c6d8ce1)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 26.964 190.18692  L 477.036 190.18692  " clip-path="url(#p789c6d8ce1)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="54.441" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Public arrangements [1][2]</tspan></text></g>
+   <g id="text_2">
+    <text x="295.092" y="54.174" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="295.092" dy="0">What they provide</tspan></text></g>
+   <g id="text_3">
+    <text x="26.964" y="133.507" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Customer Zero</tspan></text></g>
+   <g id="text_4">
+    <text x="295.092" y="133.035" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="295.092" dy="0">Internal usage experience</tspan></text></g>
+   <g id="text_5">
+    <text x="26.964" y="217.507" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Platform and courses</tspan></text></g>
+   <g id="text_6">
+    <text x="295.092" y="217.035" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="295.092" dy="0">Shared tools and knowledge</tspan></text></g>
+   <g id="text_7">
+    <text x="26.964" y="301.507" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Certification path</tspan></text></g>
+   <g id="text_8">
+    <text x="295.092" y="301.035" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="295.092" dy="0">Training and assessment</tspan><tspan x="295.092" dy="14.75">arrangements</tspan></text></g>
+   <g id="text_9">
+    <text x="26.964" y="408.368" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Further checks proposed</tspan><tspan x="26.964" dy="14.75">by author</tspan></text></g>
+   <g id="text_10">
+    <text x="184.968" y="408.368" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="184.968" dy="0">New-team completion / transfer failures / support</tspan><tspan x="184.968" dy="14.75">records</tspan></text></g>
+   <g id="text_11">
+    <text x="14" y="492.269" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="14" dy="0">Actual delivery records still need verification</tspan></text></g>
+  </g>
+ </g>
+ </g></svg>

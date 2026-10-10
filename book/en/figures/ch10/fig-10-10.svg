@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="288pt" viewBox="0 0 504 288" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288  L 504 288  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 22.176 56.5632  L 481.824 56.5632  " clip-path="url(#p8d074bac9f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 22.176 112.2048  L 481.824 112.2048  " clip-path="url(#p8d074bac9f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 22.176 167.8464  L 481.824 167.8464  " clip-path="url(#p8d074bac9f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 22.176 223.488  L 481.824 223.488  " clip-path="url(#p8d074bac9f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="33.127" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="26.964" dy="0">Stage</tspan></text></g>
+   <g id="text_2">
+    <text x="141.876" y="33.127" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="141.876" dy="0">Business impact</tspan></text></g>
+   <g id="text_3">
+    <text x="319.032" y="33.127" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="319.032" dy="0">Additional evidence</tspan></text></g>
+   <g id="text_4">
+    <text x="26.964" y="85.864" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Offline</tspan></text></g>
+   <g id="text_5">
+    <text x="141.876" y="79.430" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="141.876" dy="0">Controlled materials and</tspan><tspan x="141.876" dy="12.76">environment</tspan></text></g>
+   <g id="text_6">
+    <text x="319.032" y="79.430" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="319.032" dy="0">Tasks, boundaries, and repeated</tspan><tspan x="319.032" dy="12.76">results</tspan></text></g>
+   <g id="text_7">
+    <text x="26.964" y="141.506" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Shadow</tspan></text></g>
+   <g id="text_8">
+    <text x="141.876" y="141.452" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="141.876" dy="0">Real inputs; isolated outputs</tspan></text></g>
+   <g id="text_9">
+    <text x="319.032" y="135.072" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="319.032" dy="0">Input distribution, delays, and</tspan><tspan x="319.032" dy="12.76">differences</tspan></text></g>
+   <g id="text_10">
+    <text x="26.964" y="197.147" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Restricted pilot</tspan></text></g>
+   <g id="text_11">
+    <text x="141.876" y="190.714" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="141.876" dy="0">Designated people / tasks /</tspan><tspan x="141.876" dy="12.76">actions</tspan></text></g>
+   <g id="text_12">
+    <text x="319.032" y="190.714" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="319.032" dy="0">Actual review and takeover</tspan><tspan x="319.032" dy="12.76">burden</tspan></text></g>
+   <g id="text_13">
+    <text x="26.964" y="252.789" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Ongoing operation</tspan></text></g>
+   <g id="text_14">
+    <text x="141.876" y="246.355" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="141.876" dy="0">Continued use within approved</tspan><tspan x="141.876" dy="12.76">scope</tspan></text></g>
+   <g id="text_15">
+    <text x="319.032" y="246.355" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="319.032" dy="0">Monitoring, changes, and</tspan><tspan x="319.032" dy="12.76">recovery records</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8d074bac9f">
+   <rect x="12.6" y="11.52" width="478.8" height="264.96"/>
+  </clipPath>
+ </defs>
+</svg>

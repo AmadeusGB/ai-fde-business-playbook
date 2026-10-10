@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="519.48pt" viewBox="0 0 504.0 519.48" version="1.1">
+ <rect x="0" y="0" width="504.0" height="519.48" fill="#ffffff"/><metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:24.124794</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p567f5f8708">
+   <rect x="12.6" y="11.232" width="478.8" height="255.528"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 280.8  L 504 280.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 156.24 70.00344  L 347.76 70.00344  L 347.76 21.45312  L 156.24 21.45312  z " clip-path="url(#p567f5f8708)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 22.176 205.43328  L 228.06 205.43328  L 228.06 110.88792  L 22.176 110.88792  z " clip-path="url(#p567f5f8708)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 275.94 205.43328  L 481.824 205.43328  L 481.824 110.88792  L 275.94 110.88792  z " clip-path="url(#p567f5f8708)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 197.568646 73.499794  Q 165.816709 90.445302 135.347035 106.706486  " clip-path="url(#p567f5f8708)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 140.264647 106.575731  L 135.347035 106.706486  L 138.192998 102.693943  z " clip-path="url(#p567f5f8708)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 306.46087 73.451758  Q 340.579007 90.446182 373.396161 106.792578  " clip-path="url(#p567f5f8708)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 370.438584 102.861581  L 373.396161 106.792578  L 368.476817 106.800041  z " clip-path="url(#p567f5f8708)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="252" y="90.73" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)" text-anchor="middle"><tspan x="252" dy="0">Site A project outputs</tspan></text></g>
+   <g id="text_2">
+    <text x="36.54" y="258.076" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="36.54" dy="0">Client-specific content</tspan></text></g>
+   <g id="text_3">
+    <text x="36.54" y="315.256" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="36.54" dy="0">Original client documents</tspan></text><text x="36.54" y="341.772" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="36.54" dy="0">Local document list</tspan></text></g>
+   <g id="text_4">
+    <text x="290.304" y="258.076" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="290.304" dy="0">Shared candidate package</tspan></text></g>
+   <g id="text_5">
+    <text x="290.304" y="315.256" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="290.304" dy="0">Checking structure and</tspan><tspan x="290.304" dy="14.75">instructions</tspan></text><text x="290.304" y="347.506" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="290.304" dy="0">Usable samples and</tspan><tspan x="290.304" dy="14.75">counterexamples</tspan></text></g>
+   <g id="text_6">
+    <text x="26.964" y="451.423" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Keep within authorized scope</tspan></text></g>
+   <g id="text_7">
+    <text x="280.728" y="451.423" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="280.728" dy="0">Register purpose after validation in</tspan><tspan x="280.728" dy="14.75">new setting</tspan></text></g>
+  </g>
+ </g>
+ </g></svg>

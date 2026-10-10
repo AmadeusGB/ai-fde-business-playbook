@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504pt" height="412.91999999999996pt" viewBox="0 0 504.0 412.91999999999996" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:18.084760</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pea2fa455b1">
+   <rect x="12.6" y="10.656" width="478.8" height="245.088"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 266.4  L 504 266.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 148.660559 93.98592  Q 165.81485 93.98592 181.515696 93.98592  " clip-path="url(#pea2fa455b1)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 177.115696 91.78592  L 181.515696 93.98592  L 177.115696 96.18592  z " clip-path="url(#pea2fa455b1)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 316.24465 93.98592  Q 331.004005 93.98592 344.309917 93.98592  " clip-path="url(#pea2fa455b1)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 339.909917 91.78592  L 344.309917 93.98592  L 339.909917 96.18592  z " clip-path="url(#pea2fa455b1)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 148.660559 150.35616  Q 165.81485 150.35616 181.515696 150.35616  " clip-path="url(#pea2fa455b1)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 177.115696 148.15616  L 181.515696 150.35616  L 177.115696 152.55616  z " clip-path="url(#pea2fa455b1)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 316.24465 150.35616  Q 331.004005 150.35616 344.309917 150.35616  " clip-path="url(#pea2fa455b1)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 339.909917 148.15616  L 344.309917 150.35616  L 339.909917 152.55616  z " clip-path="url(#pea2fa455b1)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 148.660559 206.7264  Q 165.81485 206.7264 181.515696 206.7264  " clip-path="url(#pea2fa455b1)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 177.115696 204.5264  L 181.515696 206.7264  L 177.115696 208.9264  z " clip-path="url(#pea2fa455b1)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 316.24465 206.7264  Q 331.004005 206.7264 344.309917 206.7264  " clip-path="url(#pea2fa455b1)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 339.909917 204.5264  L 344.309917 206.7264  L 339.909917 208.9264  z " clip-path="url(#pea2fa455b1)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 22.176 62.12448  L 481.824 62.12448  " clip-path="url(#pea2fa455b1)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="26.964" y="56.240" font-size="14.00" style="fill: #24564b" data-source-index="1"><tspan x="26.964" dy="0">Workplace finding</tspan></text><text x="199.332" y="48.330" font-size="14.00" style="fill: #24564b" data-source-index="2"><tspan x="199.332" dy="0">Corresponding</tspan><tspan x="199.332" dy="15.820">record</tspan></text><text x="362.124" y="56.240" font-size="14.00" style="fill: #24564b" data-source-index="3"><tspan x="362.124" dy="0">Design requirement</tspan></text><text x="26.964" y="150.026" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="26.964" dy="0">Fields missing</tspan></text><text x="199.332" y="150.026" font-size="12.00" style="fill: #252c29" data-source-index="5"><tspan x="199.332" dy="0">Requests and replies</tspan></text><text x="362.124" y="150.026" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="362.124" dy="0">Input validation</tspan></text><text x="26.964" y="237.400" font-size="12.00" style="fill: #252c29" data-source-index="7"><tspan x="26.964" dy="0">Two rules coexist</tspan></text><text x="199.332" y="230.620" font-size="12.00" style="fill: #252c29" data-source-index="8"><tspan x="199.332" dy="0">Versions and</tspan><tspan x="199.332" dy="13.560">confirmation</tspan></text><text x="362.124" y="230.620" font-size="12.00" style="fill: #252c29" data-source-index="9"><tspan x="362.124" dy="0">Retain human</tspan><tspan x="362.124" dy="13.560">judgment</tspan></text><text x="26.964" y="324.774" font-size="12.00" style="fill: #252c29" data-source-index="10"><tspan x="26.964" dy="0">No one receives task</tspan></text><text x="199.332" y="324.774" font-size="12.00" style="fill: #252c29" data-source-index="11"><tspan x="199.332" dy="0">Handoff records</tspan></text><text x="362.124" y="317.994" font-size="12.00" style="fill: #252c29" data-source-index="12"><tspan x="362.124" dy="0">Assign task and send</tspan><tspan x="362.124" dy="13.560">reminders</tspan></text></g></svg>

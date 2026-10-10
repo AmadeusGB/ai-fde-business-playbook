@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="492.84pt" viewBox="0 0 504.0 492.84" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:15.915994</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pef1ccdf8fb">
+   <rect x="12.6" y="10.656" width="478.8" height="245.088"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 266.4  L 504 266.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 50.904 52.32096  L 50.904 71.928  " clip-path="url(#pef1ccdf8fb)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 50.904 101.33856  L 50.904 120.9456  " clip-path="url(#pef1ccdf8fb)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 50.904 150.35616  L 50.904 169.9632  " clip-path="url(#pef1ccdf8fb)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 50.904 199.37376  L 50.904 218.9808  " clip-path="url(#pef1ccdf8fb)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="31.752" y="77.609" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="17.0" text-anchor="start" id="text_1"><tspan x="31.752" dy="0">01</tspan></text><text x="89.208" y="68.17" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_2"><tspan x="89.208" dy="0">Find</tspan><tspan x="89.208" dy="14.16">information</tspan></text><text x="199.332" y="75.014" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_3"><tspan x="199.332" dy="0">Locate current rules and version</tspan></text><text x="31.752" y="168.291" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="17.0" text-anchor="start" id="text_4"><tspan x="31.752" dy="0">02</tspan></text><text x="89.208" y="165.933" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_5"><tspan x="89.208" dy="0">Do the task</tspan></text><text x="199.332" y="158.617" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_6"><tspan x="199.332" dy="0">Complete representative samples</tspan><tspan x="199.332" dy="14.16">independently</tspan></text><text x="31.752" y="258.974" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="17.0" text-anchor="start" id="text_7"><tspan x="31.752" dy="0">03</tspan></text><text x="89.208" y="249.535" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_8"><tspan x="89.208" dy="0">Handle</tspan><tspan x="89.208" dy="14.16">exceptions</tspan></text><text x="199.332" y="256.379" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_9"><tspan x="199.332" dy="0">Limit impacts in a controlled scenario</tspan></text><text x="31.752" y="349.656" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="17.0" text-anchor="start" id="text_10"><tspan x="31.752" dy="0">04</tspan></text><text x="89.208" y="340.218" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_11"><tspan x="89.208" dy="0">Verify</tspan><tspan x="89.208" dy="14.16">recovery</tspan></text><text x="199.332" y="339.982" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_12"><tspan x="199.332" dy="0">Resume with authorization and supporting</tspan><tspan x="199.332" dy="14.16">evidence</tspan></text><text x="31.752" y="440.339" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="17.0" text-anchor="start" id="text_13"><tspan x="31.752" dy="0">05</tspan></text><text x="89.208" y="437.98" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_14"><tspan x="89.208" dy="0">Fill gaps</tspan></text><text x="199.332" y="430.664" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_15"><tspan x="199.332" dy="0">Record missing information, authorization,</tspan><tspan x="199.332" dy="14.16">or capability</tspan></text></svg>

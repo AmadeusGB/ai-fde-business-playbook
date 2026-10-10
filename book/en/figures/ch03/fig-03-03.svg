@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="244.8pt" viewBox="0 0 504 244.8" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:20.110772</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 244.8  L 504 244.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 132.3 156.9168  C 158.965641 156.9168 184.542717 151.825129 203.398173 142.763169  C 222.253628 133.701208 232.848 121.408827 232.848 108.59328  C 232.848 95.777733 222.253628 83.485352 203.398173 74.423391  C 184.542717 65.361431 158.965641 60.26976 132.3 60.26976  C 105.634359 60.26976 80.057283 65.361431 61.201827 74.423391  C 42.346372 83.485352 31.752 95.777733 31.752 108.59328  C 31.752 121.408827 42.346372 133.701208 61.201827 142.763169  C 80.057283 151.825129 105.634359 156.9168 132.3 156.9168  L 132.3 156.9168  z " clip-path="url(#p07096a67d0)" style="fill: none; stroke: #bfc9c0; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 371.7 156.9168  C 398.365641 156.9168 423.942717 151.825129 442.798173 142.763169  C 461.653628 133.701208 472.248 121.408827 472.248 108.59328  C 472.248 95.777733 461.653628 83.485352 442.798173 74.423391  C 423.942717 65.361431 398.365641 60.26976 371.7 60.26976  C 345.034359 60.26976 319.457283 65.361431 300.601827 74.423391  C 281.746372 83.485352 271.152 95.777733 271.152 108.59328  C 271.152 121.408827 281.746372 133.701208 300.601827 142.763169  C 319.457283 151.825129 345.034359 156.9168 371.7 156.9168  L 371.7 156.9168  z " clip-path="url(#p07096a67d0)" style="fill: none; stroke: #bfc9c0; stroke-width: 1.3; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 225.274696 78.67872  Q 249.606968 78.67872 272.597599 78.67872  " clip-path="url(#p07096a67d0)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 267.797599 76.27872  L 272.597599 78.67872  L 267.797599 81.07872  z " clip-path="url(#p07096a67d0)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 278.725597 152.31456  Q 251.998953 152.31456 226.613951 152.31456  " clip-path="url(#p07096a67d0)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 231.413951 154.71456  L 226.613951 152.31456  L 231.413951 149.91456  z " clip-path="url(#p07096a67d0)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="132.3" y="91.5" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle"><tspan x="132.3" y="91.5">Build loop</tspan></text></g>
+   <g id="text_2">
+    <text x="132.3" y="129.8" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="132.3" y="129.8">Problem → Change → Validate</tspan></text></g>
+   <g id="text_3">
+    <text x="371.7" y="91.5" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle"><tspan x="371.7" y="91.5">Operating loop</tspan></text></g>
+   <g id="text_4">
+    <text x="371.7" y="129.8" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="371.7" y="129.8">Task → Execute → Review</tspan></text></g>
+   <g id="text_5">
+    <text x="252" y="40.0" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="252" y="40.0">Validated version</tspan></text></g>
+   <g id="text_6">
+    <text x="252" y="201.1" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="252" y="201.1">Exceptions and change proposals</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p07096a67d0">
+   <rect x="12.6" y="7.344" width="478.8" height="230.112"/>
+  </clipPath>
+ </defs>
+</svg>

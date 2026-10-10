@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="539.46pt" viewBox="0 0 504.0 539.46" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:27.376478</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p5e18f1fae2">
+   <rect x="12.6" y="11.664" width="478.8" height="265.356"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 291.6  L 504 291.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 22.176 91.2708  L 161.028 91.2708  L 161.028 32.89248  L 22.176 32.89248  z " clip-path="url(#p5e18f1fae2)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 204.12 91.2708  L 477.036 91.2708  L 477.036 32.89248  L 204.12 32.89248  z " clip-path="url(#p5e18f1fae2)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 167.81665 62.08164  Q 182.576005 62.08164 195.881917 62.08164  " clip-path="url(#p5e18f1fae2)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 191.481917 59.88164  L 195.881917 62.08164  L 191.481917 64.28164  z " clip-path="url(#p5e18f1fae2)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 17.388 208.02744  L 137.088 208.02744  L 137.088 152.30268  L 17.388 152.30268  z " clip-path="url(#p5e18f1fae2)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 189.756 208.02744  L 309.456 208.02744  L 309.456 152.30268  L 189.756 152.30268  z " clip-path="url(#p5e18f1fae2)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 357.336 208.02744  L 477.036 208.02744  L 477.036 152.30268  L 357.336 152.30268  z " clip-path="url(#p5e18f1fae2)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 338.184 91.2708  L 338.184 120.45996  " clip-path="url(#p5e18f1fae2)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 74.844 120.45996  L 414.792 120.45996  " clip-path="url(#p5e18f1fae2)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 74.844 120.45996  L 74.844 149.64912  " clip-path="url(#p5e18f1fae2)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #58615c"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 247.212 120.45996  L 247.212 149.64912  " clip-path="url(#p5e18f1fae2)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #58615c"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 414.792 120.45996  L 414.792 149.64912  " clip-path="url(#p5e18f1fae2)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #58615c"/>
+   </g>
+   <g id="text_1">
+    <text x="91.602" y="120.512" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)" text-anchor="middle"><tspan x="91.602" dy="0">Confirmed error</tspan></text></g>
+   <g id="text_2">
+    <text x="340.578" y="120.512" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)" text-anchor="middle"><tspan x="340.578" dy="0">Shared tool / batch / source</tspan></text></g>
+   <g id="text_3">
+    <text x="77.238" y="338.495" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)" text-anchor="middle"><tspan x="77.238" dy="0">Similar content to</tspan><tspan x="77.238" dy="14.75">check</tspan></text></g>
+   <g id="text_4">
+    <text x="249.606" y="338.495" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)" text-anchor="middle"><tspan x="249.606" dy="0">Delivered versions</tspan></text></g>
+   <g id="text_5">
+    <text x="417.186" y="338.495" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)" text-anchor="middle"><tspan x="417.186" dy="0">Subsequent</tspan><tspan x="417.186" dy="14.75">decisions</tspan></text></g>
+   <g id="text_6">
+    <text x="14" y="468.486" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="14" dy="0">Dashed: dependencies to check | Verify impact; unchecked does not mean incorrect</tspan></text></g>
+   <g id="text_7">
+    </g>
+  </g>
+ </g>
+ </g></svg>

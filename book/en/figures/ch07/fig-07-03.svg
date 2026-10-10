@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="412.91999999999996pt" viewBox="0 0 504.0 412.91999999999996" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:22.984157</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p4cf07a476e">
+   <rect x="12.6" y="10.656" width="478.8" height="245.088"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 266.4  L 504 266.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 26.964 106.24032  L 477.036 106.24032  " clip-path="url(#p4cf07a476e)" style="fill: none; stroke: #98522e; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="26.964" y="70.008" font-size="20.00" style="fill: #252c29" data-source-index="1"><tspan x="26.964" dy="0">“Build an AI settlement assistant”</tspan></text><text x="26.964" y="127.149" font-size="12.00" style="fill: #58615c" data-source-index="2"><tspan x="26.964" dy="0">Additional fields in the teaching scope description</tspan></text><text x="26.964" y="222.121" font-size="12.00" style="fill: #98522e" data-source-index="3"><tspan x="26.964" dy="0">Inputs</tspan></text><text x="105.632" y="222.204" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="105.632" dy="0">Specified stores and formats</tspan></text><text x="271.152" y="222.121" font-size="12.00" style="fill: #98522e" data-source-index="5"><tspan x="271.152" dy="0">Outputs</tspan></text><text x="347.820" y="222.204" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="347.820" dy="0">Candidate discrepancy list</tspan></text><text x="26.964" y="305.696" font-size="12.00" style="fill: #98522e" data-source-index="7"><tspan x="26.964" dy="0">Exceptions</tspan></text><text x="105.632" y="305.779" font-size="12.00" style="fill: #252c29" data-source-index="8"><tspan x="105.632" dy="0">Rule disputes go to finance</tspan></text><text x="271.152" y="305.696" font-size="12.00" style="fill: #98522e" data-source-index="9"><tspan x="271.152" dy="0">Exclusions</tspan></text><text x="347.820" y="298.999" font-size="12.00" style="fill: #252c29" data-source-index="10"><tspan x="347.820" dy="0">No automatic settlement</tspan><tspan x="347.820" dy="13.560">adjustments or payments</tspan></text><text x="153.000" y="374.977" font-size="12.00" style="fill: #24564b" data-source-index="11"><tspan x="153.000" dy="0">Also record: customer materials, interfaces, and time for</tspan><tspan x="153.000" dy="13.560">decisions</tspan></text></g></svg>

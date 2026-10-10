@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="374.4pt" height="279.71999999999997pt" viewBox="0 0 374.4 279.71999999999997" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:50:12.011908</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p461a157193">
+   <rect x="7.488" y="5.292" width="359.424" height="140.616"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 151.2  L 374.4 151.2  L 374.4 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 18.27072 24.97824  L 356.12928 24.97824  " clip-path="url(#p461a157193)" style="fill: none; stroke: #252c29; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 18.27072 67.16304  L 356.12928 67.16304  " clip-path="url(#p461a157193)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 18.27072 107.94168  L 356.12928 107.94168  " clip-path="url(#p461a157193)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 142.471193 47.4768  Q 149.458256 47.4768 155.439088 47.4768  " clip-path="url(#p461a157193)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 151.839088 45.6768  L 155.439088 47.4768  L 151.839088 49.2768  z " clip-path="url(#p461a157193)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 142.471193 88.25544  Q 149.458256 88.25544 155.439088 88.25544  " clip-path="url(#p461a157193)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 151.839088 86.45544  L 155.439088 88.25544  L 151.839088 90.05544  z " clip-path="url(#p461a157193)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 142.471193 129.03408  Q 149.458256 129.03408 155.439088 129.03408  " clip-path="url(#p461a157193)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 151.839088 127.23408  L 155.439088 129.03408  L 151.839088 130.83408  z " clip-path="url(#p461a157193)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="18.271" y="29.408" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_1"><tspan x="18.271" dy="0">What is missing?</tspan></text><text x="172.823" y="29.408" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_2"><tspan x="172.823" dy="0">What to do first</tspan></text><text x="18.271" y="86.59" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_3"><tspan x="18.271" dy="0">No appropriate</tspan><tspan x="18.271" dy="12.39">permissions</tspan></text><text x="172.823" y="92.314" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_4"><tspan x="172.823" dy="0">Obtain necessary authorization</tspan></text><text x="18.271" y="162.031" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_5"><tspan x="18.271" dy="0">No recipient for</tspan><tspan x="18.271" dy="12.39">the output</tspan></text><text x="172.823" y="167.754" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_6"><tspan x="172.823" dy="0">Assign someone to take over</tspan></text><text x="18.271" y="237.471" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_7"><tspan x="18.271" dy="0">Cannot measure</tspan><tspan x="18.271" dy="12.39">outcomes</tspan></text><text x="172.823" y="237.0" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_8"><tspan x="172.823" dy="0">Record the original process</tspan><tspan x="172.823" dy="12.39">first</tspan></text></svg>

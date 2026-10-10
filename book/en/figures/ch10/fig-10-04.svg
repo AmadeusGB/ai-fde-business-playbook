@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="244.8pt" viewBox="0 0 504 244.8" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 244.8  L 504 244.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 156.24 205.72992  L 156.24 41.32224  " clip-path="url(#p9221c257e5)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 218.484 205.72992  L 218.484 41.32224  " clip-path="url(#p9221c257e5)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 280.728 205.72992  L 280.728 41.32224  " clip-path="url(#p9221c257e5)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 342.972 205.72992  L 342.972 41.32224  " clip-path="url(#p9221c257e5)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 405.216 205.72992  L 405.216 41.32224  " clip-path="url(#p9221c257e5)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <defs>
+     <path id="mc12355bda9" d="M 0 4  C 1.060812 4 2.078319 3.578535 2.828427 2.828427  C 3.578535 2.078319 4 1.060812 4 0  C 4 -1.060812 3.578535 -2.078319 2.828427 -2.828427  C 2.078319 -3.578535 1.060812 -4 0 -4  C -1.060812 -4 -2.078319 -3.578535 -2.828427 -2.828427  C -3.578535 -2.078319 -4 -1.060812 -4 0  C -4 1.060812 -3.578535 2.078319 -2.828427 2.828427  C -2.078319 3.578535 -1.060812 4 0 4  z " style="stroke: #24564b"/>
+    </defs>
+    <g clip-path="url(#p9221c257e5)">
+     <use xlink:href="#mc12355bda9" x="396.750816" y="63.84384" style="fill: #24564b; stroke: #24564b"/>
+    </g>
+   </g>
+   <g id="line2d_7">
+    <g clip-path="url(#p9221c257e5)">
+     <use xlink:href="#mc12355bda9" x="242.840348" y="124.65216" style="fill: #24564b; stroke: #24564b"/>
+    </g>
+   </g>
+   <g id="line2d_8">
+    <g clip-path="url(#p9221c257e5)">
+     <use xlink:href="#mc12355bda9" x="355.4208" y="185.46048" style="fill: #24564b; stroke: #24564b"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text x="153.332" y="226.498" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="153.332" dy="0">0</tspan></text></g>
+   <g id="text_2">
+    <text x="212.668" y="226.498" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="212.668" dy="0">25</tspan></text></g>
+   <g id="text_3">
+    <text x="274.912" y="226.498" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="274.912" dy="0">50</tspan></text></g>
+   <g id="text_4">
+    <text x="337.156" y="226.498" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="337.156" dy="0">75</tspan></text></g>
+   <g id="text_5">
+    <text x="396.492" y="226.498" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="396.492" dy="0">100</tspan></text></g>
+   <g id="text_6">
+    <text x="448.308" y="226.498" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="448.308" dy="0">%</tspan></text></g>
+   <g id="text_7">
+    <text x="22.176" y="66.904" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="22.176" dy="0">Accuracy</tspan></text></g>
+   <g id="text_8">
+    <text x="22.176" y="89.117" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="22.176" dy="0">966/1000</tspan></text></g>
+   <g id="text_9">
+    <text x="433.944" y="66.649" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="433.944" dy="0">96.6%</tspan></text></g>
+   <g id="text_10">
+    <text x="22.176" y="127.712" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="22.176" dy="0">Precision</tspan></text></g>
+   <g id="text_11">
+    <text x="22.176" y="149.925" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="22.176" dy="0">16/46</tspan></text></g>
+   <g id="text_12">
+    <text x="433.944" y="127.457" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="433.944" dy="0">34.8%</tspan></text></g>
+   <g id="text_13">
+    <text x="22.176" y="188.520" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="22.176" dy="0">Recall</tspan></text></g>
+   <g id="text_14">
+    <text x="22.176" y="210.733" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="22.176" dy="0">16/20</tspan></text></g>
+   <g id="text_15">
+    <text x="433.944" y="188.265" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="433.944" dy="0">80.0%</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9221c257e5">
+   <rect x="12.6" y="9.792" width="478.8" height="225.216"/>
+  </clipPath>
+ </defs>
+</svg>

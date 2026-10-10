@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="466.20000000000005pt" viewBox="0 0 504.0 466.20000000000005" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:12.922454</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pfca37230c7">
+   <rect x="12.6" y="7.56" width="478.8" height="236.88"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.964 192.3264  L 223.272 192.3264  L 223.272 126  L 26.964 126  z " clip-path="url(#pfca37230c7)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 295.092 192.3264  L 477.036 192.3264  L 477.036 126  L 295.092 126  z " clip-path="url(#pfca37230c7)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 192.876061 74.986654  Q 158.6339 97.574466 125.511665 119.423519  " clip-path="url(#pfca37230c7)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 130.839968 118.783842  L 125.511665 119.423519  L 128.196905 114.77707  z " clip-path="url(#pfca37230c7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 311.155646 74.937497  Q 347.75828 97.573336 383.219844 119.503514  " clip-path="url(#pfca37230c7)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 380.399753 114.937653  L 383.219844 119.503514  L 377.8751 119.02007  z " clip-path="url(#pfca37230c7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="252.0" y="72.706" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_1"><tspan x="252.0" dy="0">Are data, authorization, and takeover conditions met?</tspan></text><text x="141.876" y="172.555" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_2"><tspan x="141.876" dy="0">No</tspan></text><text x="362.124" y="172.555" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_3"><tspan x="362.124" dy="0">Yes</tspan></text><text x="145.138" y="292.915" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_4"><tspan x="145.138" dy="0">Gather evidence / narrow</tspan><tspan x="145.138" dy="15.34">scope</tspan></text><text x="386.064" y="300.585" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_5"><tspan x="386.064" dy="0">Compare priorities</tspan></text><text x="257.5" y="431.11" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_6"><tspan x="257.5" dy="0">A high total cannot replace necessary conditions</tspan></text></svg>

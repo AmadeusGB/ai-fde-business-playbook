@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="273.6pt" viewBox="0 0 504 273.6" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6  L 504 273.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 252 50.702021  Q 252 65.063272 252 77.971079  " clip-path="url(#pb2fe917732)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 254.2 73.571079  L 252 77.971079  L 249.8 73.571079  z " clip-path="url(#pb2fe917732)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 89.208 141.83424  L 414.792 141.83424  " clip-path="url(#pb2fe917732)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 252 126.73152  L 252 141.83424  " clip-path="url(#pb2fe917732)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 89.208 143.836383  Q 89.208 156.937902 89.208 168.585978  " clip-path="url(#pb2fe917732)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 91.408 164.185978  L 89.208 168.585978  L 87.008 164.185978  z " clip-path="url(#pb2fe917732)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 252 143.836383  Q 252 156.937902 252 168.585978  " clip-path="url(#pb2fe917732)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 254.2 164.185978  L 252 168.585978  L 249.8 164.185978  z " clip-path="url(#pb2fe917732)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 414.792 143.836383  Q 414.792 156.937902 414.792 168.585978  " clip-path="url(#pb2fe917732)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 416.992 164.185978  L 414.792 168.585978  L 412.592 164.185978  z " clip-path="url(#pb2fe917732)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="252.000" y="29.617" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="14.000000000000002" text-anchor="middle"><tspan x="252.000" dy="0">Alert received / allowance reached</tspan></text></g>
+   <g id="text_2">
+    <text x="252.000" y="107.137" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="middle"><tspan x="252.000" dy="0">Which task is involved, and why the consumption?</tspan></text></g>
+   <g id="text_3">
+    <text x="90.000" y="197.499" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="90.000" dy="0">Duplicates / failed retries</tspan></text></g>
+   <g id="text_4">
+    <text x="90.000" y="242.753" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="90.000" dy="0">Limit repetition and repair</tspan></text></g>
+   <g id="text_5">
+    <text x="252.000" y="197.499" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="252.000" dy="0">Necessary authorized work</tspan></text></g>
+   <g id="text_6">
+    <text x="252.000" y="236.373" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="252.000" dy="0">Request credits or hand</tspan><tspan x="252.000" dy="12.76">over</tspan></text></g>
+   <g id="text_7">
+    <text x="415.000" y="197.499" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="415.000" dy="0">Exploratory work</tspan></text></g>
+   <g id="text_8">
+    <text x="415.000" y="236.373" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="415.000" dy="0">Use the experimental</tspan><tspan x="415.000" dy="12.76">budget</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb2fe917732">
+   <rect x="12.6" y="10.944" width="478.8" height="251.712"/>
+  </clipPath>
+ </defs>
+</svg>

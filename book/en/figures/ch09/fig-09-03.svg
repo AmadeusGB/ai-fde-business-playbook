@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550" viewBox="0 0 900 550">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#24564b"/></marker></defs>
+<rect width="900" height="550" fill="white"/>
+<g fill="#f1f4ef" stroke="#bfc9c0" stroke-width="2"><rect x="45" y="40" width="220" height="130"/><rect x="340" y="40" width="220" height="130"/><rect x="635" y="40" width="220" height="130"/><rect x="45" y="345" width="220" height="125"/><rect x="340" y="345" width="220" height="125"/><rect x="635" y="345" width="220" height="125"/></g>
+<g fill="none" stroke="#24564b" stroke-width="2.5" marker-end="url(#arrow)"><path d="M265 104H330"/><path d="M560 104H625"/><path d="M155 336L340 179"/><path d="M450 170V335"/><path d="M745 179L560 336"/><path d="M560 407H625"/></g>
+<g font-family="Arial, sans-serif" font-size="22" fill="#252c29" text-anchor="middle">
+<text x="155" y="91">Task entry</text><text x="155" y="127">Identity / scope</text>
+<text x="450" y="78">Model processing</text><text x="450" y="111"><tspan x="450">Candidates and</tspan><tspan x="450" dy="27">evidence</tspan></text>
+<text x="745" y="91">Human confirmation</text><text x="745" y="127">Specific object</text>
+<text x="155" y="394">Filtered materials</text><text x="155" y="431">Statements / policies</text>
+<text x="450" y="381">Restricted tools</text><text x="450" y="415"><tspan x="450">Queries / pending</tspan><tspan x="450" dy="27">tasks</tspan></text>
+<text x="745" y="394">Execution result</text><text x="745" y="431">Verify status</text>
+</g>
+<text x="660" y="280" font-family="Arial, sans-serif" font-size="22" fill="#b6572b">Action to confirm</text>
+<path d="M45 500H855" stroke="#24564b" stroke-width="2"/>
+<text x="45" y="535" font-family="Arial, sans-serif" font-size="22" fill="#24564b">One task ID links evidence, approval, tools, and results</text>
+</svg>

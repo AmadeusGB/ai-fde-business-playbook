@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="259.2pt" viewBox="0 0 504 259.2" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 108.36 195.35904  L 371.7 195.35904  " clip-path="url(#pb2d0ec516e)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 108.36 152.6688  L 371.7 152.6688  " clip-path="url(#pb2d0ec516e)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 108.36 109.97856  L 371.7 109.97856  " clip-path="url(#pb2d0ec516e)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 108.36 67.28832  L 371.7 67.28832  " clip-path="url(#pb2d0ec516e)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 141.876 67.28832  L 319.032 109.97856  " clip-path="url(#pb2d0ec516e)" style="fill: none; stroke: #98522e; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 141.876 67.28832  L 319.032 88.63344  " clip-path="url(#pb2d0ec516e)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <defs>
+     <path id="macc1b374e0" d="M -4 4  L 4 4  L 4 -4  L -4 -4  z " style="stroke: #98522e; stroke-linejoin: miter"/>
+    </defs>
+    <g clip-path="url(#pb2d0ec516e)">
+     <use xlink:href="#macc1b374e0" x="141.876" y="67.28832" style="fill: #98522e; stroke: #98522e; stroke-linejoin: miter"/>
+     <use xlink:href="#macc1b374e0" x="319.032" y="109.97856" style="fill: #98522e; stroke: #98522e; stroke-linejoin: miter"/>
+    </g>
+   </g>
+   <g id="line2d_8">
+    <defs>
+     <path id="mfef6c766c4" d="M 0 3.5  C 0.928211 3.5 1.81853 3.131218 2.474874 2.474874  C 3.131218 1.81853 3.5 0.928211 3.5 0  C 3.5 -0.928211 3.131218 -1.81853 2.474874 -2.474874  C 1.81853 -3.131218 0.928211 -3.5 0 -3.5  C -0.928211 -3.5 -1.81853 -3.131218 -2.474874 -2.474874  C -3.131218 -1.81853 -3.5 -0.928211 -3.5 0  C -3.5 0.928211 -3.131218 1.81853 -2.474874 2.474874  C -1.81853 3.131218 -0.928211 3.5 0 3.5  z " style="stroke: #24564b"/>
+    </defs>
+    <g clip-path="url(#pb2d0ec516e)">
+     <use xlink:href="#mfef6c766c4" x="141.876" y="67.28832" style="fill: #24564b; stroke: #24564b"/>
+     <use xlink:href="#mfef6c766c4" x="319.032" y="88.63344" style="fill: #24564b; stroke: #24564b"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="25.196" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Teaching assumptions | mean minutes per task</tspan></text></g>
+   <g id="text_2">
+    <text x="83.392" y="198.110" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="83.392" dy="0">0</tspan></text></g>
+   <g id="text_3">
+    <text x="77.576" y="155.420" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="77.576" dy="0">20</tspan></text></g>
+   <g id="text_4">
+    <text x="77.576" y="112.730" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="77.576" dy="0">40</tspan></text></g>
+   <g id="text_5">
+    <text x="77.576" y="70.040" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="77.576" dy="0">60</tspan></text></g>
+   <g id="text_6">
+    <text x="142.000" y="229.251" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="middle"><tspan x="142.000" dy="0">Before</tspan></text></g>
+   <g id="text_7">
+    <text x="319.000" y="229.251" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="middle"><tspan x="319.000" dy="0">After</tspan></text></g>
+   <g id="text_8">
+    <text x="135.407" y="49.003" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="135.407" dy="0">60</tspan></text></g>
+   <g id="text_9">
+    <text x="395.640" y="86.950" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="395.640" dy="0">Group B: 50</tspan></text></g>
+   <g id="text_10">
+    <text x="395.640" y="120.154" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="395.640" dy="0">Group A: 40</tspan></text></g>
+   <g id="text_11">
+    <text x="252.000" y="250.490" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="252.000" dy="0">Difference in improvement: (60−40)−(60−50) = 10 minutes</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb2d0ec516e">
+   <rect x="12.6" y="10.368" width="478.8" height="237.168"/>
+  </clipPath>
+ </defs>
+</svg>

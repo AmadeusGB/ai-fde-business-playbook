@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="466.20000000000005pt" viewBox="0 0 504.0 466.20000000000005" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:31.730171</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p4914e7556d">
+   <rect x="45.36" y="47.88" width="448.56" height="136.08"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45.36 183.96  L 493.92 183.96  L 493.92 47.88  L 45.36 47.88  z " style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <path d="M 45.36 183.96  L 493.92 183.96  " clip-path="url(#p4914e7556d)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_5"/>
+     </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <path d="M 45.36 156.744  L 493.92 156.744  " clip-path="url(#p4914e7556d)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7"/>
+     </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <path d="M 45.36 129.528  L 493.92 129.528  " clip-path="url(#p4914e7556d)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <path d="M 45.36 102.312  L 493.92 102.312  " clip-path="url(#p4914e7556d)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     </g>
+    <g id="ytick_5">
+     <g id="line2d_12">
+      <path d="M 45.36 75.096  L 493.92 75.096  " clip-path="url(#p4914e7556d)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <path d="M 45.36 47.88  L 493.92 47.88  " clip-path="url(#p4914e7556d)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15"/>
+     </g>
+   </g>
+   <g id="line2d_16">
+    <path d="M 74.613913 75.096  L 269.64 83.2608  L 464.666087 91.4256  " clip-path="url(#p4914e7556d)" style="fill: none; stroke: #24564b; stroke-width: 2; stroke-linecap: square"/>
+    <defs>
+     <path id="me7194895b6" d="M 0 3.5  C 0.928211 3.5 1.81853 3.131218 2.474874 2.474874  C 3.131218 1.81853 3.5 0.928211 3.5 0  C 3.5 -0.928211 3.131218 -1.81853 2.474874 -2.474874  C 1.81853 -3.131218 0.928211 -3.5 0 -3.5  C -0.928211 -3.5 -1.81853 -3.131218 -2.474874 -2.474874  C -3.131218 -1.81853 -3.5 -0.928211 -3.5 0  C -3.5 0.928211 -3.131218 1.81853 -2.474874 2.474874  C -1.81853 3.131218 -0.928211 3.5 0 3.5  z " style="stroke: #24564b"/>
+    </defs>
+    <g clip-path="url(#p4914e7556d)">
+     <use xlink:href="#me7194895b6" x="74.613913" y="75.096" style="fill: #24564b; stroke: #24564b"/>
+     <use xlink:href="#me7194895b6" x="269.64" y="83.2608" style="fill: #24564b; stroke: #24564b"/>
+     <use xlink:href="#me7194895b6" x="464.666087" y="91.4256" style="fill: #24564b; stroke: #24564b"/>
+    </g>
+   </g>
+   <g id="line2d_17">
+    <path d="M 45.36 88.704  L 493.92 88.704  " clip-path="url(#p4914e7556d)" style="fill: none; stroke-dasharray: 4.81,2.08; stroke-dashoffset: 0; stroke: #98522e; stroke-width: 1.3"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 45.36 183.96  L 45.36 47.88  " style="fill: none; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 45.36 183.96  L 493.92 183.96  " style="fill: none; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   </g>
+  </g>
+ </g><text x="84.0" y="363.229" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_1"><tspan x="84.0" dy="0">Initial judgment</tspan></text><text x="269.64" y="363.229" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_2"><tspan x="269.64" dy="0">Data readiness falls</tspan></text><text x="420.0" y="363.229" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_3"><tspan x="420.0" dy="0">Cooperation falls too</tspan></text><text x="38.232" y="347.909" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_4"><tspan x="38.232" dy="0">0</tspan></text><text x="38.232" y="297.56" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_5"><tspan x="38.232" dy="0">1</tspan></text><text x="38.232" y="247.21" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_6"><tspan x="38.232" dy="0">2</tspan></text><text x="38.232" y="196.86" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_7"><tspan x="38.232" dy="0">3</tspan></text><text x="38.232" y="146.511" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_8"><tspan x="38.232" dy="0">4</tspan></text><text x="38.232" y="96.161" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_9"><tspan x="38.232" dy="0">5</tspan></text><text x="78.009" y="127.347" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_10"><tspan x="78.009" dy="0">4.00</tspan></text><text x="273.035" y="142.452" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_11"><tspan x="273.035" dy="0">3.70</tspan></text><text x="468.061" y="157.557" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_12"><tspan x="468.061" dy="0">3.40</tspan></text><text x="74.614" y="199.347" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_13"><tspan x="74.614" dy="0">Rule Q&amp;A: 3.50</tspan></text><text x="45.36" y="27.972" fill="#24443b" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="start" id="text_14"><tspan x="45.36" dy="0">Settlement checking: 4.00 → 3.70 → 3.40</tspan></text><text x="45.36" y="431.148" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_15"><tspan x="45.36" dy="0">Author-assumed scenarios; each reduction is 0.30, not a time trend or</tspan><tspan x="45.36" dy="14.16">success probability</tspan></text></svg>

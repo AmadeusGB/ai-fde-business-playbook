@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504pt" height="412.91999999999996pt" viewBox="0 0 504.0 412.91999999999996" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:24.705319</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pe669f9df82">
+   <rect x="12.6" y="10.656" width="478.8" height="245.088"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 266.4  L 504 266.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.964 71.928  L 132.3 71.928  L 132.3 37.61568  L 26.964 37.61568  z " clip-path="url(#pe669f9df82)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 26.964 130.74912  L 180.18 130.74912  L 180.18 96.4368  L 26.964 96.4368  z " clip-path="url(#pe669f9df82)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 26.964 189.57024  L 228.06 189.57024  L 228.06 155.25792  L 26.964 155.25792  z " clip-path="url(#pe669f9df82)" style="fill: #98522e; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 26.964 248.39136  L 275.94 248.39136  L 275.94 214.07904  L 26.964 214.07904  z " clip-path="url(#pe669f9df82)" style="fill: #58615c; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="36.540" y="75.601" font-size="12.00" style="fill: #ffffff" data-source-index="1"><tspan x="36.540" dy="0">Query a</tspan><tspan x="36.540" dy="13.560">specified</tspan><tspan x="36.540" dy="13.560">statement</tspan></text><text x="412.301" y="75.601" font-size="12.00" style="fill: #252c29" data-source-index="2"><tspan x="412.301" dy="0">Preset</tspan><tspan x="412.301" dy="13.560">read-only</tspan><tspan x="412.301" dy="13.560">scope</tspan></text><text x="36.540" y="180.334" font-size="12.00" style="fill: #ffffff" data-source-index="3"><tspan x="36.540" dy="0">Create a candidate task</tspan></text><text x="401.511" y="173.554" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="401.511" dy="0">Limited fields</tspan><tspan x="401.511" dy="13.560">and objects</tspan></text><text x="36.540" y="271.506" font-size="12.00" style="fill: #ffffff" data-source-index="5"><tspan x="36.540" dy="0">Update discrepancy status</tspan></text><text x="379.933" y="264.726" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="379.933" dy="0">Specific approval +</tspan><tspan x="379.933" dy="13.560">version recheck</tspan></text><text x="36.540" y="362.679" font-size="12.00" style="fill: #ffffff" data-source-index="7"><tspan x="36.540" dy="0">Initiate payment</tspan></text><text x="423.090" y="355.899" font-size="12.00" style="fill: #252c29" data-source-index="8"><tspan x="423.090" dy="0">Disabled in</tspan><tspan x="423.090" dy="13.560">this pilot</tspan></text></g></svg>

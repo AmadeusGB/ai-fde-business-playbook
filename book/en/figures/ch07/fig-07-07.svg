@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="390.6pt" viewBox="0 0 504.0 390.6" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:16.473040</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p57f30313ee">
+   <rect x="12.6" y="10.08" width="478.8" height="231.84"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 17.388 84.2688  L 486.612 84.2688  L 486.612 37.9008  L 17.388 37.9008  z " clip-path="url(#p57f30313ee)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 17.388 84.2688  L 151.452 84.2688  L 151.452 37.9008  L 17.388 37.9008  z " clip-path="url(#p57f30313ee)" style="fill: #e2ebdf; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 17.388 135.2736  L 486.612 135.2736  L 486.612 88.9056  L 17.388 88.9056  z " clip-path="url(#p57f30313ee)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 17.388 135.2736  L 151.452 135.2736  L 151.452 88.9056  L 17.388 88.9056  z " clip-path="url(#p57f30313ee)" style="fill: #e2ebdf; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 17.388 186.2784  L 486.612 186.2784  L 486.612 139.9104  L 17.388 139.9104  z " clip-path="url(#p57f30313ee)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 17.388 186.2784  L 151.452 186.2784  L 151.452 139.9104  L 17.388 139.9104  z " clip-path="url(#p57f30313ee)" style="fill: #e2ebdf; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 17.388 237.2832  L 486.612 237.2832  L 486.612 190.9152  L 17.388 190.9152  z " clip-path="url(#p57f30313ee)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 17.388 237.2832  L 151.452 237.2832  L 151.452 190.9152  L 17.388 190.9152  z " clip-path="url(#p57f30313ee)" style="fill: #e2ebdf; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="26.964" y="102.820" font-size="12.00" style="fill: #252c29" data-source-index="1"><tspan x="26.964" dy="0">Scope and samples</tspan></text><text x="170.604" y="102.623" font-size="12.00" style="fill: #252c29" data-source-index="2"><tspan x="170.604" dy="0">Which tasks count; which may go to a human</tspan></text><text x="26.964" y="181.878" font-size="12.00" style="fill: #252c29" data-source-index="3"><tspan x="26.964" dy="0">Judgment criteria</tspan></text><text x="170.604" y="174.900" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="170.604" dy="0">Correct answers, reasonable differences, unacceptable</tspan><tspan x="170.604" dy="13.560">errors</tspan></text><text x="26.964" y="260.935" font-size="12.00" style="fill: #252c29" data-source-index="5"><tspan x="26.964" dy="0">System version</tspan></text><text x="170.604" y="253.958" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="170.604" dy="0">Corresponding versions of rules, models, tools, and</tspan><tspan x="170.604" dy="13.560">interfaces</tspan></text><text x="26.964" y="333.213" font-size="12.00" style="fill: #252c29" data-source-index="7"><tspan x="26.964" dy="0">Results and</tspan><tspan x="26.964" dy="13.560">confirmation</tspan></text><text x="170.604" y="339.795" font-size="12.00" style="fill: #252c29" data-source-index="8"><tspan x="170.604" dy="0">Failures, retest conclusions, confirming person, and date</tspan></text></g></svg>

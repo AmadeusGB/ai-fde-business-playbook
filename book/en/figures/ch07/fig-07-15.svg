@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504pt" height="424.08000000000004pt" viewBox="0 0 504.0 424.08000000000004" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:23.500754</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p0d45481853">
+   <rect x="12.6" y="10.944" width="478.8" height="251.712"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6  L 504 273.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 12.6 91.49184  L 491.4 91.49184  L 491.4 31.08096  L 12.6 31.08096  z " clip-path="url(#p0d45481853)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 196.54465 61.2864  Q 211.304005 61.2864 224.609917 61.2864  " clip-path="url(#p0d45481853)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 220.209917 59.0864  L 224.609917 61.2864  L 220.209917 63.4864  z " clip-path="url(#p0d45481853)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 335.39665 61.2864  Q 350.156005 61.2864 363.461917 61.2864  " clip-path="url(#p0d45481853)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 359.061917 59.0864  L 363.461917 61.2864  L 359.061917 63.4864  z " clip-path="url(#p0d45481853)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 12.6 167.00544  L 491.4 167.00544  L 491.4 106.59456  L 12.6 106.59456  z " clip-path="url(#p0d45481853)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 196.54465 136.8  Q 211.304005 136.8 224.609917 136.8  " clip-path="url(#p0d45481853)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 220.209917 134.6  L 224.609917 136.8  L 220.209917 139  z " clip-path="url(#p0d45481853)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 335.39665 136.8  Q 350.156005 136.8 363.461917 136.8  " clip-path="url(#p0d45481853)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 359.061917 134.6  L 363.461917 136.8  L 359.061917 139  z " clip-path="url(#p0d45481853)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 12.6 242.51904  L 491.4 242.51904  L 491.4 182.10816  L 12.6 182.10816  z " clip-path="url(#p0d45481853)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 196.54465 212.3136  Q 211.304005 212.3136 224.609917 212.3136  " clip-path="url(#p0d45481853)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 220.209917 210.1136  L 224.609917 212.3136  L 220.209917 214.5136  z " clip-path="url(#p0d45481853)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 335.39665 212.3136  Q 350.156005 212.3136 363.461917 212.3136  " clip-path="url(#p0d45481853)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 359.061917 210.1136  L 363.461917 212.3136  L 359.061917 214.5136  z " clip-path="url(#p0d45481853)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="22.176" y="99.342" font-size="12.00" style="fill: #24564b" data-source-index="1"><tspan x="22.176" dy="0">Work</tspan></text><text x="114.903" y="92.478" font-size="12.00" style="fill: #252c29" data-source-index="2"><tspan x="114.903" dy="0">Identify the</tspan><tspan x="114.903" dy="13.560">recipient</tspan></text><text x="259.150" y="92.478" font-size="12.00" style="fill: #252c29" data-source-index="3"><tspan x="259.150" dy="0">Transfer</tspan><tspan x="259.150" dy="13.560">configuration</tspan></text><text x="392.607" y="99.258" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="392.607" dy="0">Verify operation</tspan></text><text x="22.176" y="216.388" font-size="12.00" style="fill: #24564b" data-source-index="5"><tspan x="22.176" dy="0">Access</tspan></text><text x="114.903" y="209.524" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="114.903" dy="0">Stop new data</tspan><tspan x="114.903" dy="13.560">ingestion</tspan></text><text x="259.150" y="209.524" font-size="12.00" style="fill: #252c29" data-source-index="7"><tspan x="259.150" dy="0">Controlled</tspan><tspan x="259.150" dy="13.560">transition</tspan></text><text x="392.607" y="216.304" font-size="12.00" style="fill: #252c29" data-source-index="8"><tspan x="392.607" dy="0">Revoke or rotate</tspan></text><text x="22.176" y="333.434" font-size="12.00" style="fill: #24564b" data-source-index="9"><tspan x="22.176" dy="0">Data</tspan></text><text x="114.903" y="326.571" font-size="12.00" style="fill: #252c29" data-source-index="10"><tspan x="114.903" dy="0">Inventory and</tspan><tspan x="114.903" dy="13.560">classify</tspan></text><text x="259.150" y="326.571" font-size="12.00" style="fill: #252c29" data-source-index="11"><tspan x="259.150" dy="0">Agree on</tspan><tspan x="259.150" dy="13.560">export</tspan></text><text x="392.607" y="333.351" font-size="12.00" style="fill: #252c29" data-source-index="12"><tspan x="392.607" dy="0">Retain or delete</tspan></text></g></svg>

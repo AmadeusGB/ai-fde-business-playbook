@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="374.4pt" height="234.35999999999999pt" viewBox="0 0 374.4 234.35999999999999" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:50:14.293393</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pe85eb55a39">
+   <rect x="7.488" y="5.292" width="359.424" height="140.616"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 151.2  L 374.4 151.2  L 374.4 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 18.27072 58.72608  L 356.12928 58.72608  L 356.12928 26.3844  L 18.27072 26.3844  z " clip-path="url(#pe85eb55a39)" style="fill: #f1f4ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 18.27072 58.72608  L 22.583808 58.72608  L 22.583808 26.3844  L 18.27072 26.3844  z " clip-path="url(#pe85eb55a39)" style="fill: #24564b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 18.27072 99.50472  L 356.12928 99.50472  L 356.12928 67.16304  L 18.27072 67.16304  z " clip-path="url(#pe85eb55a39)" style="fill: #f1f4ef"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 18.27072 99.50472  L 22.583808 99.50472  L 22.583808 67.16304  L 18.27072 67.16304  z " clip-path="url(#pe85eb55a39)" style="fill: #24564b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 18.27072 140.28336  L 356.12928 140.28336  L 356.12928 107.94168  L 18.27072 107.94168  z " clip-path="url(#pe85eb55a39)" style="fill: #f1f4ef"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 18.27072 140.28336  L 22.583808 140.28336  L 22.583808 107.94168  L 18.27072 107.94168  z " clip-path="url(#pe85eb55a39)" style="fill: #24564b"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 359.72352 59.321364  Q 359.72352 64.351827 359.72352 68.376059  " clip-path="url(#pe85eb55a39)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 361.52352 64.776059  L 359.72352 68.376059  L 357.92352 64.776059  z " clip-path="url(#pe85eb55a39)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 359.72352 100.100004  Q 359.72352 105.130467 359.72352 109.154699  " clip-path="url(#pe85eb55a39)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 361.52352 105.554699  L 359.72352 109.154699  L 357.92352 105.554699  z " clip-path="url(#pe85eb55a39)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="32.648" y="71.201" font-size="12.00" style="fill: #24564b" data-source-index="1"><tspan x="32.648" dy="0">Actual sequence</tspan></text><text x="162.040" y="70.805" font-size="12.00" style="fill: #252c29" data-source-index="2"><tspan x="162.040" dy="0">What actually happened</tspan></text><text x="32.648" y="134.407" font-size="12.00" style="fill: #24564b" data-source-index="3"><tspan x="32.648" dy="0">Basis for judgment</tspan></text><text x="162.040" y="134.012" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="162.040" dy="0">Who decided, on what basis</tspan></text><text x="32.648" y="197.614" font-size="12.00" style="fill: #24564b" data-source-index="5"><tspan x="32.648" dy="0">Design requirement</tspan></text><text x="162.040" y="197.219" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="162.040" dy="0">What needs to change</tspan></text><text x="18.271" y="22.460" font-size="12.00" style="fill: #58615c" data-source-index="7"><tspan x="18.271" dy="0">Check each item; record what is still missing</tspan></text></g></svg>

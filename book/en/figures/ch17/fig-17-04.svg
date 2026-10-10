@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="132mm" height="163.794mm" viewBox="0 0 374.4 464.580" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:28:00.677943</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1" transform="scale(1.0 1.45)">
+  <g id="patch_1">
+   <path d="M 0 320.4  L 374.4 320.4  L 374.4 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 102.937624 18.71136  Q 113.518362 18.71136 123.09287 18.71136  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 119.49287 16.91136  L 123.09287 18.71136  L 119.49287 20.51136  z " clip-path="url(#p713b6830d9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 167.630873 58.69728  Q 174.617936 58.69728 180.598768 58.69728  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 176.998768 56.89728  L 180.598768 58.69728  L 176.998768 60.49728  z " clip-path="url(#p713b6830d9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 167.630873 92.53152  Q 174.617936 92.53152 180.598768 92.53152  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 176.998768 90.73152  L 180.598768 92.53152  L 176.998768 94.33152  z " clip-path="url(#p713b6830d9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 167.630873 126.36576  Q 174.617936 126.36576 180.598768 126.36576  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 176.998768 124.56576  L 180.598768 126.36576  L 176.998768 128.16576  z " clip-path="url(#p713b6830d9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 167.630873 160.2  Q 174.617936 160.2 180.598768 160.2  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 176.998768 158.4  L 180.598768 160.2  L 176.998768 162  z " clip-path="url(#p713b6830d9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 81.369113 224.79264  Q 88.356176 224.79264 94.337008 224.79264  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 90.737008 222.99264  L 94.337008 224.79264  L 90.737008 226.59264  z " clip-path="url(#p713b6830d9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 81.369113 249.39936  Q 88.356176 249.39936 94.337008 249.39936  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 90.737008 247.59936  L 94.337008 249.39936  L 90.737008 251.19936  z " clip-path="url(#p713b6830d9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 81.369113 274.00608  Q 88.356176 274.00608 94.337008 274.00608  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 90.737008 272.20608  L 94.337008 274.00608  L 90.737008 275.80608  z " clip-path="url(#p713b6830d9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 187.2 291.382774  Q 187.2 295.535565 187.2 298.682125  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 189 295.082125  L 187.2 298.682125  L 185.4 295.082125  z " clip-path="url(#p713b6830d9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 18.27072 75.6144  L 356.12928 75.6144  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 18.27072 109.44864  L 356.12928 109.44864  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 18.27072 143.28288  L 356.12928 143.28288  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 18.27072 177.11712  L 356.12928 177.11712  " clip-path="url(#p713b6830d9)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ <defs>
+  <clipPath id="p713b6830d9">
+   <rect x="7.488" y="6.408" width="359.424" height="307.584"/>
+  </clipPath>
+ </defs>
+<text x="18.271" y="31.568" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="18.271" dy="0">Task enters</tspan></text><text x="136.881" y="31.199" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="136.881" dy="0">Match current rule and applicable conditions</tspan></text><text x="18.271" y="85.589" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="18.271" dy="0">Complete conditions; authorized</tspan><tspan x="18.271" dy="11.4">action</tspan></text><text x="194.388" y="85.589" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="194.388" dy="0">Generate result → Business receives</tspan><tspan x="194.388" dy="11.4">and records</tspan></text><text x="18.271" y="134.648" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="18.271" dy="0">Missing materials or low</tspan><tspan x="18.271" dy="11.4">confidence</tspan></text><text x="194.388" y="134.648" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="194.388" dy="0">Generate missing-materials list →</tspan><tspan x="194.388" dy="11.4">Assign reviewer</tspan></text><text x="18.271" y="186.558" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="18.271" dy="0">Rule conflict or outside scope</tspan></text><text x="194.388" y="183.708" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="194.388" dy="0">Pause action → Refer to approver for</tspan><tspan x="194.388" dy="11.4">decision</tspan></text><text x="18.271" y="232.768" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="18.271" dy="0">Counterexample or version</tspan><tspan x="18.271" dy="11.4">change</tspan></text><text x="194.388" y="232.768" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="194.388" dy="0">Mark affected scope → Pause or</tspan><tspan x="194.388" dy="11.4">narrow scope</tspan></text><text x="18.271" y="289.877" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="18.271" dy="0">Approver decides</tspan></text><text x="18.271" y="329.462" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="18.271" dy="0">Retain rule</tspan></text><text x="108.127" y="329.277" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="108.127" dy="0">Explain why it still applies</tspan></text><text x="18.271" y="362.292" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="18.271" dy="0">Limited</tspan><tspan x="18.271" dy="11.4">revision</tspan></text><text x="108.127" y="362.107" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="108.127" dy="0">New version, effective date, affected tasks, revalidation</tspan><tspan x="108.127" dy="11.4">samples</tspan></text><text x="18.271" y="400.821" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="18.271" dy="0">Withdraw rule</tspan></text><text x="108.127" y="397.787" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="108.127" dy="0">Stop new tasks, handle existing work, retain alternative</tspan><tspan x="108.127" dy="11.4">process</tspan></text><text x="208.765" y="445.606" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="208.765" dy="0">Role updates and revalidates</tspan></text></svg>

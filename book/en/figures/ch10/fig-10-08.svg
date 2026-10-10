@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="244.8pt" viewBox="0 0 504 244.8" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 244.8  L 504 244.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 113.148 90.86976  L 189.756 90.86976  L 189.756 54.8352  L 113.148 54.8352  z " clip-path="url(#pd3eb1ad601)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 199.332 90.86976  L 275.94 90.86976  L 275.94 54.8352  L 199.332 54.8352  z " clip-path="url(#pd3eb1ad601)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 285.516 90.86976  L 362.124 90.86976  L 362.124 54.8352  L 285.516 54.8352  z " clip-path="url(#pd3eb1ad601)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 371.7 90.86976  L 448.308 90.86976  L 448.308 54.8352  L 371.7 54.8352  z " clip-path="url(#pd3eb1ad601)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 113.148 135.91296  L 189.756 135.91296  L 189.756 99.8784  L 113.148 99.8784  z " clip-path="url(#pd3eb1ad601)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 199.332 135.91296  L 275.94 135.91296  L 275.94 99.8784  L 199.332 99.8784  z " clip-path="url(#pd3eb1ad601)" style="fill: #eedfd3; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 285.516 135.91296  L 362.124 135.91296  L 362.124 99.8784  L 285.516 99.8784  z " clip-path="url(#pd3eb1ad601)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 371.7 135.91296  L 448.308 135.91296  L 448.308 99.8784  L 371.7 99.8784  z " clip-path="url(#pd3eb1ad601)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 113.148 180.95616  L 189.756 180.95616  L 189.756 144.9216  L 113.148 144.9216  z " clip-path="url(#pd3eb1ad601)" style="fill: #eedfd3; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 199.332 180.95616  L 275.94 180.95616  L 275.94 144.9216  L 199.332 144.9216  z " clip-path="url(#pd3eb1ad601)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 285.516 180.95616  L 362.124 180.95616  L 362.124 144.9216  L 285.516 144.9216  z " clip-path="url(#pd3eb1ad601)" style="fill: #eedfd3; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 371.7 180.95616  L 448.308 180.95616  L 448.308 144.9216  L 371.7 144.9216  z " clip-path="url(#pd3eb1ad601)" style="fill: #eedfd3; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 113.148 225.99936  L 189.756 225.99936  L 189.756 189.9648  L 113.148 189.9648  z " clip-path="url(#pd3eb1ad601)" style="fill: #eedfd3; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 199.332 225.99936  L 275.94 225.99936  L 275.94 189.9648  L 199.332 189.9648  z " clip-path="url(#pd3eb1ad601)" style="fill: #eedfd3; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 285.516 225.99936  L 362.124 225.99936  L 362.124 189.9648  L 285.516 189.9648  z " clip-path="url(#pd3eb1ad601)" style="fill: #eedfd3; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 371.7 225.99936  L 448.308 225.99936  L 448.308 189.9648  L 371.7 189.9648  z " clip-path="url(#pd3eb1ad601)" style="fill: #eedfd3; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text x="153.000" y="28.308" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="153.000" dy="0">Run 1</tspan></text></g>
+   <g id="text_2">
+    <text x="239.000" y="28.308" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="239.000" dy="0">Run 2</tspan></text></g>
+   <g id="text_3">
+    <text x="325.000" y="28.308" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="325.000" dy="0">Run 3</tspan></text></g>
+   <g id="text_4">
+    <text x="411.000" y="28.308" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="411.000" dy="0">Run 4</tspan></text></g>
+   <g id="text_5">
+    <text x="26.964" y="75.657" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Task A</tspan></text></g>
+   <g id="text_6">
+    <text x="149.330" y="76.677" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="149.330" dy="0">✓</tspan></text></g>
+   <g id="text_7">
+    <text x="235.514" y="76.677" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="235.514" dy="0">✓</tspan></text></g>
+   <g id="text_8">
+    <text x="321.698" y="76.677" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="321.698" dy="0">✓</tspan></text></g>
+   <g id="text_9">
+    <text x="407.882" y="76.677" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="407.882" dy="0">✓</tspan></text></g>
+   <g id="text_10">
+    <text x="26.964" y="120.701" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Task B</tspan></text></g>
+   <g id="text_11">
+    <text x="149.330" y="121.721" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="149.330" dy="0">✓</tspan></text></g>
+   <g id="text_12">
+    <text x="233.136" y="121.721" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="233.136" dy="0">×</tspan></text></g>
+   <g id="text_13">
+    <text x="321.698" y="121.721" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="321.698" dy="0">✓</tspan></text></g>
+   <g id="text_14">
+    <text x="407.882" y="121.721" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="407.882" dy="0">✓</tspan></text></g>
+   <g id="text_15">
+    <text x="26.964" y="165.744" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Task C</tspan></text></g>
+   <g id="text_16">
+    <text x="146.952" y="166.764" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="146.952" dy="0">×</tspan></text></g>
+   <g id="text_17">
+    <text x="235.514" y="166.764" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="235.514" dy="0">✓</tspan></text></g>
+   <g id="text_18">
+    <text x="319.320" y="166.764" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="319.320" dy="0">×</tspan></text></g>
+   <g id="text_19">
+    <text x="405.504" y="166.764" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="405.504" dy="0">×</tspan></text></g>
+   <g id="text_20">
+    <text x="26.964" y="210.787" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Task D</tspan></text></g>
+   <g id="text_21">
+    <text x="146.952" y="211.807" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="146.952" dy="0">×</tspan></text></g>
+   <g id="text_22">
+    <text x="233.136" y="211.807" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="233.136" dy="0">×</tspan></text></g>
+   <g id="text_23">
+    <text x="319.320" y="211.807" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="319.320" dy="0">×</tspan></text></g>
+   <g id="text_24">
+    <text x="405.504" y="211.807" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="15" text-anchor="start"><tspan x="405.504" dy="0">×</tspan></text></g>
+   <g id="text_25">
+    <text x="482.000" y="237.759" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="end"><tspan x="482.000" dy="0">✓ Passed all checks × Did not pass</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd3eb1ad601">
+   <rect x="12.6" y="9.792" width="478.8" height="225.216"/>
+  </clipPath>
+ </defs>
+</svg>

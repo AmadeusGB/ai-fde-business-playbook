@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="132mm" height="88.338mm" viewBox="0 0 374.4 250.560" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:50:20.269888</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1" transform="scale(1.0 1.45)">
+  <g id="patch_1">
+   <path d="M 0 172.8  L 374.4 172.8  L 374.4 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 183.60576 145.86048  L 183.60576 26.93952  " clip-path="url(#p1c558751fa)" style="fill: none; stroke-dasharray: 0.6,0.99; stroke-dashoffset: 0; stroke: #bfc9c0; stroke-width: 0.6"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 174.825056 34.97472  Q 188.999802 34.97472 202.168318 34.97472  " clip-path="url(#p1c558751fa)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 198.568318 33.17472  L 202.168318 34.97472  L 198.568318 36.77472  z " clip-path="url(#p1c558751fa)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 352.53504 57.86837  Q 352.53504 78.364731 352.53504 97.85486  " clip-path="url(#p1c558751fa)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 354.33504 94.25486  L 352.53504 97.85486  L 350.73504 94.25486  z " clip-path="url(#p1c558751fa)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 203.17401 120.14784  Q 190.796736 120.14784 179.425693 120.14784  " clip-path="url(#p1c558751fa)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 183.025693 121.94784  L 179.425693 120.14784  L 183.025693 118.34784  z " clip-path="url(#p1c558751fa)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 18.27072 98.86123  Q 18.27072 78.364869 18.27072 58.87474  " clip-path="url(#p1c558751fa)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 16.47072 62.47474  L 18.27072 58.87474  L 20.07072 62.47474  z " clip-path="url(#p1c558751fa)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ <defs>
+  <clipPath id="p1c558751fa">
+   <rect x="7.488" y="6.048" width="359.424" height="160.704"/>
+  </clipPath>
+ </defs>
+<text x="21.865" y="54.041" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="21.865" dy="0">01</tspan></text><text x="47.025" y="54.596" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="47.025" dy="0">Report new conditions</tspan></text><text x="47.025" y="91.509" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="47.025" dy="0">Specify affected tasks</tspan></text><text x="215.954" y="54.041" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="215.954" dy="0">02</tspan></text><text x="241.114" y="51.596" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="241.114" dy="0">Assign resolution</tspan><tspan x="241.114" dy="12.0">responsibility</tspan></text><text x="241.114" y="91.509" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="241.114" dy="0">Name each party's lead</tspan></text><text x="215.954" y="177.542" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="215.954" dy="0">03</tspan></text><text x="241.114" y="178.097" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="241.114" dy="0">Validate the change</tspan></text><text x="241.114" y="215.010" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="241.114" dy="0">Repeat task; test recovery</tspan></text><text x="21.865" y="177.542" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="21.865" dy="0">04</tspan></text><text x="47.025" y="178.097" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="47.025" dy="0">Update operating materials</tspan></text><text x="47.025" y="215.010" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="9.5" text-anchor="start"><tspan x="47.025" dy="0">Notify recipients</tspan></text></svg>

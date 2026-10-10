@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="374.4pt" height="172.8pt" viewBox="0 0 374.4 172.8" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 172.8  L 374.4 172.8  L 374.4 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 183.60576 145.86048  L 183.60576 26.93952  " clip-path="url(#p02c38cb03f)" style="fill: none; stroke-dasharray: 0.6,0.99; stroke-dashoffset: 0; stroke: #bfc9c0; stroke-width: 0.6"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 174.825056 34.97472  Q 188.999802 34.97472 202.168318 34.97472  " clip-path="url(#p02c38cb03f)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 198.568318 33.17472  L 202.168318 34.97472  L 198.568318 36.77472  z " clip-path="url(#p02c38cb03f)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 352.53504 57.86837  Q 352.53504 78.364731 352.53504 97.85486  " clip-path="url(#p02c38cb03f)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 354.33504 94.25486  L 352.53504 97.85486  L 350.73504 94.25486  z " clip-path="url(#p02c38cb03f)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 203.17401 120.14784  Q 190.796736 120.14784 179.425693 120.14784  " clip-path="url(#p02c38cb03f)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 183.025693 121.94784  L 179.425693 120.14784  L 183.025693 118.34784  z " clip-path="url(#p02c38cb03f)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 18.27072 98.86123  Q 18.27072 78.364869 18.27072 58.87474  " clip-path="url(#p02c38cb03f)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 16.47072 62.47474  L 18.27072 58.87474  L 20.07072 62.47474  z " clip-path="url(#p02c38cb03f)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="21.865" y="37.270" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="9" text-anchor="start"><tspan x="21.865" dy="0">01</tspan></text></g>
+   <g id="text_2">
+    <text x="47.025" y="37.652" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="47.025" dy="0">State the main conclusion</tspan></text></g>
+   <g id="text_3">
+    <text x="47.025" y="63.110" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="47.025" dy="0">Define its scope</tspan></text></g>
+   <g id="text_4">
+    <text x="215.954" y="37.270" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="9" text-anchor="start"><tspan x="215.954" dy="0">02</tspan></text></g>
+   <g id="text_5">
+    <text x="241.114" y="31.562" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="241.114" dy="0">Attach measurement</tspan><tspan x="241.114" dy="12.18">definitions</tspan></text></g>
+   <g id="text_6">
+    <text x="241.114" y="57.020" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="241.114" dy="0">Numerator, denominator,</tspan><tspan x="241.114" dy="12.18">and period</tspan></text></g>
+   <g id="text_7">
+    <text x="215.954" y="122.443" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="9" text-anchor="start"><tspan x="215.954" dy="0">03</tspan></text></g>
+   <g id="text_8">
+    <text x="241.114" y="122.825" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="241.114" dy="0">Retain original records</tspan></text></g>
+   <g id="text_9">
+    <text x="241.114" y="148.283" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="241.114" dy="0">Tasks can be located</tspan></text></g>
+   <g id="text_10">
+    <text x="21.865" y="122.443" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="9" text-anchor="start"><tspan x="21.865" dy="0">04</tspan></text></g>
+   <g id="text_11">
+    <text x="47.025" y="122.825" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="47.025" dy="0">Arrange a review</tspan></text></g>
+   <g id="text_12">
+    <text x="47.025" y="142.193" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="47.025" dy="0">Update when evidence</tspan><tspan x="47.025" dy="12.18">changes</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p02c38cb03f">
+   <rect x="7.488" y="6.048" width="359.424" height="160.704"/>
+  </clipPath>
+ </defs>
+</svg>

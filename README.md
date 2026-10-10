@@ -32,3 +32,8 @@
 ## 分享与使用
 
 欢迎依照[版权与分享说明](book/copyright-and-sharing.md)免费阅读、分享，并在企业内部使用书中原创工具。
+
+
+## English edition
+
+The complete English edition, **Bringing AI into Business Operations**, is available as [18 chapters and 18 worksheets](book/en/README.md). The October 10, 2026 edition completed AI-assisted translation and production review; native English editorial review remains pending.

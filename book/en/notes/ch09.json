@@ -1,0 +1,30 @@
+[
+  {
+    "note": 1,
+    "publication_text": "Palantir, Foundry platform summary, “Action Types” and “AIP Chatbot Studio,” checked against the official website and archive on September 7, 2026. Cited for distinctions between functions, not as evidence of implementation outcomes.",
+    "urls": [
+      "https://www.palantir.com/docs/foundry/getting-started/foundry-platform-summary-llm"
+    ]
+  },
+  {
+    "note": 2,
+    "publication_text": "OWASP, LLMSVS controls V6.1, 6.4, and 6.7, checked against the historical official GitHub text on September 10, 2026. The filename's v1.0 differs from the body's 0.1/alpha description. This chapter therefore does not claim a final version or official certification.",
+    "urls": [
+      "https://github.com/OWASP/www-project-llm-verification-standard/blob/main/LLMSVS-v1.0-en.md"
+    ]
+  },
+  {
+    "note": 3,
+    "publication_text": "Same source as this chapter's note 2, V5.12–5.13. Only the control principle for untrusted inputs and outputs is used. The specific architecture, settlement calculation, and checklists are the author's designs.",
+    "urls": [
+      "https://github.com/OWASP/www-project-llm-verification-standard/blob/main/LLMSVS-v1.0-en.md"
+    ]
+  },
+  {
+    "note": 4,
+    "publication_text": "Alibaba Cloud, QoderWake CN quick start, roles, memory, and permission management, updated June 9, 2026 and checked September 7, 2026. Product documentation does not establish actual task success rates. This chapter does not infer from local memory storage that all inference data stay local.",
+    "urls": [
+      "https://www.alibabacloud.com/help/zh/lingma/get-started-quickly"
+    ]
+  }
+]

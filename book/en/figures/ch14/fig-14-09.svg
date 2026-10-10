@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="550.30407605pt" viewBox="0 0 504.0 550.30407605" version="1.1">
+ <rect x="0" y="0" width="504.0" height="550.30407605" fill="#ffffff"/><metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:28.259343</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p5cdc0f154f">
+   <rect x="12.6" y="11.664" width="478.8" height="265.356"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <pattern id="h14515e31cf" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+   <rect x="0" y="0" width="73" height="73" fill="#e5eade"/>
+   <path d="M -36 36  L 36 -36  M -30 42  L 42 -30  M -24 48  L 48 -24  M -18 54  L 54 -18  M -12 60  L 60 -12  M -6 66  L 66 -6  M 0 72  L 72 0  M 6 78  L 78 6  M 12 84  L 84 12  M 18 90  L 90 18  M 24 96  L 96 24  M 30 102  L 102 30  M 36 108  L 108 36  " style="fill: #bfc9c0; stroke: #bfc9c0; stroke-width: 1.0; stroke-linecap: round; stroke-linejoin: miter"/>
+  </pattern>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 291.6  L 504 291.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 141.876 231.90948  L 141.876 48.81384  " clip-path="url(#p5cdc0f154f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 194.544 231.90948  L 194.544 48.81384  " clip-path="url(#p5cdc0f154f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 247.212 231.90948  L 247.212 48.81384  " clip-path="url(#p5cdc0f154f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 299.88 231.90948  L 299.88 48.81384  " clip-path="url(#p5cdc0f154f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 352.548 231.90948  L 352.548 48.81384  " clip-path="url(#p5cdc0f154f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 405.216 231.90948  L 405.216 48.81384  " clip-path="url(#p5cdc0f154f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 457.884 231.90948  L 457.884 48.81384  " clip-path="url(#p5cdc0f154f)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 141.876 75.34944  L 352.548 75.34944  L 352.548 46.16028  L 141.876 46.16028  z " clip-path="url(#p5cdc0f154f)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 352.548 75.34944  L 394.6824 75.34944  L 394.6824 46.16028  L 352.548 46.16028  z " clip-path="url(#p5cdc0f154f)" style="fill: url(#h14515e31cf); stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 141.876 125.76708  L 268.2792 125.76708  L 268.2792 96.57792  L 141.876 96.57792  z " clip-path="url(#p5cdc0f154f)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 268.2792 125.76708  L 342.0144 125.76708  L 342.0144 96.57792  L 268.2792 96.57792  z " clip-path="url(#p5cdc0f154f)" style="fill: url(#h14515e31cf); stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 141.876 176.18472  L 268.2792 176.18472  L 268.2792 146.99556  L 141.876 146.99556  z " clip-path="url(#p5cdc0f154f)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 268.2792 176.18472  L 394.6824 176.18472  L 394.6824 146.99556  L 268.2792 146.99556  z " clip-path="url(#p5cdc0f154f)" style="fill: url(#h14515e31cf); stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 141.876 226.60236  L 268.2792 226.60236  L 268.2792 197.4132  L 141.876 197.4132  z " clip-path="url(#p5cdc0f154f)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 268.2792 226.60236  L 426.2832 226.60236  L 426.2832 197.4132  L 268.2792 197.4132  z " clip-path="url(#p5cdc0f154f)" style="fill: url(#h14515e31cf); stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text x="14" y="46.709" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="14" dy="0">One delivery + next 8 weeks | Hours | Teaching assumptions</tspan></text></g>
+   <g id="text_2">
+    <text x="138.968" y="473.395" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="138.968" dy="0">0</tspan></text></g>
+   <g id="text_3">
+    <text x="188.728" y="473.395" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="188.728" dy="0">20</tspan></text></g>
+   <g id="text_4">
+    <text x="241.396" y="473.395" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="241.396" dy="0">40</tspan></text></g>
+   <g id="text_5">
+    <text x="294.064" y="473.395" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="294.064" dy="0">60</tspan></text></g>
+   <g id="text_6">
+    <text x="346.732" y="473.395" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="346.732" dy="0">80</tspan></text></g>
+   <g id="text_7">
+    <text x="396.492" y="473.395" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="396.492" dy="0">100</tspan></text></g>
+   <g id="text_8">
+    <text x="449.16" y="473.395" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="449.16" dy="0">120</tspan></text></g>
+   <g id="text_9">
+    <text x="22.176" y="119.941" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="22.176" dy="0">Reimplement</tspan></text></g>
+   <g id="text_10">
+    <text x="241.396" y="117.486" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="241.396" dy="0">80</tspan></text></g>
+   <g id="text_11">
+    <text x="367.799" y="117.486" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="367.799" dy="0">16</tspan></text></g>
+   <g id="text_12">
+    <text x="399.47" y="117.486" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="399.47" dy="0">96</tspan></text></g>
+   <g id="text_13">
+    <text x="22.176" y="213.213" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="22.176" dy="0">Reuse: baseline</tspan></text></g>
+   <g id="text_14">
+    <text x="199.262" y="210.759" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="199.262" dy="0">48</tspan></text></g>
+   <g id="text_15">
+    <text x="299.331" y="210.759" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="299.331" dy="0">28</tspan></text></g>
+   <g id="text_16">
+    <text x="346.802" y="210.759" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="346.802" dy="0">76</tspan></text></g>
+   <g id="text_17">
+    <text x="22.176" y="306.486" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="22.176" dy="0">Reuse: equal total</tspan></text></g>
+   <g id="text_18">
+    <text x="199.262" y="304.032" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="199.262" dy="0">48</tspan></text></g>
+   <g id="text_19">
+    <text x="325.665" y="304.032" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="325.665" dy="0">48</tspan></text></g>
+   <g id="text_20">
+    <text x="399.47" y="304.032" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="399.47" dy="0">96</tspan></text></g>
+   <g id="text_21">
+    <text x="22.176" y="399.759" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="22.176" dy="0">Reuse: more</tspan><tspan x="22.176" dy="14.75">support</tspan></text></g>
+   <g id="text_22">
+    <text x="199.262" y="397.304" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="199.262" dy="0">48</tspan></text></g>
+   <g id="text_23">
+    <text x="341.465" y="397.304" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="341.465" dy="0">60</tspan></text></g>
+   <g id="text_24">
+    <text x="431.071" y="397.304" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="10.789200000000001" transform="scale(1 0.5405405405405405)"><tspan x="431.071" dy="0">108</tspan></text></g>
+   <g id="text_25">
+    <text x="14" y="532.304" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="14" dy="0">Dark: delivery | Hatched: later support | Shared development separate</tspan></text></g>
+  </g>
+ </g>
+ </g></svg>

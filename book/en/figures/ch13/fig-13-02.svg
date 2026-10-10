@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="492.84pt" viewBox="0 0 504.0 492.84" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:27.290753</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pe2afe36b4e">
+   <rect x="12.6" y="10.656" width="478.8" height="242.424"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 266.4  L 504 266.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 129.513819 71.262  Q 151.451844 71.262 171.936426 71.262  " clip-path="url(#pe2afe36b4e)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 167.536426 69.062  L 171.936426 71.262  L 167.536426 73.462  z " clip-path="url(#pe2afe36b4e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 306.669527 71.262  Q 326.21534 71.262 344.307709 71.262  " clip-path="url(#pe2afe36b4e)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 339.907709 69.062  L 344.307709 71.262  L 339.907709 73.462  z " clip-path="url(#pe2afe36b4e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 22.176 143.9892  L 477.036 143.9892  " clip-path="url(#pe2afe36b4e)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 74.844 136.292416  Q 74.844 145.202283 74.844 152.658707  " clip-path="url(#pe2afe36b4e)" style="fill: none; stroke: #58615c; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 77.044 148.258707  L 74.844 152.658707  L 72.644 148.258707  z " clip-path="url(#pe2afe36b4e)" style="fill: #58615c; stroke: #58615c; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 247.212 136.292416  Q 247.212 145.202283 247.212 152.658707  " clip-path="url(#pe2afe36b4e)" style="fill: none; stroke: #58615c; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 249.412 148.258707  L 247.212 152.658707  L 245.012 148.258707  z " clip-path="url(#pe2afe36b4e)" style="fill: #58615c; stroke: #58615c; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 414.792 136.292416  Q 414.792 145.202283 414.792 152.658707  " clip-path="url(#pe2afe36b4e)" style="fill: none; stroke: #58615c; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 416.992 148.258707  L 414.792 152.658707  L 412.592 148.258707  z " clip-path="url(#pe2afe36b4e)" style="fill: #58615c; stroke: #58615c; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="22.176" y="70.695" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="22.176" dy="0">Assisted publication</tspan></text></g>
+   <g id="text_2">
+    <text x="22.176" y="160.021" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="22.176" dy="0">Condense summaries</tspan></text><text x="22.176" y="185.784" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="22.176" dy="0">Complete citations</tspan></text></g>
+   <g id="text_3">
+    <text x="194.544" y="70.695" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="194.544" dy="0">Review missed errors</tspan></text></g>
+   <g id="text_4">
+    <text x="194.544" y="160.021" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="194.544" dy="0">Some corrected</tspan></text><text x="194.544" y="185.784" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="194.544" dy="0">Others missed</tspan></text></g>
+   <g id="text_5">
+    <text x="362.124" y="70.695" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="362.124" dy="0">External leads</tspan></text></g>
+   <g id="text_6">
+    <text x="362.124" y="160.021" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="362.124" dy="0">Four source questions</tspan></text><text x="362.124" y="185.784" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="362.124" dy="0">Expand review</tspan></text></g>
+   <g id="text_7">
+    <text x="22.176" y="348.385" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="22.176" dy="0">Approval of uses</tspan></text><text x="22.176" y="374.148" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="22.176" dy="0">Match sources to outputs</tspan></text></g>
+   <g id="text_8">
+    <text x="194.544" y="348.385" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="194.544" dy="0">Itemized review records</tspan></text><text x="194.544" y="374.148" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="194.544" dy="0">Required process followed?</tspan></text></g>
+   <g id="text_9">
+    <text x="362.124" y="348.385" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="362.124" dy="0">Scope of similar</tspan><tspan x="362.124" dy="14.75">content</tspan></text><text x="362.124" y="380.635" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="362.124" dy="0">Downstream versions</tspan><tspan x="362.124" dy="14.75">and recipients</tspan></text></g>
+   <g id="text_10">
+    <text x="14" y="473.587" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="14" dy="0">Top: source records | Bottom: author's proposed checks</tspan></text></g>
+  </g>
+ </g>
+ </g></svg>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="259.2pt" viewBox="0 0 504 259.2" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 26.964 129.6  L 477.036 129.6  " clip-path="url(#p73be1a1ba8)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="53.367" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="19.0" text-anchor="start"><tspan x="26.964" dy="0">8+ hours → &lt;10 min</tspan></text></g>
+   <g id="text_2">
+    <text x="26.964" y="96.582" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="26.964" dy="0">Processing time shown in slides</tspan></text></g>
+   <g id="text_3">
+    <text x="285.516" y="53.367" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="19.0" text-anchor="start"><tspan x="285.516" dy="0">F1 = 0.95</tspan></text></g>
+   <g id="text_4">
+    <text x="285.516" y="96.582" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="285.516" dy="0">Quality figure shown in slides</tspan></text></g>
+   <g id="text_5">
+    <text x="26.964" y="168.175" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Is the work scope the same?</tspan></text></g>
+   <g id="text_6">
+    <text x="26.964" y="220.637" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Is human review included?</tspan></text></g>
+   <g id="text_7">
+    <text x="285.516" y="168.175" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="285.516" dy="0">How many reports? Which fields?</tspan></text></g>
+   <g id="text_8">
+    <text x="285.516" y="220.637" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="285.516" dy="0">How scored? Over what period?</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p73be1a1ba8">
+   <rect x="12.6" y="10.368" width="478.8" height="238.464"/>
+  </clipPath>
+ </defs>
+</svg>

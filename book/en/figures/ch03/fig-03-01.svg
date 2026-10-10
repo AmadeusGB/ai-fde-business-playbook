@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504pt" height="259.2pt" viewBox="0 0 504 259.2" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:11.415512</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 22.176 241.67808  L 481.824 241.67808  L 481.824 22.39488  L 22.176 22.39488  z " clip-path="url(#p106852b01d)" style="fill: #ffffff; stroke: #252c29; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 55.692 200.25792  L 218.484 200.25792  L 218.484 105.2352  L 55.692 105.2352  z " clip-path="url(#p106852b01d)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 295.092 200.25792  L 443.52 200.25792  L 443.52 105.2352  L 295.092 105.2352  z " clip-path="url(#p106852b01d)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 225.27265 153.9648  Q 256.790071 153.9648 286.965852 153.9648  " clip-path="url(#p106852b01d)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 282.165852 151.5648  L 286.965852 153.9648  L 282.165852 156.3648  z " clip-path="url(#p106852b01d)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="46.1" y="50.1" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="start"><tspan x="46.1" y="50.1">Digital role: tasks, authorization, review, and takeover</tspan></text></g>
+   <g id="text_2">
+    <text x="137.1" y="148.8" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle"><tspan x="137.1" y="148.8">Human delivery team</tspan><tspan x="137.1" y="163.20000000000002">Build and maintain</tspan></text></g>
+   <g id="text_3">
+    <text x="367.3" y="148.8" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle"><tspan x="367.3" y="148.8">Software agent</tspan><tspan x="367.3" y="163.20000000000002">Use tools to execute</tspan></text></g>
+   <g id="text_4">
+    <text x="252" y="229.9" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="252" y="229.9">The company assigns responsibility for the whole task</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p106852b01d">
+   <rect x="12.6" y="7.776" width="478.8" height="243.648"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="401.76pt" viewBox="0 0 504.0 401.76" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:24.050786</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p28b7b1db5b">
+   <rect x="12.6" y="10.368" width="478.8" height="238.464"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 201.334403 67.59936  Q 228.061047 67.59936 253.334246 67.59936  " clip-path="url(#p28b7b1db5b)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 248.934246 65.39936  L 253.334246 67.59936  L 248.934246 69.79936  z " clip-path="url(#p28b7b1db5b)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 362.124 129.21663  Q 362.124 140.330321 362.124 149.990569  " clip-path="url(#p28b7b1db5b)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 364.324 145.590569  L 362.124 149.990569  L 359.924 145.590569  z " clip-path="url(#p28b7b1db5b)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 254.786473 186.83136  Q 235.24066 186.83136 217.148291 186.83136  " clip-path="url(#p28b7b1db5b)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 221.548291 189.03136  L 217.148291 186.83136  L 221.548291 184.63136  z " clip-path="url(#p28b7b1db5b)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="26.964" y="105.687" font-size="21.00" style="fill: #98522e" data-source-index="1"><tspan x="26.964" dy="0">1</tspan></text><text x="65.268" y="102.525" font-size="13.00" style="fill: #252c29" data-source-index="2"><tspan x="65.268" dy="0">Final decision</tspan></text><text x="65.268" y="160.790" font-size="12.00" style="fill: #58615c" data-source-index="3"><tspan x="65.268" dy="0">How this task was handled</tspan></text><text x="271.152" y="105.687" font-size="21.00" style="fill: #98522e" data-source-index="4"><tspan x="271.152" dy="0">2</tspan></text><text x="309.456" y="102.525" font-size="13.00" style="fill: #252c29" data-source-index="5"><tspan x="309.456" dy="0">Triggering clue</tspan></text><text x="309.456" y="160.790" font-size="12.00" style="fill: #58615c" data-source-index="6"><tspan x="309.456" dy="0">What was noticed</tspan></text><text x="271.152" y="290.496" font-size="21.00" style="fill: #98522e" data-source-index="7"><tspan x="271.152" dy="0">3</tspan></text><text x="309.456" y="287.334" font-size="13.00" style="fill: #252c29" data-source-index="8"><tspan x="309.456" dy="0">Original basis</tspan></text><text x="309.456" y="338.820" font-size="12.00" style="fill: #58615c" data-source-index="9"><tspan x="309.456" dy="0">Where the materials and versions</tspan><tspan x="309.456" dy="13.560">are</tspan></text><text x="26.964" y="290.496" font-size="21.00" style="fill: #98522e" data-source-index="10"><tspan x="26.964" dy="0">4</tspan></text><text x="65.268" y="287.334" font-size="13.00" style="fill: #252c29" data-source-index="11"><tspan x="65.268" dy="0">Changed condition</tspan></text><text x="65.268" y="345.600" font-size="12.00" style="fill: #58615c" data-source-index="12"><tspan x="65.268" dy="0">Which fact would change the judgment</tspan></text></g></svg>

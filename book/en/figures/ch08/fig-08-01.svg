@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="390.6pt" viewBox="0 0 504.0 390.6" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:17.193521</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p8121c80179">
+   <rect x="12.6" y="10.08" width="478.8" height="231.84"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 26.964 70.3584  L 477.036 70.3584  " clip-path="url(#p8121c80179)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="26.964" y="69.850" font-size="19.00" style="fill: #252c29" data-source-index="1"><tspan x="26.964" dy="0">“Onboard a data source”</tspan></text><text x="26.964" y="175.679" font-size="14.00" style="fill: #98522e" data-source-index="2"><tspan x="26.964" dy="0">01</tspan></text><text x="70.056" y="174.888" font-size="12.00" style="fill: #252c29" data-source-index="3"><tspan x="70.056" dy="0">Identify the source and prepare</tspan></text><text x="271.152" y="175.679" font-size="14.00" style="fill: #98522e" data-source-index="4"><tspan x="271.152" dy="0">02</tspan></text><text x="314.244" y="174.888" font-size="12.00" style="fill: #252c29" data-source-index="5"><tspan x="314.244" dy="0">Write ingestion pipelines</tspan></text><text x="26.964" y="261.923" font-size="14.00" style="fill: #98522e" data-source-index="6"><tspan x="26.964" dy="0">03</tspan></text><text x="70.056" y="254.353" font-size="12.00" style="fill: #252c29" data-source-index="7"><tspan x="70.056" dy="0">Model data and configure</tspan><tspan x="70.056" dy="13.560">connections</tspan></text><text x="271.152" y="261.923" font-size="14.00" style="fill: #98522e" data-source-index="8"><tspan x="271.152" dy="0">04</tspan></text><text x="314.244" y="254.353" font-size="12.00" style="fill: #252c29" data-source-index="9"><tspan x="314.244" dy="0">Permissions and deployment</tspan><tspan x="314.244" dy="13.560">across environments</tspan></text><text x="26.964" y="348.168" font-size="14.00" style="fill: #98522e" data-source-index="10"><tspan x="26.964" dy="0">05</tspan></text><text x="70.056" y="347.377" font-size="12.00" style="fill: #252c29" data-source-index="11"><tspan x="70.056" dy="0">Test and validate</tspan></text></g></svg>

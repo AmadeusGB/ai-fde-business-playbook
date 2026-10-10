@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="280.8pt" viewBox="0 0 504 280.8" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 280.8  L 504 280.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 79.632 157.68324  L 462.672 157.68324  " clip-path="url(#pc3a9d5792b)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 79.632 103.72752  L 462.672 103.72752  " clip-path="url(#pc3a9d5792b)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 79.632 49.7718  L 462.672 49.7718  " clip-path="url(#pc3a9d5792b)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 127.512 118.187653  L 271.152 89.699033  " clip-path="url(#pc3a9d5792b)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 271.152 89.699033  L 414.792 59.591741  " clip-path="url(#pc3a9d5792b)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 22.176 209.06964  L 477.036 209.06964  " clip-path="url(#pc3a9d5792b)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <defs>
+     <path id="m3d4b8e0232" d="M 0 4  C 1.060812 4 2.078319 3.578535 2.828427 2.828427  C 3.578535 2.078319 4 1.060812 4 0  C 4 -1.060812 3.578535 -2.078319 2.828427 -2.828427  C 2.078319 -3.578535 1.060812 -4 0 -4  C -1.060812 -4 -2.078319 -3.578535 -2.828427 -2.828427  C -3.578535 -2.078319 -4 -1.060812 -4 0  C -4 1.060812 -3.578535 2.078319 -2.828427 2.828427  C -2.078319 3.578535 -1.060812 4 0 4  z " style="stroke: #24564b"/>
+    </defs>
+    <g clip-path="url(#pc3a9d5792b)">
+     <use xlink:href="#m3d4b8e0232" x="127.512" y="118.187653" style="fill: #24564b; stroke: #24564b"/>
+    </g>
+   </g>
+   <g id="line2d_8">
+    <g clip-path="url(#pc3a9d5792b)">
+     <use xlink:href="#m3d4b8e0232" x="271.152" y="89.699033" style="fill: #24564b; stroke: #24564b"/>
+    </g>
+   </g>
+   <g id="line2d_9">
+    <g clip-path="url(#pc3a9d5792b)">
+     <use xlink:href="#m3d4b8e0232" x="414.792" y="59.591741" style="fill: #24564b; stroke: #24564b"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text x="50.627" y="160.434" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="50.627" dy="0">0%</tspan></text></g>
+   <g id="text_2">
+    <text x="44.811" y="106.479" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="44.811" dy="0">50%</tspan></text></g>
+   <g id="text_3">
+    <text x="38.995" y="52.523" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="38.995" dy="0">100%</tspan></text></g>
+   <g id="text_4">
+    <text x="111.599" y="100.693" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="111.599" dy="0">36.6%</tspan></text></g>
+   <g id="text_5">
+    <text x="115.653" y="183.612" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="115.653" dy="0">2023</tspan></text></g>
+   <g id="text_6">
+    <text x="255.239" y="72.204" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="255.239" dy="0">63.0%</tspan></text></g>
+   <g id="text_7">
+    <text x="259.293" y="183.612" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="259.293" dy="0">2024</tspan></text></g>
+   <g id="text_8">
+    <text x="398.879" y="42.097" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="398.879" dy="0">90.9%</tspan></text></g>
+   <g id="text_9">
+    <text x="402.933" y="183.612" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="402.933" dy="0">2025</tspan></text></g>
+   <g id="text_10">
+    <text x="22.176" y="21.910" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="22.176" dy="0">One annual data edition | including exceptions</tspan></text></g>
+   <g id="text_11">
+    <text x="26.964" y="245.222" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="26.964" dy="0">Separate procurement record</tspan></text></g>
+   <g id="text_12">
+    <text x="189.756" y="245.276" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="189.756" dy="0">2025-06-19: signed</tspan></text></g>
+   <g id="text_13">
+    <text x="482.000" y="270.915" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="end"><tspan x="482.000" dy="0">First AI use date: unidentified</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc3a9d5792b">
+   <rect x="12.6" y="11.232" width="478.8" height="256.932"/>
+  </clipPath>
+ </defs>
+</svg>

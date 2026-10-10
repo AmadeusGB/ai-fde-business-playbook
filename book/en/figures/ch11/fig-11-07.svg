@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="273.6pt" viewBox="0 0 504 273.6" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6  L 504 273.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 113.148 167.00544  L 275.94 167.00544  L 275.94 88.97472  L 113.148 88.97472  z " clip-path="url(#pf3201a49fa)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 295.092 167.00544  L 467.46 167.00544  L 467.46 88.97472  L 295.092 88.97472  z " clip-path="url(#pf3201a49fa)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 113.148 255.10464  L 275.94 255.10464  L 275.94 177.07392  L 113.148 177.07392  z " clip-path="url(#pf3201a49fa)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 295.092 255.10464  L 467.46 255.10464  L 467.46 177.07392  L 295.092 177.07392  z " clip-path="url(#pf3201a49fa)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text x="290.000" y="26.590" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="middle"><tspan x="290.000" dy="0">Is this task authorized?</tspan></text></g>
+   <g id="text_2">
+    <text x="200.000" y="66.609" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="200.000" dy="0">No</tspan></text></g>
+   <g id="text_3">
+    <text x="382.000" y="66.609" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="382.000" dy="0">Yes</tspan></text></g>
+   <g id="text_4">
+    <text x="22.176" y="126.262" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="22.176" dy="0">Is access</tspan><tspan x="22.176" dy="12.76">available?</tspan></text></g>
+   <g id="text_5">
+    <text x="79.025" y="132.000" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="79.025" dy="0">No</tspan></text></g>
+   <g id="text_6">
+    <text x="79.025" y="220.099" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="79.025" dy="0">Yes</tspan></text></g>
+   <g id="text_7">
+    <text x="200.000" y="124.711" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="200.000" dy="0">Define the task first;</tspan><tspan x="200.000" dy="12.76">then request access</tspan></text></g>
+   <g id="text_8">
+    <text x="382.000" y="124.711" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="382.000" dy="0">Provide an authorized entry</tspan><tspan x="382.000" dy="12.76">or designate a referral</tspan></text></g>
+   <g id="text_9">
+    <text x="200.000" y="212.810" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="200.000" dy="0">Being able to log in</tspan><tspan x="200.000" dy="12.76">does not authorize the task</tspan></text></g>
+   <g id="text_10">
+    <text x="382.000" y="212.810" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="382.000" dy="0">Work within material</tspan><tspan x="382.000" dy="12.76">and output boundaries</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf3201a49fa">
+   <rect x="12.6" y="10.944" width="478.8" height="251.712"/>
+  </clipPath>
+ </defs>
+</svg>

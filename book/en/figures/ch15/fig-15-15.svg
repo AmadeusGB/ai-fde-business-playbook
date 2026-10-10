@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="374.4pt" height="319.68000000000006pt" viewBox="0 0 374.4 319.68000000000006" version="1.1">
+ <rect x="0" y="0" width="374.4" height="319.68000000000006" fill="#ffffff"/><metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:50:19.840042</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p213975e8c5">
+   <rect x="7.488" y="6.048" width="359.424" height="160.704"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 172.8  L 374.4 172.8  L 374.4 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 183.60576 145.86048  L 183.60576 26.93952  " clip-path="url(#p213975e8c5)" style="fill: none; stroke-dasharray: 0.6,0.99; stroke-dashoffset: 0; stroke: #bfc9c0; stroke-width: 0.6"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 174.825056 34.97472  Q 188.999802 34.97472 202.168318 34.97472  " clip-path="url(#p213975e8c5)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 198.568318 33.17472  L 202.168318 34.97472  L 198.568318 36.77472  z " clip-path="url(#p213975e8c5)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 352.53504 57.86837  Q 352.53504 78.364731 352.53504 97.85486  " clip-path="url(#p213975e8c5)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 354.33504 94.25486  L 352.53504 97.85486  L 350.73504 94.25486  z " clip-path="url(#p213975e8c5)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 203.17401 120.14784  Q 190.796736 120.14784 179.425693 120.14784  " clip-path="url(#p213975e8c5)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 183.025693 121.94784  L 179.425693 120.14784  L 183.025693 118.34784  z " clip-path="url(#p213975e8c5)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 18.27072 98.86123  Q 18.27072 78.364869 18.27072 58.87474  " clip-path="url(#p213975e8c5)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 16.47072 62.47474  L 18.27072 58.87474  L 20.07072 62.47474  z " clip-path="url(#p213975e8c5)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="21.865" y="68.949" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10.5" transform="scale(1 0.5405405405405405)"><tspan x="21.865" dy="0">01</tspan></text></g>
+   <g id="text_2">
+    <text x="47.025" y="69.657" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" transform="scale(1 0.5405405405405405)"><tspan x="47.025" dy="0">Record full labor</tspan></text></g>
+   <g id="text_3">
+    <text x="47.025" y="116.753" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" transform="scale(1 0.5405405405405405)"><tspan x="47.025" dy="0">Cover before and after</tspan><tspan x="47.025" dy="13.569999999999999">deployment</tspan></text></g>
+   <g id="text_4">
+    <text x="215.954" y="68.949" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10.5" transform="scale(1 0.5405405405405405)"><tspan x="215.954" dy="0">02</tspan></text></g>
+   <g id="text_5">
+    <text x="241.114" y="69.657" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" transform="scale(1 0.5405405405405405)"><tspan x="241.114" dy="0">Compare similar</tspan><tspan x="241.114" dy="13.569999999999999">projects</tspan></text></g>
+   <g id="text_6">
+    <text x="241.114" y="116.753" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" transform="scale(1 0.5405405405405405)"><tspan x="241.114" dy="0">Use comparable</tspan><tspan x="241.114" dy="13.569999999999999">scope</tspan></text></g>
+   <g id="text_7">
+    <text x="215.954" y="226.519" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10.5" transform="scale(1 0.5405405405405405)"><tspan x="215.954" dy="0">03</tspan></text></g>
+   <g id="text_8">
+    <text x="241.114" y="227.227" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" transform="scale(1 0.5405405405405405)"><tspan x="241.114" dy="0">Revise product and</tspan><tspan x="241.114" dy="13.569999999999999">pricing</tspan></text></g>
+   <g id="text_9">
+    <text x="241.114" y="274.324" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" transform="scale(1 0.5405405405405405)"><tspan x="241.114" dy="0">Explain reasons for</tspan><tspan x="241.114" dy="13.569999999999999">changes</tspan></text></g>
+   <g id="text_10">
+    <text x="21.865" y="226.519" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10.5" transform="scale(1 0.5405405405405405)"><tspan x="21.865" dy="0">04</tspan></text></g>
+   <g id="text_11">
+    <text x="47.025" y="227.227" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="11.5" transform="scale(1 0.5405405405405405)"><tspan x="47.025" dy="0">Review the next cohort</tspan></text></g>
+   <g id="text_12">
+    <text x="47.025" y="274.324" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" transform="scale(1 0.5405405405405405)"><tspan x="47.025" dy="0">Check whether burden</tspan><tspan x="47.025" dy="13.569999999999999">improves</tspan></text></g>
+  </g>
+ </g>
+ </g></svg>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="374.4pt" height="319.68000000000006pt" viewBox="0 0 374.4 319.68000000000006" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:50:12.538421</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p81cb5f5e0a">
+   <rect x="7.488" y="6.048" width="359.424" height="160.704"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 172.8  L 374.4 172.8  L 374.4 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 18.27072 38.1888  L 356.12928 38.1888  " clip-path="url(#p81cb5f5e0a)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 25.4592 49.43808  L 25.4592 144.25344  " clip-path="url(#p81cb5f5e0a)" style="fill: none; stroke: #24564b; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 27.457268 63.90144  Q 36.240132 63.90144 44.016767 63.90144  " clip-path="url(#p81cb5f5e0a)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 40.416767 62.10144  L 44.016767 63.90144  L 40.416767 65.70144  z " clip-path="url(#p81cb5f5e0a)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 27.457268 104.07744  Q 36.240132 104.07744 44.016767 104.07744  " clip-path="url(#p81cb5f5e0a)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 40.416767 102.27744  L 44.016767 104.07744  L 40.416767 105.87744  z " clip-path="url(#p81cb5f5e0a)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 27.457268 144.25344  Q 36.240132 144.25344 44.016767 144.25344  " clip-path="url(#p81cb5f5e0a)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 40.416767 142.45344  L 44.016767 144.25344  L 40.416767 146.05344  z " clip-path="url(#p81cb5f5e0a)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="18.271" y="43.607" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_1"><tspan x="18.271" dy="0">At a review point</tspan></text><text x="356" y="35.997" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="end" id="text_2"><tspan x="356" dy="0">Check agreed</tspan><tspan x="356" dy="12.39">evidence</tspan></text><text x="57.807" y="123.171" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_3"><tspan x="57.807" dy="0">Stage conditions met</tspan></text><text x="208.765" y="116.504" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_4"><tspan x="208.765" dy="0">Approve the next</tspan><tspan x="208.765" dy="12.39">investment</tspan></text><text x="57.807" y="197.497" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_5"><tspan x="57.807" dy="0">Repairable gaps</tspan></text><text x="208.765" y="190.83" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_6"><tspan x="208.765" dy="0">Specify what to check and</tspan><tspan x="208.765" dy="12.39">when</tspan></text><text x="57.807" y="271.822" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_7"><tspan x="57.807" dy="0">Core conditions fail</tspan></text><text x="208.765" y="265.155" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10.5" text-anchor="start" id="text_8"><tspan x="208.765" dy="0">Stop or choose an</tspan><tspan x="208.765" dy="12.39">alternative</tspan></text></svg>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="446.40000000000003pt" viewBox="0 0 504.0 446.40000000000003" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:24.626095</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pe10aefb3e3">
+   <rect x="12.6" y="11.52" width="478.8" height="264.96"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288  L 504 288  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 70.056 249.984  L 70.056 59.2128  " clip-path="url(#pe10aefb3e3)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #bfc9c0"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 252 249.984  L 252 59.2128  " clip-path="url(#pe10aefb3e3)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #bfc9c0"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 433.944 249.984  L 433.944 59.2128  " clip-path="url(#pe10aefb3e3)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #bfc9c0"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 76.845527 80.4096  Q 161.029222 80.4096 243.759474 80.4096  " clip-path="url(#pe10aefb3e3)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 239.359474 78.2096  L 243.759474 80.4096  L 239.359474 82.6096  z " clip-path="url(#pe10aefb3e3)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 189.756 151.9488  L 314.244 151.9488  L 314.244 106.9056  L 189.756 106.9056  z " clip-path="url(#pe10aefb3e3)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 258.789527 175.7952  Q 342.973222 175.7952 425.703474 175.7952  " clip-path="url(#pe10aefb3e3)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 421.303474 173.5952  L 425.703474 175.7952  L 421.303474 177.9952  z " clip-path="url(#pe10aefb3e3)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 427.154473 226.1376  Q 342.970778 226.1376 260.240526 226.1376  " clip-path="url(#pe10aefb3e3)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 264.640526 228.3376  L 260.240526 226.1376  L 264.640526 223.9376  z " clip-path="url(#pe10aefb3e3)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 187.753597 141.3504  Q 132.299782 141.3504 78.299412 141.3504  " clip-path="url(#pe10aefb3e3)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 82.699412 143.5504  L 78.299412 141.3504  L 82.699412 139.1504  z " clip-path="url(#pe10aefb3e3)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="57.056" y="55.849" font-size="13.00" style="fill: #24564b" data-source-index="1"><tspan x="57.056" dy="0">Model</tspan></text><text x="232.500" y="55.849" font-size="13.00" style="fill: #24564b" data-source-index="2"><tspan x="232.500" dy="0">Execution layer</tspan></text><text x="407.944" y="48.504" font-size="13.00" style="fill: #24564b" data-source-index="3"><tspan x="407.944" dy="0">Business</tspan><tspan x="407.944" dy="14.690">interface</tspan></text><text x="134.662" y="104.258" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="134.662" dy="0">Propose a call</tspan></text><text x="196.000" y="200.150" font-size="12.00" style="fill: #252c29" data-source-index="5"><tspan x="196.000" dy="0">Validate identity /</tspan><tspan x="196.000" dy="13.560">parameters</tspan></text><text x="320.787" y="252.106" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="320.787" dy="0">Execute if permitted</tspan></text><text x="315.392" y="395.847" font-size="12.00" style="fill: #252c29" data-source-index="7"><tspan x="315.392" dy="0">Return explicit status</tspan></text><text x="111.328" y="194.609" font-size="12.00" style="fill: #98522e" data-source-index="8"><tspan x="111.328" dy="0">Check fails</tspan></text><text x="100.539" y="260.319" font-size="12.00" style="fill: #98522e" data-source-index="9"><tspan x="100.539" dy="0">Reject / take over</tspan></text></g></svg>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="132mm" height="103.950mm" viewBox="0 0 374.4 294.840" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:27.299278</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1" transform="scale(0.7428571428571428 1.3)">
+  <g id="patch_1">
+   <path d="M 0 226.8  L 504 226.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 17.388 75.93264  L 146.664 75.93264  L 146.664 21.4326  L 17.388 21.4326  z " clip-path="url(#p419cb6ed12)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 189.756 75.93264  L 319.032 75.93264  L 319.032 21.4326  L 189.756 21.4326  z " clip-path="url(#p419cb6ed12)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 153.45265 49.69188  Q 168.212005 49.69188 181.517917 49.69188  " clip-path="url(#p419cb6ed12)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 176.717917 47.29188  L 181.517917 49.69188  L 176.717917 52.09188  z " clip-path="url(#p419cb6ed12)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 17.388 193.0068  L 146.664 193.0068  L 146.664 138.50676  L 17.388 138.50676  z " clip-path="url(#p419cb6ed12)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 189.756 193.0068  L 319.032 193.0068  L 319.032 138.50676  L 189.756 138.50676  z " clip-path="url(#p419cb6ed12)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 153.45265 164.74752  Q 168.212005 164.74752 181.517917 164.74752  " clip-path="url(#p419cb6ed12)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 176.717917 162.34752  L 181.517917 164.74752  L 176.717917 167.14752  z " clip-path="url(#p419cb6ed12)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 371.7 142.5438  L 486.612 142.5438  L 486.612 77.95116  L 371.7 77.95116  z " clip-path="url(#p419cb6ed12)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 325.494806 50.783068  Q 350.152617 66.848399 373.59265 82.12031  " clip-path="url(#p419cb6ed12)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 370.881073 77.489182  L 373.59265 82.12031  L 368.260801 81.510895  z " clip-path="url(#p419cb6ed12)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 325.584815 163.8006  Q 350.155606 150.617018 373.445663 138.120621  " clip-path="url(#p419cb6ed12)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 368.081328 138.275235  L 373.445663 138.120621  L 370.350753 142.504858  z " clip-path="url(#p419cb6ed12)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ <defs>
+  <clipPath id="p419cb6ed12">
+   <rect x="12.6" y="11.34" width="478.8" height="201.852"/>
+  </clipPath>
+ </defs>
+<text x="60.934" y="55.600" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="60.934" dy="0">Authorized</tspan><tspan x="60.934" dy="12.0">records</tspan><tspan x="60.934" dy="12.0">+ Applicable rules</tspan></text><text x="188.978" y="55.600" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="188.978" dy="0">Task samples</tspan><tspan x="188.978" dy="12.0">+ Baseline</tspan><tspan x="188.978" dy="12.0">definitions</tspan></text><text x="60.934" y="213.700" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="60.934" dy="0">Recipient</tspan><tspan x="60.934" dy="12.0">+ Available time</tspan></text><text x="188.978" y="213.700" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="188.978" dy="0">Receipt criteria</tspan><tspan x="188.978" dy="12.0">+ Takeover drill</tspan></text><text x="318.802" y="128.900" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="318.802" dy="0">Small-scope</tspan><tspan x="318.802" dy="12.0">validation</tspan><tspan x="318.802" dy="12.0">Restricted</tspan><tspan x="318.802" dy="12.0">validation</tspan></text><text x="16.474" y="141.616" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="16.474" dy="0">Preparation can run in parallel; schedule separately</tspan><tspan x="16.474" dy="12.0">when sharing a person</tspan></text></svg>

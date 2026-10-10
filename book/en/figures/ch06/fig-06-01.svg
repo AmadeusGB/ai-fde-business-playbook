@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="466.20000000000005pt" viewBox="0 0 504.0 466.20000000000005" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:22.240850</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p4e3705d9d7">
+   <rect x="12.6" y="10.08" width="478.8" height="231.84"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 12.6 100.4976  L 491.4 100.4976  L 491.4 30.9456  L 12.6 30.9456  z " clip-path="url(#p4e3705d9d7)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 12.6 188.5968  L 491.4 188.5968  L 491.4 119.0448  L 12.6 119.0448  z " clip-path="url(#p4e3705d9d7)" style="fill: #f1f4ef; stroke: #ffffff; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 182.18065 65.7216  Q 196.940005 65.7216 210.134113 65.7216  " clip-path="url(#p4e3705d9d7)" style="fill: none; stroke: #24564b; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 205.334113 63.3216  L 210.134113 65.7216  L 205.334113 68.1216  z " clip-path="url(#p4e3705d9d7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 275.94 90.90222  Q 275.94 108.612332 275.94 124.757197  " clip-path="url(#p4e3705d9d7)" style="fill: none; stroke: #24564b; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 278.34 119.957197  L 275.94 124.757197  L 273.54 119.957197  z " clip-path="url(#p4e3705d9d7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 340.186403 153.8208  Q 352.549275 153.8208 363.3469 153.8208  " clip-path="url(#p4e3705d9d7)" style="fill: none; stroke: #24564b; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 358.5469 151.4208  L 363.3469 153.8208  L 358.5469 156.2208  z " clip-path="url(#p4e3705d9d7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="14" y="126.774" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_1"><tspan x="14" dy="0">Business</tspan></text><text x="14" y="289.758" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_2"><tspan x="14" dy="0">Engineering</tspan></text><text x="127.512" y="127.01" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_3"><tspan x="127.512" dy="0">Flag conflict</tspan></text><text x="275.94" y="119.93" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_4"><tspan x="275.94" dy="0">Approve applicable</tspan><tspan x="275.94" dy="14.16">rules</tspan></text><text x="275.94" y="282.914" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_5"><tspan x="275.94" dy="0">Implement and</tspan><tspan x="275.94" dy="14.16">retest</tspan></text><text x="419.58" y="289.994" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_6"><tspan x="419.58" dy="0">Approve release</tspan></text><text x="340.61" y="203.877" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_7"><tspan x="340.61" dy="0">Rule version</tspan></text><text x="252.0" y="414.14" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_8"><tspan x="252.0" dy="0">Keep decisions: applicability, approver, date, and implementation version</tspan></text></svg>

@@ -1,0 +1,31 @@
+[
+  {
+    "note": 1,
+    "publication_text": "Texas DIR, DIR-CPO-5687 Contract, section 1.3 on page 1 and section 12 on page 9; Appendix C Pricing Index per Amendment 5, pages 2 and 32. Checked on September 6, 2026 against originals saved on September 3. The online PDF could not be read during that check; not all currently applicable conditions were confirmed.",
+    "urls": [
+      "https://txdir.widen.net/view/pdf/6jiakmgdgw/DIR-CPO-5687-Contract.pdf",
+      "https://txdir.widen.net/view/pdf/7wqikzkpbg/DIR-CPO-5687-Appendix-C-Pricing-Index-per-Amendment-5.pdf"
+    ]
+  },
+  {
+    "note": 2,
+    "publication_text": "Texas DIR, DIR-CPO-5687 Appendix A Standard Contract Terms and Conditions, PDF page 8 (printed page 7), sections 4.2C–D. The originals and verification date are the same as in Chapter 7, note 1. Used to explain order negotiations and constraints from the main contract, without extending this document hierarchy to all transactions.",
+    "urls": [
+      "https://txdir.widen.net/view/pdf/aczuxgeosr/DIR-CPO-5687-Appendix-A-Terms-and-Conditions.pdf"
+    ]
+  },
+  {
+    "note": 3,
+    "publication_text": "Credera, Generative AI Acceleration, G-Cloud 14 service 876206332147316, “User support” and “Support levels,” checked again on the official website on September 6, 2026. Targets apply during service hours, and support volume is priced separately. Public disclosure does not establish that the terms were signed or performed.",
+    "urls": [
+      "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/876206332147316"
+    ]
+  },
+  {
+    "note": 4,
+    "publication_text": "Beamtree, RippleDown Coding, G-Cloud 14 service 198321167423991, “End-of-contract process,” checked again on the official website on September 6, 2026. The 60-day period concerns a confirmation letter when deletion is selected; it is not a universal deadline for AI services.",
+    "urls": [
+      "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/198321167423991"
+    ]
+  }
+]

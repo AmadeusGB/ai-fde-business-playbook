@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="435.24pt" viewBox="0 0 504.0 435.24" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:23.883507</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p6b5b69a498">
+   <rect x="12.6" y="11.232" width="478.8" height="258.336"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 280.8  L 504 280.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.964 96.48288  L 477.036 96.48288  L 477.036 65.48256  L 26.964 65.48256  z " clip-path="url(#p6b5b69a498)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 26.964 96.48288  L 32.96496 96.48288  L 32.96496 65.48256  L 26.964 65.48256  z " clip-path="url(#p6b5b69a498)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 465.03408 96.48288  L 477.036 96.48288  L 477.036 65.48256  L 465.03408 65.48256  z " clip-path="url(#p6b5b69a498)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 26.964 235.98432  L 176.988 235.98432  L 176.988 194.65056  L 26.964 194.65056  z " clip-path="url(#p6b5b69a498)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 176.988 235.98432  L 364.518 235.98432  L 364.518 194.65056  L 176.988 194.65056  z " clip-path="url(#p6b5b69a498)" style="fill: #98522e; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 364.518 235.98432  L 477.036 235.98432  L 477.036 194.65056  L 364.518 194.65056  z " clip-path="url(#p6b5b69a498)" style="fill: #58615c; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="26.964" y="47.364" font-size="15.00" style="fill: #24564b" data-source-index="1"><tspan x="26.964" dy="0">Total elapsed time: 25 hours</tspan></text><text x="26.964" y="193.855" font-size="12.00" style="fill: #252c29" data-source-index="2"><tspan x="26.964" dy="0">Day one, 9:00</tspan></text><text x="395.000" y="193.855" font-size="12.00" style="fill: #252c29" data-source-index="3"><tspan x="395.000" dy="0">Next day, 10:00</tspan></text><text x="196.570" y="129.871" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="196.570" dy="0">Waiting: 24 hours (including overnight)</tspan></text><text x="26.964" y="267.595" font-size="15.00" style="fill: #24564b" data-source-index="5"><tspan x="26.964" dy="0">Actual processing: 60 minutes</tspan></text><text x="34.000" y="331.226" font-size="12.00" style="fill: #ffffff" data-source-index="6"><tspan x="34.000" dy="0">Check discrepancy: 20</tspan><tspan x="34.000" dy="13.560">min</tspan></text><text x="184.000" y="338.006" font-size="12.00" style="fill: #ffffff" data-source-index="7"><tspan x="184.000" dy="0">Make judgment: 25 min</tspan></text><text x="374.000" y="331.226" font-size="12.00" style="fill: #ffffff" data-source-index="8"><tspan x="374.000" dy="0">Record and</tspan><tspan x="374.000" dy="13.560">confirm: 15 min</tspan></text><text x="26.964" y="414.362" font-size="12.00" style="fill: #58615c" data-source-index="9"><tspan x="26.964" dy="0">The axes use different measures; waiting time is not an equivalent wage saving</tspan></text></g></svg>

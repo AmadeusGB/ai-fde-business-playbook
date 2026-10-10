@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="216pt" viewBox="0 0 504 216" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 216  L 504 216  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 31.752 104.0256  L 279.531 104.0256  L 279.531 66.2688  L 31.752 66.2688  z " clip-path="url(#pa97842f408)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 279.531 104.0256  L 362.124 104.0256  L 362.124 66.2688  L 279.531 66.2688  z " clip-path="url(#pa97842f408)" style="fill: #98522e; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 362.124 104.0256  L 472.248 104.0256  L 472.248 66.2688  L 362.124 66.2688  z " clip-path="url(#pa97842f408)" style="fill: #d2dacd; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text x="147.556" y="87.979" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.0" text-anchor="start"><tspan x="147.556" dy="0">45</tspan></text></g>
+   <g id="text_2">
+    <text x="312.742" y="87.979" fill="#ffffff" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.0" text-anchor="start"><tspan x="312.742" dy="0">15</tspan></text></g>
+   <g id="text_3">
+    <text x="409.100" y="87.979" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="15.0" text-anchor="start"><tspan x="409.100" dy="0">20</tspan></text></g>
+   <g id="text_4">
+    <text x="31.752" y="33.814" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="start"><tspan x="31.752" dy="0">Eligible tasks: 80</tspan></text></g>
+   <g id="text_5">
+    <text x="31.752" y="142.546" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="31.752" dy="0">45: Qualified handover</tspan></text></g>
+   <g id="text_6">
+    <text x="189.756" y="136.166" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="189.756" dy="0">15: Not yet handed over to</tspan><tspan x="189.756" dy="12.76">standard</tspan></text></g>
+   <g id="text_7">
+    <text x="357.336" y="142.546" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="357.336" dy="0">20: Did not use AI</tspan></text></g>
+   <g id="text_8">
+    <text x="252.000" y="190.293" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="252.000" dy="0">Coverage 60/80 = 75%; overall qualified handover 45/80 = 56.25%</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa97842f408">
+   <rect x="12.6" y="8.64" width="478.8" height="198.72"/>
+  </clipPath>
+ </defs>
+</svg>

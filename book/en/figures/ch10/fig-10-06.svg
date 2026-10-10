@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="273.6pt" viewBox="0 0 504 273.6" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6  L 504 273.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 143.877819 58.76928  Q 165.815844 58.76928 186.300426 58.76928  " clip-path="url(#p6616e0ef6a)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 181.900426 56.56928  L 186.300426 58.76928  L 181.900426 60.96928  z " clip-path="url(#p6616e0ef6a)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 330.609527 58.76928  Q 350.15534 58.76928 368.247709 58.76928  " clip-path="url(#p6616e0ef6a)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 363.847709 56.56928  L 368.247709 58.76928  L 363.847709 60.96928  z " clip-path="url(#p6616e0ef6a)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 143.877819 126.73152  Q 165.815844 126.73152 186.300426 126.73152  " clip-path="url(#p6616e0ef6a)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 181.900426 124.53152  L 186.300426 126.73152  L 181.900426 128.93152  z " clip-path="url(#p6616e0ef6a)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 330.609527 126.73152  Q 350.15534 126.73152 368.247709 126.73152  " clip-path="url(#p6616e0ef6a)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 363.847709 124.53152  L 368.247709 126.73152  L 363.847709 128.93152  z " clip-path="url(#p6616e0ef6a)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 22.176 172.03968  L 481.824 172.03968  " clip-path="url(#p6616e0ef6a)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="22.176" y="61.574" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="22.176" dy="0">Sample real tasks</tspan></text></g>
+   <g id="text_2">
+    <text x="204.120" y="61.574" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="204.120" dy="0">Representative samples</tspan></text></g>
+   <g id="text_3">
+    <text x="381.276" y="55.141" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="381.276" dy="0">Observe common</tspan><tspan x="381.276" dy="12.76">work</tspan></text></g>
+   <g id="text_4">
+    <text x="22.176" y="123.157" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="22.176" dy="0">Exceptions / known</tspan><tspan x="22.176" dy="12.76">failures</tspan></text></g>
+   <g id="text_5">
+    <text x="204.120" y="129.537" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="204.120" dy="0">Challenge samples</tspan></text></g>
+   <g id="text_6">
+    <text x="381.276" y="123.103" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="381.276" dy="0">Check control</tspan><tspan x="381.276" dy="12.76">boundaries</tspan></text></g>
+   <g id="text_7">
+    <text x="26.964" y="210.339" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="26.964" dy="0">Cases used for development</tspan></text></g>
+   <g id="text_8">
+    <text x="270.000" y="203.704" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="270.000" dy="0">Validation cases not used for this round’s</tspan><tspan x="270.000" dy="12.76">adjustments</tspan></text></g>
+   <g id="text_9">
+    <text x="252.000" y="255.339" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="252.000" dy="0">Manage separately; check duplicates and links between complete tasks</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6616e0ef6a">
+   <rect x="12.6" y="10.944" width="478.8" height="251.712"/>
+  </clipPath>
+ </defs>
+</svg>

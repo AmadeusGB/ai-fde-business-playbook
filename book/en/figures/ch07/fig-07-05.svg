@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="379.44000000000005pt" viewBox="0 0 504.0 379.44000000000005" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:23.067715</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pe4c64b2722">
+   <rect x="12.6" y="9.792" width="478.8" height="225.216"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 244.8  L 504 244.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 148.666403 84.11328  Q 161.029275 84.11328 171.938703 84.11328  " clip-path="url(#pe4c64b2722)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 167.538703 81.91328  L 171.938703 84.11328  L 167.538703 86.31328  z " clip-path="url(#pe4c64b2722)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 330.60865 84.11328  Q 345.368005 84.11328 358.673917 84.11328  " clip-path="url(#pe4c64b2722)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 354.273917 81.91328  L 358.673917 84.11328  L 354.273917 86.31328  z " clip-path="url(#pe4c64b2722)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 148.666403 142.66944  Q 161.029275 142.66944 171.938703 142.66944  " clip-path="url(#pe4c64b2722)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 167.538703 140.46944  L 171.938703 142.66944  L 167.538703 144.86944  z " clip-path="url(#pe4c64b2722)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 330.60865 142.66944  Q 345.368005 142.66944 358.673917 142.66944  " clip-path="url(#pe4c64b2722)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 354.273917 140.46944  L 358.673917 142.66944  L 354.273917 144.86944  z " clip-path="url(#pe4c64b2722)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 148.666403 201.2256  Q 161.029275 201.2256 171.938703 201.2256  " clip-path="url(#pe4c64b2722)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 167.538703 199.0256  L 171.938703 201.2256  L 167.538703 203.4256  z " clip-path="url(#pe4c64b2722)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 330.60865 201.2256  Q 345.368005 201.2256 358.673917 201.2256  " clip-path="url(#pe4c64b2722)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 354.273917 199.0256  L 358.673917 201.2256  L 354.273917 203.4256  z " clip-path="url(#pe4c64b2722)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="26.964" y="51.338" font-size="12.00" style="fill: #24564b" data-source-index="1"><tspan x="26.964" dy="0">Deliverable</tspan></text><text x="194.544" y="51.338" font-size="12.00" style="fill: #24564b" data-source-index="2"><tspan x="194.544" dy="0">Verification action</tspan></text><text x="381.276" y="51.338" font-size="12.00" style="fill: #24564b" data-source-index="3"><tspan x="381.276" dy="0">Confirming role</tspan></text><text x="26.964" y="127.943" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="26.964" dy="0">Candidate discrepancy</tspan><tspan x="26.964" dy="13.560">workflow</tspan></text><text x="194.544" y="134.723" font-size="12.00" style="fill: #252c29" data-source-index="5"><tspan x="194.544" dy="0">End-to-end task test</tspan></text><text x="381.276" y="121.080" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="381.276" dy="0">Business</tspan><tspan x="381.276" dy="13.560">acceptance</tspan><tspan x="381.276" dy="13.560">reviewer</tspan></text><text x="26.964" y="218.705" font-size="12.00" style="fill: #252c29" data-source-index="7"><tspan x="26.964" dy="0">Exception takeover</tspan><tspan x="26.964" dy="13.560">mechanism</tspan></text><text x="194.544" y="218.705" font-size="12.00" style="fill: #252c29" data-source-index="8"><tspan x="194.544" dy="0">Controlled exception</tspan><tspan x="194.544" dy="13.560">exercise</tspan></text><text x="381.276" y="225.402" font-size="12.00" style="fill: #252c29" data-source-index="9"><tspan x="381.276" dy="0">Responsible people</tspan></text><text x="26.964" y="309.467" font-size="12.00" style="fill: #252c29" data-source-index="10"><tspan x="26.964" dy="0">Operational handover</tspan><tspan x="26.964" dy="13.560">materials</tspan></text><text x="194.544" y="309.467" font-size="12.00" style="fill: #252c29" data-source-index="11"><tspan x="194.544" dy="0">Independent use by a</tspan><tspan x="194.544" dy="13.560">second person</tspan></text><text x="381.276" y="316.164" font-size="12.00" style="fill: #252c29" data-source-index="12"><tspan x="381.276" dy="0">Actual recipient</tspan></text></g></svg>

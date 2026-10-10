@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="399.6pt" viewBox="0 0 504.0 399.6" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:21.123840</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p25dbc9e4f6">
+   <rect x="12.6" y="6.48" width="478.8" height="203.04"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 216  L 504 216  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 55.692 95.8176  L 448.308 95.8176  " clip-path="url(#p25dbc9e4f6)" style="fill: none; stroke: #252c29; stroke-width: 1.4; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m8c35045043" d="M 0 2.95804  C 0.784481 2.95804 1.536938 2.646362 2.09165 2.09165  C 2.646362 1.536938 2.95804 0.784481 2.95804 0  C 2.95804 -0.784481 2.646362 -1.536938 2.09165 -2.09165  C 1.536938 -2.646362 0.784481 -2.95804 0 -2.95804  C -0.784481 -2.95804 -1.536938 -2.646362 -2.09165 -2.09165  C -2.646362 -1.536938 -2.95804 -0.784481 -2.95804 0  C -2.95804 0.784481 -2.646362 1.536938 -2.09165 2.09165  C -1.536938 2.646362 -0.784481 2.95804 0 2.95804  z " style="stroke: #98522e"/>
+    </defs>
+    <g clip-path="url(#p25dbc9e4f6)">
+     <use xlink:href="#m8c35045043" x="60.48" y="95.8176" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p25dbc9e4f6)">
+     <use xlink:href="#m8c35045043" x="156.24" y="95.8176" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p25dbc9e4f6)">
+     <use xlink:href="#m8c35045043" x="252" y="95.8176" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p25dbc9e4f6)">
+     <use xlink:href="#m8c35045043" x="347.76" y="95.8176" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p25dbc9e4f6)">
+     <use xlink:href="#m8c35045043" x="443.52" y="95.8176" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   </g>
+ </g>
+ </g><text x="60.48" y="104.986" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_1"><tspan x="60.48" dy="0">Trigger</tspan></text><text x="60.48" y="269.178" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_2"><tspan x="60.48" dy="0">Why did it</tspan><tspan x="60.48" dy="14.16">start?</tspan></text><text x="156.24" y="104.986" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_3"><tspan x="156.24" dy="0">Information</tspan></text><text x="156.24" y="269.178" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_4"><tspan x="156.24" dy="0">What was</tspan><tspan x="156.24" dy="14.16">consulted?</tspan></text><text x="252.0" y="104.986" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_5"><tspan x="252.0" dy="0">Judgment</tspan></text><text x="252.0" y="269.178" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_6"><tspan x="252.0" dy="0">What was the</tspan><tspan x="252.0" dy="14.16">basis?</tspan></text><text x="347.76" y="104.986" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_7"><tspan x="347.76" dy="0">Waiting</tspan></text><text x="347.76" y="269.178" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_8"><tspan x="347.76" dy="0">Who held it</tspan><tspan x="347.76" dy="14.16">up?</tspan></text><text x="443.52" y="104.986" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14.000000000000002" text-anchor="middle" id="text_9"><tspan x="443.52" dy="0">Completion</tspan></text><text x="443.52" y="269.178" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_10"><tspan x="443.52" dy="0">What counted</tspan><tspan x="443.52" dy="14.16">as done?</tspan></text><text x="252.0" y="366.508" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_11"><tspan x="252.0" dy="0">Keep checkable records at every step</tspan></text></svg>

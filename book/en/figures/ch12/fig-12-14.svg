@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504pt" height="288pt" viewBox="0 0 504 288" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288  L 504 288  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 230.056559 35.2368  Q 266.362694 35.2368 301.215385 35.2368  " clip-path="url(#p0f80ba3fbd)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 296.815385 33.0368  L 301.215385 35.2368  L 296.815385 37.4368  z " clip-path="url(#p0f80ba3fbd)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 26.964 69.4944  L 477.036 69.4944  " clip-path="url(#p0f80ba3fbd)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 239.637527 111.6576  Q 259.18334 111.6576 277.275709 111.6576  " clip-path="url(#p0f80ba3fbd)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 272.875709 109.4576  L 277.275709 111.6576  L 272.875709 113.8576  z " clip-path="url(#p0f80ba3fbd)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 239.637527 169.632  Q 259.18334 169.632 277.275709 169.632  " clip-path="url(#p0f80ba3fbd)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 272.875709 167.432  L 277.275709 169.632  L 272.875709 171.832  z " clip-path="url(#p0f80ba3fbd)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 239.637527 227.6064  Q 259.18334 227.6064 277.275709 227.6064  " clip-path="url(#p0f80ba3fbd)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 272.875709 225.4064  L 277.275709 227.6064  L 272.875709 229.8064  z " clip-path="url(#p0f80ba3fbd)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="31.012" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="start"><tspan x="26.964" dy="0">First check quality and irreversible</tspan><tspan x="26.964" dy="15.079999999999998">consequences</tspan></text></g>
+   <g id="text_2">
+    <text x="319.032" y="38.042" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="319.032" dy="0">Major issue: limit / pause first</tspan></text></g>
+   <g id="text_3">
+    <text x="31.752" y="114.718" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="31.752" dy="0">Insufficient net-effect evidence</tspan></text></g>
+   <g id="text_4">
+    <text x="299.880" y="108.083" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="299.880" dy="0">Measure tasks and comparison</tspan><tspan x="299.880" dy="12.76">baseline</tspan></text></g>
+   <g id="text_5">
+    <text x="31.752" y="165.732" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="31.752" dy="0">Credible effect; realization</tspan><tspan x="31.752" dy="13.919999999999998">unclear</tspan></text></g>
+   <g id="text_6">
+    <text x="299.880" y="166.057" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="299.880" dy="0">Continue within limits; assign</tspan><tspan x="299.880" dy="12.76">released time</tspan></text></g>
+   <g id="text_7">
+    <text x="31.752" y="223.706" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="31.752" dy="0">Quality and realization</tspan><tspan x="31.752" dy="13.919999999999998">verifiable</tspan></text></g>
+   <g id="text_8">
+    <text x="299.880" y="224.031" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="299.880" dy="0">Check new conditions; expand in</tspan><tspan x="299.880" dy="12.76">stages</tspan></text></g>
+   <g id="text_9">
+    <text x="252.000" y="277.791" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="252.000" dy="0">State each time: evidence, owner, period, spending cap, and stop conditions</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0f80ba3fbd">
+   <rect x="12.6" y="11.52" width="478.8" height="263.52"/>
+  </clipPath>
+ </defs>
+</svg>

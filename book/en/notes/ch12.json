@@ -1,0 +1,44 @@
+[
+  {
+    "note": 1,
+    "publication_text": "North Somerset Council, UK7 contract details notice 2025/S000-061149, October 1, 2025, pp. 1–4. Official site access was restricted on September 7, 2026; checked against a previously saved complete five-page PDF. Time savings are the buyer's statement, without disclosed samples or independent attribution. The signing date is not the date AI was first used.",
+    "urls": [
+      "https://www.find-tender.service.gov.uk/Notice/061149-2025"
+    ]
+  },
+  {
+    "note": 2,
+    "publication_text": "Department for Education, Timeliness—assessment and EHC plans issued, annual data published June 25, 2026 and updated June 30. Filters select North Somerset and All EHC plans, with both overall fields also restricted; the downloaded CSV matches the existing archive. This chapter shows the 2023–2025 window, not continuous monotonic improvement since 2019.",
+    "urls": [
+      "https://explore-education-statistics.service.gov.uk/data-catalogue/data-set/90d7c9d3-d811-46f1-ae61-39ea674d4654"
+    ]
+  },
+  {
+    "note": 3,
+    "publication_text": "North Somerset, SEND Newsletter, May 2025, p. 5; newsletter. Figures in the local point-in-time material differ from later annual data. The reasons remain unresolved, so they are not combined for year-on-year comparisons.",
+    "urls": [
+      "https://n-somerset.gov.uk/sites/default/files/2025-05/SEND%20Newsletter%20May%202025.pdf"
+    ]
+  },
+  {
+    "note": 4,
+    "publication_text": "HM Treasury, Magenta Book Annex A, A2.4; evaluation methods. Checked 2026-09-07. Used only to explain methodological conditions. The four means, labor hours, and cash ledger in this chapter are separate teaching assumptions and do not represent actual client results.",
+    "urls": [
+      "https://www.gov.uk/government/publications/the-magenta-book/magenta-book-annex-a-analytical-methods-for-use-within-an-evaluation-html"
+    ]
+  },
+  {
+    "note": 5,
+    "publication_text": "DfE, SEND Tribunal appeal rate, calendar years 2024 and 2025; original CSV. Published rates and denominators are used. The table notes disclose methodological adjustments and differences in extraction timing; the figures are not reconstructed as the appeal probability for new plans, nor used to attribute causality to AI.",
+    "urls": [
+      "https://content.explore-education-statistics.service.gov.uk/api/releases/fcf02cd2-8330-4a2c-87e7-76b684391c45/files/330e4c5f-158a-41d5-97aa-76204facc80c"
+    ]
+  },
+  {
+    "note": 6,
+    "publication_text": "North Somerset, Quality Assurance Framework, pp. 3 and 6; quality framework. This is a general governance design, not the result of a dedicated AI audit.",
+    "urls": [
+      "https://n-somerset.gov.uk/sites/default/files/2025-02/North%20Somerset%20quality%20assurance%20framework.pdf"
+    ]
+  }
+]

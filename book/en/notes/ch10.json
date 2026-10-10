@@ -1,0 +1,24 @@
+[
+  {
+    "note": 1,
+    "publication_text": "CLA and Databricks, conference description and June 2026 slides, pp. 8–10, 22–29, and 31. Checked 2026-09-07. Page 9 presents processing time and F1, without fully explaining the sample, observation period, or end-to-end human review included in the measurement. It does not establish ROI or long-term production performance. No original figures are reproduced in this chapter.",
+    "urls": [
+      "https://www.databricks.com/dataaisummit/session/stop-guessing-start-scoring-llm-extraction-evaluation-databricks",
+      "https://microsites.databricks.com/sites/default/files/dais/2026/D26B2127.pdf"
+    ]
+  },
+  {
+    "note": 2,
+    "publication_text": "Anthropic, Demystifying evals for AI agents, 2026-01-09, sections on tasks, trials, outcomes, and graders. Checked 2026-09-07. Cited for distinctions in evaluation; the settlement figures, repeated-run records, and checklists in this chapter are teaching designs by the author.",
+    "urls": [
+      "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents"
+    ]
+  },
+  {
+    "note": 3,
+    "publication_text": "AWS, Agentic AI Lens, AGENTOPS02-BP03 and AGENTOPS03-BP02, physical PDF pp. 56–58 and 73–74. Checked 2026-09-07. Cited for versioning, progressive release, and rehearsal principles; the guide's traffic percentages and recovery deadlines are not treated as universal standards for all businesses.",
+    "urls": [
+      "https://docs.aws.amazon.com/pdfs/wellarchitected/latest/agentic-ai-lens/agentic-ai-lens.pdf"
+    ]
+  }
+]

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="426.24pt" viewBox="0 0 504.0 426.24" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T11:01:04.765201</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p6029acf9a7">
+   <rect x="65.52" y="29.952" width="418.32" height="145.152"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 230.4  L 504 230.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 65.52 175.104  L 483.84 175.104  L 483.84 29.952  L 65.52 29.952  z " style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 93.408 175.104  L 93.408 29.952  " clip-path="url(#p6029acf9a7)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m713b767080" d="M 0 0  L 0 3.5  " style="stroke: #252c29; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m713b767080" x="93.408" y="175.104" style="stroke: #252c29; stroke-width: 0.8"/>
+      </g>
+     </g>
+     </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 204.96 175.104  L 204.96 29.952  " clip-path="url(#p6029acf9a7)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m713b767080" x="204.96" y="175.104" style="stroke: #252c29; stroke-width: 0.8"/>
+      </g>
+     </g>
+     </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 316.512 175.104  L 316.512 29.952  " clip-path="url(#p6029acf9a7)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m713b767080" x="316.512" y="175.104" style="stroke: #252c29; stroke-width: 0.8"/>
+      </g>
+     </g>
+     </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 428.064 175.104  L 428.064 29.952  " clip-path="url(#p6029acf9a7)" style="fill: none; stroke: #f1f4ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m713b767080" x="428.064" y="175.104" style="stroke: #252c29; stroke-width: 0.8"/>
+      </g>
+     </g>
+     </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    </g>
+   <g id="line2d_12">
+    <path d="M 204.96 175.104  L 204.96 29.952  " clip-path="url(#p6029acf9a7)" style="fill: none; stroke: #252c29; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 204.96 54.978207  L 109.471488 54.978207  " clip-path="url(#p6029acf9a7)" style="fill: none; stroke: #bfc9c0; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 204.96 105.030621  L 193.8048 105.030621  " clip-path="url(#p6029acf9a7)" style="fill: none; stroke: #bfc9c0; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 204.96 155.083034  L 443.235072 155.083034  " clip-path="url(#p6029acf9a7)" style="fill: none; stroke: #bfc9c0; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 65.52 175.104  L 483.84 175.104  " style="fill: none; stroke: #252c29; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m9717a1203a" d="M 0 4.031129  C 1.069068 4.031129 2.094493 3.606384 2.850439 2.850439  C 3.606384 2.094493 4.031129 1.069068 4.031129 0  C 4.031129 -1.069068 3.606384 -2.094493 2.850439 -2.850439  C 2.094493 -3.606384 1.069068 -4.031129 0 -4.031129  C -1.069068 -4.031129 -2.094493 -3.606384 -2.850439 -2.850439  C -3.606384 -2.094493 -4.031129 -1.069068 -4.031129 0  C -4.031129 1.069068 -3.606384 2.094493 -2.850439 2.850439  C -2.094493 3.606384 -1.069068 4.031129 0 4.031129  z " style="stroke: #98522e"/>
+    </defs>
+    <g clip-path="url(#p6029acf9a7)">
+     <use xlink:href="#m9717a1203a" x="109.471488" y="54.978207" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p6029acf9a7)">
+     <use xlink:href="#m9717a1203a" x="193.8048" y="105.030621" style="fill: #98522e; stroke: #98522e"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <defs>
+     <path id="mf5b85702ad" d="M 0 4.031129  C 1.069068 4.031129 2.094493 3.606384 2.850439 2.850439  C 3.606384 2.094493 4.031129 1.069068 4.031129 0  C 4.031129 -1.069068 3.606384 -2.094493 2.850439 -2.850439  C 2.094493 -3.606384 1.069068 -4.031129 0 -4.031129  C -1.069068 -4.031129 -2.094493 -3.606384 -2.850439 -2.850439  C -3.606384 -2.094493 -4.031129 -1.069068 -4.031129 0  C -4.031129 1.069068 -3.606384 2.094493 -2.850439 2.850439  C -2.094493 3.606384 -1.069068 4.031129 0 4.031129  z " style="stroke: #24564b"/>
+    </defs>
+    <g clip-path="url(#p6029acf9a7)">
+     <use xlink:href="#mf5b85702ad" x="443.235072" y="155.083034" style="fill: #24564b; stroke: #24564b"/>
+    </g>
+   </g>
+   </g>
+  </g>
+ </g><text x="91.342" y="352.059" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_1"><tspan x="91.342" dy="0">−4000</tspan></text><text x="204.764" y="352.059" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_2"><tspan x="204.764" dy="0">0</tspan></text><text x="315.73" y="352.059" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_3"><tspan x="315.73" dy="0">4000</tspan></text><text x="427.282" y="352.059" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_4"><tspan x="427.282" dy="0">8000</tspan></text><text x="10" y="109.92399999999999" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_5"><tspan x="10" dy="0">Pessimistic</tspan></text><text x="10" y="202.52100000000002" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_6"><tspan x="10" dy="0">Base</tspan></text><text x="10" y="295.118" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_7"><tspan x="10" dy="0">Optimistic</tspan></text><text x="111.73" y="84.116" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_8"><tspan x="111.73" dy="0">−3,424</tspan></text><text x="194.5" y="176.713" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="end" id="text_9"><tspan x="194.5" dy="0">−400</tspan></text><text x="442.63" y="269.31" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_10"><tspan x="442.63" dy="0">+8,544</tspan></text><text x="65.52" y="25.574" fill="#24443b" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_11"><tspan x="65.52" dy="0">Monthly cash difference / RMB</tspan></text><text x="20.16" y="393.586" fill="#58675d" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_12"><tspan x="20.16" dy="0">Teaching scenarios; RMB 4,000 monthly operating cost deducted, initial</tspan><tspan x="20.16" dy="14.16">pilot cost excluded</tspan></text></svg>

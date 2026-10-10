@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="412.91999999999996pt" viewBox="0 0 504.0 412.91999999999996" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:16.786912</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p9538079b97">
+   <rect x="12.6" y="10.656" width="478.8" height="245.088"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 266.4  L 504 266.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 22.176 67.02624  L 481.824 67.02624  " clip-path="url(#p9538079b97)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="22.176" y="64.628" font-size="16.00" style="fill: #252c29" data-source-index="1"><tspan x="22.176" dy="0">Change record · teaching example</tspan></text><text x="26.964" y="153.825" font-size="12.00" style="fill: #98522e" data-source-index="2"><tspan x="26.964" dy="0">Original scope</tspan></text><text x="156.240" y="154.022" font-size="12.00" style="fill: #252c29" data-source-index="3"><tspan x="156.240" dy="0">Settlement statements in the prescribed format</tspan></text><text x="26.964" y="222.204" font-size="12.00" style="fill: #98522e" data-source-index="4"><tspan x="26.964" dy="0">Proposed change</tspan></text><text x="156.240" y="222.402" font-size="12.00" style="fill: #252c29" data-source-index="5"><tspan x="156.240" dy="0">Add another type of historical document</tspan></text><text x="26.964" y="290.584" font-size="12.00" style="fill: #98522e" data-source-index="6"><tspan x="26.964" dy="0">Impact assessment</tspan></text><text x="156.240" y="290.782" font-size="12.00" style="fill: #252c29" data-source-index="7"><tspan x="156.240" dy="0">Scope / investment / dates / retesting</tspan></text><text x="26.964" y="358.963" font-size="12.00" style="fill: #98522e" data-source-index="8"><tspan x="26.964" dy="0">Decision</tspan></text><text x="156.240" y="359.161" font-size="12.00" style="fill: #252c29" data-source-index="9"><tspan x="156.240" dy="0">Approve, reject, or defer; retain the basis</tspan></text></g></svg>

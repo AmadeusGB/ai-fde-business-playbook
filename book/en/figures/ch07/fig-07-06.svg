@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="374.4pt" height="234.35999999999999pt" viewBox="0 0 374.4 234.35999999999999" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:50:13.747711</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p79d4fa6f26">
+   <rect x="7.488" y="5.292" width="359.424" height="140.616"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 151.2  L 374.4 151.2  L 374.4 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 18.27072 24.97824  L 356.12928 24.97824  " clip-path="url(#p79d4fa6f26)" style="fill: none; stroke: #252c29; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 18.27072 67.16304  L 356.12928 67.16304  " clip-path="url(#p79d4fa6f26)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 18.27072 107.94168  L 356.12928 107.94168  " clip-path="url(#p79d4fa6f26)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 142.471193 47.4768  Q 149.458256 47.4768 155.439088 47.4768  " clip-path="url(#p79d4fa6f26)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 151.839088 45.6768  L 155.439088 47.4768  L 151.839088 49.2768  z " clip-path="url(#p79d4fa6f26)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 142.471193 88.25544  Q 149.458256 88.25544 155.439088 88.25544  " clip-path="url(#p79d4fa6f26)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 151.839088 86.45544  L 155.439088 88.25544  L 151.839088 90.05544  z " clip-path="url(#p79d4fa6f26)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 142.471193 129.03408  Q 149.458256 129.03408 155.439088 129.03408  " clip-path="url(#p79d4fa6f26)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 151.839088 127.23408  L 155.439088 129.03408  L 151.839088 130.83408  z " clip-path="url(#p79d4fa6f26)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="18.271" y="24.640" font-size="12.00" style="fill: #58615c" data-source-index="1"><tspan x="18.271" dy="0">Deliverable</tspan></text><text x="172.823" y="24.640" font-size="12.00" style="fill: #58615c" data-source-index="2"><tspan x="172.823" dy="0">How it is verified</tspan></text><text x="18.271" y="77.739" font-size="12.00" style="fill: #24564b" data-source-index="3"><tspan x="18.271" dy="0">Working functions</tspan></text><text x="172.823" y="77.344" font-size="12.00" style="fill: #252c29" data-source-index="4"><tspan x="172.823" dy="0">Task replay and testing</tspan></text><text x="18.271" y="134.166" font-size="12.00" style="fill: #24564b" data-source-index="5"><tspan x="18.271" dy="0">Deployment</tspan><tspan x="18.271" dy="13.560">configuration</tspan></text><text x="172.823" y="140.551" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="172.823" dy="0">Version and permission records</tspan></text><text x="18.271" y="204.153" font-size="12.00" style="fill: #24564b" data-source-index="7"><tspan x="18.271" dy="0">Takeover capability</tspan></text><text x="172.823" y="203.758" font-size="12.00" style="fill: #252c29" data-source-index="8"><tspan x="172.823" dy="0">Recipient's exercise record</tspan></text></g></svg>

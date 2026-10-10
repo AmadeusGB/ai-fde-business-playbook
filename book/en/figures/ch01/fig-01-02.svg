@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="374.173228pt" height="226.8pt" viewBox="0 0 374.173228 226.8" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 226.8  L 374.173228 226.8  L 374.173228 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 74.834646 63.504  L 142.185827 63.504  L 142.185827 18.144  L 74.834646 18.144  z " clip-path="url(#p09ce121edc)" style="fill: #ffffff; stroke: #c2ccc3; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 157.152756 129.276  L 224.503937 129.276  L 224.503937 83.916  L 157.152756 83.916  z " clip-path="url(#p09ce121edc)" style="fill: #ffffff; stroke: #c2ccc3; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 239.470866 192.78  L 306.822047 192.78  L 306.822047 147.42  L 239.470866 147.42  z " clip-path="url(#p09ce121edc)" style="fill: #ffffff; stroke: #c2ccc3; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 299.338583 63.504  L 366.689764 63.504  L 366.689764 18.144  L 299.338583 18.144  z " clip-path="url(#p09ce121edc)" style="fill: #ffffff; stroke: #c2ccc3; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 142.659938 42.763788  Q 149.668839 71.440151 156.385747 98.921843  " clip-path="url(#p09ce121edc)" style="fill: none; stroke: #252d29; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 157.378858 94.56137  L 156.385747 98.921843  L 153.493235 95.51107  z " clip-path="url(#p09ce121edc)" style="fill: #252d29; stroke: #252d29; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 224.996318 108.535926  Q 231.98755 136.080583 238.676224 162.4332  " clip-path="url(#p09ce121edc)" style="fill: none; stroke: #252d29; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 239.630702 158.064108  L 238.676224 162.4332  L 235.753636 159.048163  z " clip-path="url(#p09ce121edc)" style="fill: #252d29; stroke: #252d29; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 307.308833 168.161043  Q 319.917927 117.93673 332.227556 68.905238  " clip-path="url(#p09ce121edc)" style="fill: none; stroke: #252d29; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 329.313758 72.297844  L 332.227556 68.905238  L 333.193362 73.271841  z " clip-path="url(#p09ce121edc)" style="fill: #252d29; stroke: #252d29; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 190.828346 215.726473  Q 190.828346 174.63588 190.828346 134.775124  " clip-path="url(#p09ce121edc)" style="fill: none; stroke: #a4532b; stroke-width: 1.1; stroke-linecap: round"/>
+    <path d="M 188.828346 138.775124  L 190.828346 134.775124  L 192.828346 138.775124  z " clip-path="url(#p09ce121edc)" style="fill: #a4532b; stroke: #a4532b; stroke-width: 1.1; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 71.092913 68.04  L 370.431496 68.04  " clip-path="url(#p09ce121edc)" style="fill: none; stroke: #c2ccc3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 71.092913 133.812  L 370.431496 133.812  " clip-path="url(#p09ce121edc)" style="fill: none; stroke: #c2ccc3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 71.092913 197.316  L 370.431496 197.316  " clip-path="url(#p09ce121edc)" style="fill: none; stroke: #c2ccc3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 273.146457 195.048  L 273.146457 217.728  " clip-path="url(#p09ce121edc)" style="fill: none; stroke: #a4532b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 273.146457 217.728  L 190.828346 217.728  " clip-path="url(#p09ce121edc)" style="fill: none; stroke: #a4532b; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #252d29" x="3.741732" y="44.281852" transform="rotate(-0 3.741732 44.281852)">Customer</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #252d29" x="3.741732" y="110.137719" transform="rotate(-0 3.741732 110.137719)">AI assistant</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #252d29" x="3.741732" y="172.721406" transform="rotate(-0 3.741732 172.721406)">Engineer</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(77.488861 38.38475)">Serial number</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(79.824299 48.97225)">and question</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(162.835409 104.15675)">Retrieve info</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(170.656409 115.59675)">and draft</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(245.790144 167.66075)">Check batch</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(245.471144 178.24825)">then approve</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(303.348548 37.53225)">Receive reply</text>
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; fill: #252d29" transform="translate(306.648548 49.82475)">and confirm</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #a4532b" transform="translate(7.483465 209.937656)">Supply missing</text>
+    <text style="font-size: 8.7px; font-family: 'DejaVu Sans'; fill: #a4532b" transform="translate(7.483465 222.090469)">information first</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p09ce121edc">
+   <rect x="0" y="0" width="374.173228" height="226.8"/>
+  </clipPath>
+ </defs>
+</svg>

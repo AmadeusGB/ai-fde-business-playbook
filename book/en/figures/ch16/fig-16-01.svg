@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="132mm" height="95.700mm" viewBox="0 0 374.4 271.440" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:26.239701</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1" transform="scale(0.7428571428571428 1.3)">
+  <g id="patch_1">
+   <path d="M 0 208.8  L 504 208.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 22.176 79.04124  L 280.728 79.04124  L 280.728 40.83084  L 22.176 40.83084  z " clip-path="url(#pd25466d3f7)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 22.176 79.04124  L 22.176 40.83084  " clip-path="url(#pd25466d3f7)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 22.176 134.44632  L 280.728 134.44632  L 280.728 96.23592  L 22.176 96.23592  z " clip-path="url(#pd25466d3f7)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 22.176 134.44632  L 22.176 96.23592  " clip-path="url(#pd25466d3f7)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 22.176 189.8514  L 280.728 189.8514  L 280.728 151.641  L 22.176 151.641  z " clip-path="url(#pd25466d3f7)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 22.176 189.8514  L 22.176 151.641  " clip-path="url(#pd25466d3f7)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 292.306403 59.93604  Q 304.669275 59.93604 315.690507 59.93604  " clip-path="url(#pd25466d3f7)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 311.290507 57.73604  L 315.690507 59.93604  L 311.290507 62.13604  z " clip-path="url(#pd25466d3f7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 292.306403 115.34112  Q 304.669275 115.34112 315.690507 115.34112  " clip-path="url(#pd25466d3f7)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 311.290507 113.14112  L 315.690507 115.34112  L 311.290507 117.54112  z " clip-path="url(#pd25466d3f7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 292.306403 170.7462  Q 304.669275 170.7462 315.690507 170.7462  " clip-path="url(#pd25466d3f7)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 311.290507 168.5462  L 315.690507 170.7462  L 311.290507 172.9462  z " clip-path="url(#pd25466d3f7)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ <defs>
+  <clipPath id="pd25466d3f7">
+   <rect x="12.6" y="8.352" width="478.8" height="191.052"/>
+  </clipPath>
+ </defs>
+<text x="20.030" y="29.738" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="20.030" dy="0">Procurement requirement</tspan></text><text x="247.666" y="29.738" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="247.666" dy="0">Corresponding party</tspan></text><text x="27.144" y="81.563" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="27.144" dy="0">Security testing and report</tspan></text><text x="247.666" y="81.563" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="247.666" dy="0">Third-party tester</tspan></text><text x="27.144" y="150.590" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="27.144" dy="0">Confirmation after acceptance planning</tspan><tspan x="27.144" dy="12.0">and review</tspan></text><text x="247.666" y="153.590" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="247.666" dy="0">Procuring entity</tspan></text><text x="27.144" y="222.617" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="27.144" dy="0">Business authorization / workflow</tspan><tspan x="27.144" dy="12.0">distribution</tspan></text><text x="247.666" y="222.617" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="start"><tspan x="247.666" dy="0">Business administrators</tspan><tspan x="247.666" dy="12.0">/ municipal organization</tspan></text></svg>

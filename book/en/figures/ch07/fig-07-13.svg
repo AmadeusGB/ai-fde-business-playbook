@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504pt" height="424.08000000000004pt" viewBox="0 0 504.0 424.08000000000004" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:23.414604</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p7188d8faf5">
+   <rect x="12.6" y="10.944" width="478.8" height="251.712"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.55)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6  L 504 273.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 22.176 86.4576  L 481.824 86.4576  " clip-path="url(#p7188d8faf5)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 22.176 159.45408  L 481.824 159.45408  " clip-path="url(#p7188d8faf5)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 22.176 232.45056  L 481.824 232.45056  " clip-path="url(#p7188d8faf5)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><g font-family="Arial, sans-serif"><text x="22.176" y="92.329" font-size="13.00" style="fill: #24564b" data-source-index="1"><tspan x="22.176" dy="0">Response</tspan></text><text x="127.512" y="92.724" font-size="14.00" style="fill: #252c29" data-source-index="2"><tspan x="127.512" dy="0">30 minutes</tspan></text><text x="266.364" y="84.675" font-size="12.00" style="fill: #252c29" data-source-index="3"><tspan x="266.364" dy="0">Technical staff begin an initial</tspan><tspan x="266.364" dy="13.560">investigation</tspan></text><text x="22.176" y="205.474" font-size="13.00" style="fill: #24564b" data-source-index="4"><tspan x="22.176" dy="0">Restoration</tspan></text><text x="127.512" y="205.869" font-size="14.00" style="fill: #252c29" data-source-index="5"><tspan x="127.512" dy="0">2 hours</tspan></text><text x="266.364" y="198.145" font-size="12.00" style="fill: #252c29" data-source-index="6"><tspan x="266.364" dy="0">Restore service; an approved alternative</tspan><tspan x="266.364" dy="13.560">may be used</tspan></text><text x="22.176" y="318.618" font-size="13.00" style="fill: #24564b" data-source-index="7"><tspan x="22.176" dy="0">Resolution</tspan></text><text x="127.512" y="319.013" font-size="14.00" style="fill: #252c29" data-source-index="8"><tspan x="127.512" dy="0">1 business day</tspan></text><text x="266.364" y="317.744" font-size="12.00" style="fill: #252c29" data-source-index="9"><tspan x="266.364" dy="0">Resolve the problem and verify as agreed</tspan></text><text x="124.913" y="393.163" font-size="12.00" style="fill: #58615c" data-source-index="10"><tspan x="124.913" dy="0">Credera's public P1 targets; timed during service hours; not drawn</tspan><tspan x="124.913" dy="13.560">to scale</tspan></text></g></svg>

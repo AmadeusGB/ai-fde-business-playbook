@@ -1,0 +1,23 @@
+[
+  {
+    "note": 1,
+    "publication_text": "Databricks and Corteva, Accelerating Corteva’s Data Source Onboarding With Lakeflow, official 2026 conference listing and slides 6, 10, and 12, checked on September 6, 2026. The sum of the stage ranges does not fully match the reported overall cycle. The materials do not explain parallel work or rounding conventions, so no precise reduction is recalculated from them.",
+    "urls": [
+      "https://www.databricks.com/dataaisummit/session/accelerating-cortevas-data-source-onboarding-lakeflow"
+    ]
+  },
+  {
+    "note": 2,
+    "publication_text": "Databricks and Corteva, Accelerating Corteva’s Data Source Onboarding With Lakeflow, 2026 conference slides, slide 8. Work categories were redrawn from the saved official 28-page original; the slide itself was not copied.",
+    "urls": [
+      "https://microsites.databricks.com/sites/default/files/dais/2026/D26B1873.pdf"
+    ]
+  },
+  {
+    "note": 3,
+    "publication_text": "Databricks and Corteva, Accelerating Corteva’s Data Source Onboarding With Lakeflow, 2026 conference slides, slide 24. GenAI-assisted modeling is listed as a future plan and cannot be counted as an implemented result. The observation methods, settlement records, and time examples are teaching designs by the author, not evidence of outcomes for the author's clients.",
+    "urls": [
+      "https://microsites.databricks.com/sites/default/files/dais/2026/D26B1873.pdf"
+    ]
+  }
+]

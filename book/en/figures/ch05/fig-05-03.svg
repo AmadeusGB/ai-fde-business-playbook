@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="412.92pt" viewBox="0 0 504.0 412.92" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:13.855420</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p57ddd09c90">
+   <rect x="12.6" y="8.928" width="478.8" height="205.344"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 223.2  L 504 223.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 81.628559 82.85184  Q 117.934694 82.85184 152.787385 82.85184  " clip-path="url(#p57ddd09c90)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 148.387385 80.65184  L 152.787385 82.85184  L 148.387385 85.05184  z " clip-path="url(#p57ddd09c90)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 215.698111 82.85184  Q 254.394394 82.85184 291.637233 82.85184  " clip-path="url(#p57ddd09c90)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 287.237233 80.65184  L 291.637233 82.85184  L 287.237233 85.05184  z " clip-path="url(#p57ddd09c90)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 354.544559 82.85184  Q 390.850694 82.85184 425.703385 82.85184  " clip-path="url(#p57ddd09c90)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 421.303385 80.65184  L 425.703385 82.85184  L 421.303385 85.05184  z " clip-path="url(#p57ddd09c90)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 26.964 183.4704  L 477.036 183.4704  " clip-path="url(#p57ddd09c90)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="61.5" y="83.477" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_1"><tspan x="61.5" dy="0">Receive</tspan><tspan x="61.5" dy="14.16">statement</tspan></text><text x="184.968" y="83.477" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_2"><tspan x="184.968" dy="0">Wait for missing</tspan><tspan x="184.968" dy="14.16">material</tspan></text><text x="323.82" y="83.477" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_3"><tspan x="323.82" dy="0">Check</tspan><tspan x="323.82" dy="14.16">discrepancies</tspan></text><text x="442.5" y="83.477" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_4"><tspan x="442.5" dy="0">Approve and</tspan><tspan x="442.5" dy="14.16">archive</tspan></text><text x="61.5" y="225.501" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_5"><tspan x="61.5" dy="0">Record entry and</tspan><tspan x="61.5" dy="14.16">task type</tspan></text><text x="184.968" y="218.421" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_6"><tspan x="184.968" dy="0">Record waiting</tspan><tspan x="184.968" dy="14.16">separately from</tspan><tspan x="184.968" dy="14.16">human work time</tspan></text><text x="323.82" y="218.421" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_7"><tspan x="323.82" dy="0">Record handling</tspan><tspan x="323.82" dy="14.16">and rework</tspan><tspan x="323.82" dy="14.16">separately</tspan></text><text x="442.5" y="211.341" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_8"><tspan x="442.5" dy="0">Record</tspan><tspan x="442.5" dy="14.16">completion;</tspan><tspan x="442.5" dy="14.16">retain</tspan><tspan x="442.5" dy="14.16">unfinished tasks</tspan></text><text x="252.0" y="378.799" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_9"><tspan x="252.0" dy="0">Also record observation period, participants, and rule version</tspan></text></svg>

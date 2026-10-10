@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504pt" height="273.6pt" viewBox="0 0 504 273.6" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 273.6  L 504 273.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 22.176 47.693952  L 141.876 47.693952  L 141.876 20.005632  L 22.176 20.005632  z " clip-path="url(#p1ba24f606f)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 156.24 33.59808  L 175.392 33.59808  " clip-path="url(#p1ba24f606f)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 22.176 80.416512  L 141.876 80.416512  L 141.876 52.728192  L 22.176 52.728192  z " clip-path="url(#p1ba24f606f)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 156.24 66.32064  L 175.392 66.32064  " clip-path="url(#p1ba24f606f)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 22.176 113.139072  L 141.876 113.139072  L 141.876 85.450752  L 22.176 85.450752  z " clip-path="url(#p1ba24f606f)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 156.24 99.0432  L 175.392 99.0432  " clip-path="url(#p1ba24f606f)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 22.176 145.861632  L 141.876 145.861632  L 141.876 118.173312  L 22.176 118.173312  z " clip-path="url(#p1ba24f606f)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 156.24 131.76576  L 175.392 131.76576  " clip-path="url(#p1ba24f606f)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 22.176 178.584192  L 141.876 178.584192  L 141.876 150.895872  L 22.176 150.895872  z " clip-path="url(#p1ba24f606f)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 156.24 164.48832  L 175.392 164.48832  " clip-path="url(#p1ba24f606f)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 22.176 211.306752  L 141.876 211.306752  L 141.876 183.618432  L 22.176 183.618432  z " clip-path="url(#p1ba24f606f)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 156.24 197.21088  L 175.392 197.21088  " clip-path="url(#p1ba24f606f)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 22.176 244.029312  L 141.876 244.029312  L 141.876 216.340992  L 22.176 216.340992  z " clip-path="url(#p1ba24f606f)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 156.24 229.93344  L 175.392 229.93344  " clip-path="url(#p1ba24f606f)" style="fill: none; stroke: #24564b; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="31.752" y="36.403" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="31.752" dy="0">Buy licenses</tspan></text></g>
+   <g id="text_2">
+    <text x="189.756" y="36.403" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="189.756" dy="0">Contract, licenses, and validity period</tspan></text></g>
+   <g id="text_3">
+    <text x="31.752" y="69.126" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="31.752" dy="0">Allocate licenses</tspan></text></g>
+   <g id="text_4">
+    <text x="189.756" y="69.126" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="189.756" dy="0">Designated identities and authorized uses</tspan></text></g>
+   <g id="text_5">
+    <text x="31.752" y="101.848" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="31.752" dy="0">Activate access</tspan></text></g>
+   <g id="text_6">
+    <text x="189.756" y="101.848" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="189.756" dy="0">Usable accounts and entry points</tspan></text></g>
+   <g id="text_7">
+    <text x="31.752" y="134.571" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="31.752" dy="0">Active this period</tspan></text></g>
+   <g id="text_8">
+    <text x="189.756" y="134.571" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="189.756" dy="0">Defined events and observation period</tspan></text></g>
+   <g id="text_9">
+    <text x="31.752" y="167.293" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="31.752" dy="0">Target tasks</tspan></text></g>
+   <g id="text_10">
+    <text x="189.756" y="167.293" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="189.756" dy="0">Scope of use and task IDs</tspan></text></g>
+   <g id="text_11">
+    <text x="31.752" y="200.016" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="31.752" dy="0">Qualified handover</tspan></text></g>
+   <g id="text_12">
+    <text x="189.756" y="200.016" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="189.756" dy="0">Review, acceptance, and unresolved states</tspan></text></g>
+   <g id="text_13">
+    <text x="31.752" y="232.738" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="31.752" dy="0">Business outcomes</tspan></text></g>
+   <g id="text_14">
+    <text x="189.756" y="232.738" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="189.756" dy="0">Separately check baseline, costs, and attribution</tspan></text></g>
+   <g id="text_15">
+    <text x="252.000" y="265.407" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="252.000" dy="0">Reclaim and reassign: feedback into license management</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1ba24f606f">
+   <rect x="12.6" y="10.944" width="478.8" height="251.712"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="412.92pt" viewBox="0 0 504.0 412.92" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-11T10:56:21.775939</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p8c31b3f39b">
+   <rect x="12.6" y="8.928" width="478.8" height="205.344"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 223.2  L 504 223.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 26.964 177.31008  L 477.036 177.31008  " clip-path="url(#p8c31b3f39b)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="68.206" y="92.891" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="25.0" text-anchor="middle" id="text_1"><tspan x="68.206" dy="0">N</tspan></text><text x="70.056" y="177.931" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_2"><tspan x="70.056" dy="0">Candidate tasks</tspan></text><text x="70.056" y="279.929" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_3"><tspan x="70.056" dy="0">Task list</tspan></text><text x="126.506" y="92.916" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="17.0" text-anchor="middle" id="text_4"><tspan x="126.506" dy="0">×</tspan></text><text x="190.893" y="92.891" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="25.0" text-anchor="middle" id="text_5"><tspan x="190.893" dy="0">a</tspan></text><text x="189.756" y="177.931" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_6"><tspan x="189.756" dy="0">Entry share</tspan></text><text x="189.756" y="272.849" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_7"><tspan x="189.756" dy="0">Operating</tspan><tspan x="189.756" dy="14.16">records</tspan></text><text x="246.206" y="92.916" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="17.0" text-anchor="middle" id="text_8"><tspan x="246.206" dy="0">×</tspan></text><text x="306.194" y="92.891" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="25.0" text-anchor="middle" id="text_9"><tspan x="306.194" dy="0">m</tspan></text><text x="309.456" y="177.931" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_10"><tspan x="309.456" dy="0">Net time saved</tspan></text><text x="309.456" y="272.849" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_11"><tspan x="309.456" dy="0">Complete-task</tspan><tspan x="309.456" dy="14.16">comparison</tspan></text><text x="365.906" y="92.916" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="17.0" text-anchor="middle" id="text_12"><tspan x="365.906" dy="0">×</tspan></text><text x="430.881" y="92.891" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="25.0" text-anchor="middle" id="text_13"><tspan x="430.881" dy="0">c</tspan></text><text x="429.156" y="177.931" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="middle" id="text_14"><tspan x="429.156" dy="0">Realizable share</tspan></text><text x="429.156" y="272.849" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_15"><tspan x="429.156" dy="0">Adjustable</tspan><tspan x="429.156" dy="14.16">purchasing scope</tspan></text><text x="252" y="367.92" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" id="text_16"><tspan x="252" dy="0">N × a × m ÷ 60 × c × external hourly rate − additional monthly operating</tspan><tspan x="252" dy="14.16">cost</tspan></text></svg>

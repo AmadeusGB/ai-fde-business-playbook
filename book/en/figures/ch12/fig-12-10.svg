@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="252pt" viewBox="0 0 504 252" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 74.844 185.3208  L 467.46 185.3208  " clip-path="url(#pb27814487a)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 74.844 151.42554  L 467.46 151.42554  " clip-path="url(#pb27814487a)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 74.844 117.53028  L 467.46 117.53028  " clip-path="url(#pb27814487a)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 74.844 83.63502  L 467.46 83.63502  " clip-path="url(#pb27814487a)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 74.844 49.73976  L 467.46 49.73976  " clip-path="url(#pb27814487a)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 117.936 185.3208  L 184.968 185.3208  L 184.968 49.73976  L 117.936 49.73976  z " clip-path="url(#pb27814487a)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 242.424 83.63502  L 309.456 83.63502  L 309.456 49.73976  L 242.424 49.73976  z " clip-path="url(#pb27814487a)" style="fill: #98522e; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 371.7 185.3208  L 438.732 185.3208  L 438.732 83.63502  L 371.7 83.63502  z " clip-path="url(#pb27814487a)" style="fill: #24564b; stroke: #bfc9c0; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 184.968 49.73976  L 242.424 49.73976  " clip-path="url(#pb27814487a)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #58615c"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 309.456 83.63502  L 371.7 83.63502  " clip-path="url(#pb27814487a)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #58615c"/>
+   </g>
+   <g id="text_1">
+    <text x="54.664" y="188.072" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="54.664" dy="0">0</tspan></text></g>
+   <g id="text_2">
+    <text x="48.848" y="154.177" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="48.848" dy="0">30</tspan></text></g>
+   <g id="text_3">
+    <text x="48.848" y="120.282" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="48.848" dy="0">60</tspan></text></g>
+   <g id="text_4">
+    <text x="48.848" y="86.386" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="48.848" dy="0">90</tspan></text></g>
+   <g id="text_5">
+    <text x="43.032" y="52.491" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.8" text-anchor="start"><tspan x="43.032" dy="0">120</tspan></text></g>
+   <g id="text_6">
+    <text x="26.964" y="26.885" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="26.964" dy="0">Hours | teaching assumptions</tspan></text></g>
+   <g id="text_7">
+    <text x="140.940" y="39.220" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="start"><tspan x="140.940" dy="0">120</tspan></text></g>
+   <g id="text_8">
+    <text x="151.450" y="211.721" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="151.450" dy="0">Less time on the</tspan><tspan x="151.450" dy="12.76">original step</tspan></text></g>
+   <g id="text_9">
+    <text x="262.432" y="39.220" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="start"><tspan x="262.432" dy="0">−30</tspan></text></g>
+   <g id="text_10">
+    <text x="275.940" y="218.101" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="275.940" dy="0">Added burden</tspan></text></g>
+   <g id="text_11">
+    <text x="398.208" y="73.115" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="start"><tspan x="398.208" dy="0">90</tspan></text></g>
+   <g id="text_12">
+    <text x="405.220" y="218.101" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="405.220" dy="0">Net released</tspan></text></g>
+   <g id="text_13">
+    <text x="252.000" y="243.600" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="252.000" dy="0">600 tasks × 12 minutes / 60 = 120 hours; not counted as cash benefits</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb27814487a">
+   <rect x="12.6" y="10.08" width="478.8" height="230.58"/>
+  </clipPath>
+ </defs>
+</svg>

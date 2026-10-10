@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="259.2pt" viewBox="0 0 504 259.2" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 74.844 77.13792  L 74.844 120.06144  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 74.844 169.752307  Q 74.844 186.830714 74.844 202.455677  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 77.044 198.055677  L 74.844 202.455677  L 72.644 198.055677  z " clip-path="url(#pc6bd6769fe)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 119.93665 53.29152  Q 134.696005 53.29152 148.001917 53.29152  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 143.601917 51.09152  L 148.001917 53.29152  L 143.601917 55.49152  z " clip-path="url(#pc6bd6769fe)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 194.544 77.13792  L 194.544 120.06144  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 194.544 169.752307  Q 194.544 186.830714 194.544 202.455677  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 196.744 198.055677  L 194.544 202.455677  L 192.344 198.055677  z " clip-path="url(#pc6bd6769fe)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 239.63665 53.29152  Q 254.396005 53.29152 267.701917 53.29152  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 263.301917 51.09152  L 267.701917 53.29152  L 263.301917 55.49152  z " clip-path="url(#pc6bd6769fe)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 314.244 77.13792  L 314.244 120.06144  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 314.244 169.752307  Q 314.244 186.830714 314.244 202.455677  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 316.444 198.055677  L 314.244 202.455677  L 312.044 198.055677  z " clip-path="url(#pc6bd6769fe)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 359.33665 53.29152  Q 374.096005 53.29152 387.401917 53.29152  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 383.001917 51.09152  L 387.401917 53.29152  L 383.001917 55.49152  z " clip-path="url(#pc6bd6769fe)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 433.944 77.13792  L 433.944 120.06144  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 433.944 169.752307  Q 433.944 186.830714 433.944 202.455677  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 436.144 198.055677  L 433.944 202.455677  L 431.744 198.055677  z " clip-path="url(#pc6bd6769fe)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 36.54 210.67776  L 472.248 210.67776  " clip-path="url(#pc6bd6769fe)" style="fill: none; stroke: #98522e; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="74.840" y="56.607" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="middle"><tspan x="74.840" dy="0">Get materials</tspan></text></g>
+   <g id="text_2">
+    <text x="74.840" y="146.659" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="74.840" dy="0">Log in / transcribe</tspan></text></g>
+   <g id="text_3">
+    <text x="194.540" y="56.607" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="middle"><tspan x="194.540" dy="0">Prepare inputs</tspan></text></g>
+   <g id="text_4">
+    <text x="194.540" y="146.659" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="194.540" dy="0">De-identify / organize</tspan></text></g>
+   <g id="text_5">
+    <text x="314.240" y="56.607" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="middle"><tspan x="314.240" dy="0">Generate draft</tspan></text></g>
+   <g id="text_6">
+    <text x="314.240" y="146.659" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="314.240" dy="0">Missing fields / check</tspan></text></g>
+   <g id="text_7">
+    <text x="433.940" y="49.067" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="middle"><tspan x="433.940" dy="0">Deliver for</tspan><tspan x="433.940" dy="15.079999999999998">acceptance</tspan></text></g>
+   <g id="text_8">
+    <text x="433.940" y="146.659" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="middle"><tspan x="433.940" dy="0">Format / evidence</tspan></text></g>
+   <g id="text_9">
+    <text x="252.000" y="242.098" fill="#98522e" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="middle"><tspan x="252.000" dy="0">Return to the old process: record the exact step and reason</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc6bd6769fe">
+   <rect x="12.6" y="10.368" width="478.8" height="238.464"/>
+  </clipPath>
+ </defs>
+</svg>

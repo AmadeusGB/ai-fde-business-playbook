@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="519.48pt" viewBox="0 0 504.0 519.48" version="1.1">
+ <rect x="0" y="0" width="504.0" height="519.48" fill="#ffffff"/><metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:24.268741</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pd21e987677">
+   <rect x="12.6" y="11.232" width="478.8" height="255.528"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 280.8  L 504 280.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 26.964 110.88792  L 477.036 110.88792  " clip-path="url(#pd21e987677)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 26.964 169.65936  L 477.036 169.65936  " clip-path="url(#pd21e987677)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 26.964 228.4308  L 477.036 228.4308  " clip-path="url(#pd21e987677)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="64.258" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Test combination</tspan></text></g>
+   <g id="text_2">
+    <text x="184.968" y="64.258" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="184.968" dy="0">What changes</tspan></text></g>
+   <g id="text_3">
+    <text x="342.972" y="64.258" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="342.972" dy="0">What it reveals</tspan></text></g>
+   <g id="text_4">
+    <text x="26.964" y="158.332" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Team B / Site A</tspan></text></g>
+   <g id="text_5">
+    <text x="184.968" y="158.332" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="184.968" dy="0">Users</tspan></text></g>
+   <g id="text_6">
+    <text x="342.972" y="158.332" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="342.972" dy="0">Missing instructions</tspan></text></g>
+   <g id="text_7">
+    <text x="26.964" y="267.059" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Team B / Site B</tspan></text></g>
+   <g id="text_8">
+    <text x="184.968" y="267.059" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="184.968" dy="0">Documents and rules</tspan></text></g>
+   <g id="text_9">
+    <text x="342.972" y="267.059" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="342.972" dy="0">Local adaptation</tspan></text></g>
+   <g id="text_10">
+    <text x="26.964" y="375.786" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Team B / New site B</tspan><tspan x="26.964" dy="14.75">version</tspan></text></g>
+   <g id="text_11">
+    <text x="184.968" y="375.786" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="184.968" dy="0">Dependency versions</tspan></text></g>
+   <g id="text_12">
+    <text x="342.972" y="375.786" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="342.972" dy="0">Maintenance capability</tspan></text></g>
+   <g id="text_13">
+    <text x="14" y="489.586" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="14" dy="0">Separate diagnosis; validate the final target combination</tspan></text></g>
+  </g>
+ </g>
+ </g></svg>

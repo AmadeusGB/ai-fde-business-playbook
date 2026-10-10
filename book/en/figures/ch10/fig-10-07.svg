@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="374.4pt" height="172.8pt" viewBox="0 0 374.4 172.8" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 172.8  L 374.4 172.8  L 374.4 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 18.27072 38.1888  L 356.12928 38.1888  " clip-path="url(#ped6b00e6e9)" style="fill: none; stroke: #bfc9c0; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 25.4592 49.43808  L 25.4592 144.25344  " clip-path="url(#ped6b00e6e9)" style="fill: none; stroke: #24564b; stroke-width: 0.7; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 27.457268 63.90144  Q 36.240132 63.90144 44.016767 63.90144  " clip-path="url(#ped6b00e6e9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 40.416767 62.10144  L 44.016767 63.90144  L 40.416767 65.70144  z " clip-path="url(#ped6b00e6e9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 27.457268 104.07744  Q 36.240132 104.07744 44.016767 104.07744  " clip-path="url(#ped6b00e6e9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 40.416767 102.27744  L 44.016767 104.07744  L 40.416767 105.87744  z " clip-path="url(#ped6b00e6e9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 27.457268 144.25344  Q 36.240132 144.25344 44.016767 144.25344  " clip-path="url(#ped6b00e6e9)" style="fill: none; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 40.416767 142.45344  L 44.016767 144.25344  L 40.416767 146.05344  z " clip-path="url(#ped6b00e6e9)" style="fill: #24564b; stroke: #24564b; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="18.271" y="23.571" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="18.271" dy="0">Design the evaluation set</tspan></text></g>
+   <g id="text_2">
+    <text x="356.000" y="17.006" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10" text-anchor="end"><tspan x="356.000" dy="0">State the coverage purpose</tspan><tspan x="356.000" dy="11.6">first</tspan></text></g>
+   <g id="text_3">
+    <text x="57.807" y="66.579" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="57.807" dy="0">Recent real tasks</tspan></text></g>
+   <g id="text_4">
+    <text x="208.765" y="66.324" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="208.765" dy="0">Retain main-path conditions</tspan></text></g>
+   <g id="text_5">
+    <text x="57.807" y="106.755" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="57.807" dy="0">Past exceptions</tspan></text></g>
+   <g id="text_6">
+    <text x="208.765" y="106.500" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="208.765" dy="0">Retain failure triggers</tspan></text></g>
+   <g id="text_7">
+    <text x="57.807" y="140.841" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="57.807" dy="0">Scenarios that could have</tspan><tspan x="57.807" dy="12.18">severe consequences</tspan></text></g>
+   <g id="text_8">
+    <text x="208.765" y="140.586" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="10.5" text-anchor="start"><tspan x="208.765" dy="0">Label deliberately constructed</tspan><tspan x="208.765" dy="12.18">samples</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="ped6b00e6e9">
+   <rect x="7.488" y="6.048" width="359.424" height="160.704"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="244.8pt" viewBox="0 0 504 244.8" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:11.696112</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 244.8  L 504 244.8  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 252 191.4336  L 252 28.05408  " clip-path="url(#p3888267320)" style="fill: none; stroke: #98522e; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 182.18328 127.00224  Q 252.001002 127.00224 320.477084 127.00224  " clip-path="url(#p3888267320)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 315.677084 124.60224  L 320.477084 127.00224  L 315.677084 129.40224  z " clip-path="url(#p3888267320)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="103.6" y="82.2" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle"><tspan x="103.6" y="82.2">Propose a candidate action</tspan></text></g>
+   <g id="text_2">
+    <text x="400.4" y="82.2" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="14" text-anchor="middle"><tspan x="400.4" y="82.2">Permit actual execution</tspan></text></g>
+   <g id="text_3">
+    <text x="252" y="222.1" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle"><tspan x="252" y="222.1">Authorization boundary</tspan></text></g>
+   <g id="text_4">
+    <text x="108.4" y="168.9" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="108.4" y="168.9">Tool and model capabilities</tspan></text></g>
+   <g id="text_5">
+    <text x="395.6" y="168.9" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="11.5" text-anchor="middle"><tspan x="395.6" y="168.9">Environment permissions + review</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3888267320">
+   <rect x="12.6" y="7.344" width="478.8" height="230.112"/>
+  </clipPath>
+ </defs>
+</svg>

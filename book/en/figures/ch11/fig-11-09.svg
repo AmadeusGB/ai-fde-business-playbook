@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="259.2pt" viewBox="0 0 504 259.2" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.2  L 504 259.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 65.268 83.907014  Q 65.268 93.831583 65.268 102.302708  " clip-path="url(#p0681a9b056)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 67.468 97.902708  L 65.268 102.302708  L 63.068 97.902708  z " clip-path="url(#p0681a9b056)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 65.268 155.446214  Q 65.268 165.370783 65.268 173.841908  " clip-path="url(#p0681a9b056)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 67.468 169.441908  L 65.268 173.841908  L 63.068 169.441908  z " clip-path="url(#p0681a9b056)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 132.3 241.67808  L 132.3 24.67584  " clip-path="url(#p0681a9b056)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 304.668 241.67808  L 304.668 24.67584  " clip-path="url(#p0681a9b056)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="53.836" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="start"><tspan x="26.964" dy="0">Watch a</tspan><tspan x="26.964" dy="15.079999999999998">demonstration</tspan></text></g>
+   <g id="text_2">
+    <text x="156.240" y="60.866" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="156.240" dy="0">Material A</tspan></text></g>
+   <g id="text_3">
+    <text x="323.820" y="54.432" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="323.820" dy="0">See inputs, evidence, and</tspan><tspan x="323.820" dy="12.76">review</tspan></text></g>
+   <g id="text_4">
+    <text x="26.964" y="132.915" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="start"><tspan x="26.964" dy="0">Guided practice</tspan></text></g>
+   <g id="text_5">
+    <text x="156.240" y="132.405" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="156.240" dy="0">Material B: includes conflicts</tspan></text></g>
+   <g id="text_6">
+    <text x="323.820" y="125.971" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="323.820" dy="0">Retain open questions and</tspan><tspan x="323.820" dy="12.76">refer</tspan></text></g>
+   <g id="text_7">
+    <text x="26.964" y="196.914" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="13.0" text-anchor="start"><tspan x="26.964" dy="0">Independent</tspan><tspan x="26.964" dy="15.079999999999998">delivery</tspan></text></g>
+   <g id="text_8">
+    <text x="156.240" y="203.944" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11.0" text-anchor="start"><tspan x="156.240" dy="0">Material C</tspan></text></g>
+   <g id="text_9">
+    <text x="323.820" y="197.510" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="323.820" dy="0">Checked by the actual</tspan><tspan x="323.820" dy="12.76">receiving role</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0681a9b056">
+   <rect x="12.6" y="10.368" width="478.8" height="238.464"/>
+  </clipPath>
+ </defs>
+</svg>

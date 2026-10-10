@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="466.20000000000005pt" viewBox="0 0 504.0 466.20000000000005" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:12.365915</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pf76ccc79b0">
+   <rect x="12.6" y="7.56" width="478.8" height="236.88"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252  L 504 252  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.964 73.8864  L 477.036 73.8864  L 477.036 19.404  L 26.964 19.404  z " clip-path="url(#pf76ccc79b0)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 84.42 144.9504  L 419.58 144.9504  L 419.58 90.468  L 84.42 90.468  z " clip-path="url(#pf76ccc79b0)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 146.664 216.0144  L 357.336 216.0144  L 357.336 161.532  L 146.664 161.532  z " clip-path="url(#pf76ccc79b0)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 252 78.253297  Q 252 82.17387 252 84.752803  " clip-path="url(#pf76ccc79b0)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 254.4 79.952803  L 252 84.752803  L 249.6 79.952803  z " clip-path="url(#pf76ccc79b0)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 252 149.317297  Q 252 153.23787 252 155.816803  " clip-path="url(#pf76ccc79b0)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 254.4 151.016803  L 252 155.816803  L 249.6 151.016803  z " clip-path="url(#pf76ccc79b0)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   </g>
+ </g>
+ </g><text x="252.0" y="92.426" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_1"><tspan x="252.0" dy="0">Business goal: improve efficiency</tspan></text><text x="252.0" y="223.895" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_2"><tspan x="252.0" dy="0">Business object: settlements in one region</tspan></text><text x="252.0" y="355.363" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="13.0" text-anchor="middle" id="text_3"><tspan x="252.0" dy="0">Specific task: check discrepancies</tspan></text></svg>

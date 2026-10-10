@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="532.8000000000001pt" viewBox="0 0 504.0 532.8000000000001" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:23.540794</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="p7ff9dd6490">
+   <rect x="12.6" y="11.52" width="478.8" height="262.08"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288  L 504 288  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 26.964 111.1104  L 218.484 111.1104  " clip-path="url(#p7ff9dd6490)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 26.964 158.2848  L 218.484 158.2848  " clip-path="url(#p7ff9dd6490)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 26.964 205.4592  L 218.484 205.4592  " clip-path="url(#p7ff9dd6490)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 280.728 111.1104  L 472.248 111.1104  " clip-path="url(#p7ff9dd6490)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 280.728 158.2848  L 472.248 158.2848  " clip-path="url(#p7ff9dd6490)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 280.728 205.4592  L 472.248 205.4592  " clip-path="url(#p7ff9dd6490)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 124.569619 214.094131  Q 163.423503 230.357429 200.936657 246.059529  " clip-path="url(#p7ff9dd6490)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 197.727329 242.33123  L 200.936657 246.059529  L 196.028421 246.390012  z " clip-path="url(#p7ff9dd6490)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 379.430381 214.094131  Q 340.576497 230.357429 303.063343 246.059529  " clip-path="url(#p7ff9dd6490)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 307.971579 246.390012  L 303.063343 246.059529  L 306.272671 242.33123  z " clip-path="url(#p7ff9dd6490)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="76.401" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Check the deliverable</tspan></text></g>
+   <g id="text_2">
+    <text x="26.964" y="171.956" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Correct known errors</tspan></text></g>
+   <g id="text_3">
+    <text x="26.964" y="259.228" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Match sources to arguments</tspan></text></g>
+   <g id="text_4">
+    <text x="26.964" y="346.501" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="26.964" dy="0">Trace effects of old versions</tspan></text></g>
+   <g id="text_5">
+    <text x="280.728" y="76.401" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="280.728" dy="0">Check the working method</tspan></text></g>
+   <g id="text_6">
+    <text x="280.728" y="171.956" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="280.728" dy="0">Validate using other content</tspan></text></g>
+   <g id="text_7">
+    <text x="280.728" y="259.228" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="280.728" dy="0">Retain review evidence</tspan></text></g>
+   <g id="text_8">
+    <text x="280.728" y="346.501" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="280.728" dy="0">Pause again on failure</tspan></text></g>
+   <g id="text_9">
+    <text x="213.5" y="472.561" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="213.5" dy="0">Authorized accepting party decides</tspan></text></g>
+  </g>
+ </g>
+ </g></svg>

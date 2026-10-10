@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="539.46pt" viewBox="0 0 504.0 539.46" version="1.1">
+ <metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-09T17:25:23.701696</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <defs>
+  <clipPath id="pc423b95ae9">
+   <rect x="12.6" y="11.664" width="478.8" height="265.356"/>
+  </clipPath>
+ </defs>
+<g transform="scale(1 1.85)"><g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 291.6  L 504 291.6  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 22.176 104.5386  L 477.036 104.5386  L 477.036 35.54604  L 22.176 35.54604  z " clip-path="url(#pc423b95ae9)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 22.176 104.5386  L 89.208 104.5386  L 89.208 35.54604  L 22.176 35.54604  z " clip-path="url(#pc423b95ae9)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 22.176 184.1454  L 477.036 184.1454  L 477.036 115.15284  L 22.176 115.15284  z " clip-path="url(#pc423b95ae9)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 22.176 184.1454  L 89.208 184.1454  L 89.208 115.15284  L 22.176 115.15284  z " clip-path="url(#pc423b95ae9)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 22.176 263.7522  L 477.036 263.7522  L 477.036 194.75964  L 22.176 194.75964  z " clip-path="url(#pc423b95ae9)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 22.176 263.7522  L 89.208 263.7522  L 89.208 194.75964  L 22.176 194.75964  z " clip-path="url(#pc423b95ae9)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 225.27528 70.04232  Q 259.184371 70.04232 291.640018 70.04232  " clip-path="url(#pc423b95ae9)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 287.240018 67.84232  L 291.640018 70.04232  L 287.240018 72.24232  z " clip-path="url(#pc423b95ae9)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 239.638403 149.64912  Q 266.365047 149.64912 291.638246 149.64912  " clip-path="url(#pc423b95ae9)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 287.238246 147.44912  L 291.638246 149.64912  L 287.238246 151.84912  z " clip-path="url(#pc423b95ae9)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 258.784559 229.25592  Q 275.93885 229.25592 291.639696 229.25592  " clip-path="url(#pc423b95ae9)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 287.239696 227.05592  L 291.639696 229.25592  L 287.239696 231.45592  z " clip-path="url(#pc423b95ae9)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 390.852 186.143344  Q 390.852 189.452288 390.852 191.307787  " clip-path="url(#pc423b95ae9)" style="fill: none; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 393.052 186.907787  L 390.852 191.307787  L 388.652 186.907787  z " clip-path="url(#pc423b95ae9)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text x="55.692" y="134.768" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)" text-anchor="middle"><tspan x="55.692" dy="0">Business</tspan></text></g>
+   <g id="text_2">
+    <text x="55.692" y="282.04" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)" text-anchor="middle"><tspan x="55.692" dy="0">Assets</tspan></text></g>
+   <g id="text_3">
+    <text x="55.692" y="429.313" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)" text-anchor="middle"><tspan x="55.692" dy="0">Access</tspan></text></g>
+   <g id="text_4">
+    <text x="117.936" y="134.768" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="117.936" dy="0">Open tasks</tspan></text></g>
+   <g id="text_5">
+    <text x="314.244" y="134.768" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="314.244" dy="0">Recipient continues work</tspan></text></g>
+   <g id="text_6">
+    <text x="117.936" y="282.04" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="117.936" dy="0">Exports and</tspan><tspan x="117.936" dy="14.75">instructions</tspan></text></g>
+   <g id="text_7">
+    <text x="314.244" y="282.04" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="314.244" dy="0">Check usability</tspan></text></g>
+   <g id="text_8">
+    <text x="117.936" y="429.313" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="117.936" dy="0">Accounts /</tspan><tspan x="117.936" dy="14.75">connections</tspan></text></g>
+   <g id="text_9">
+    <text x="314.244" y="429.313" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="314.244" dy="0">Revoke access after</tspan><tspan x="314.244" dy="14.75">handover checks</tspan></text></g>
+   <g id="text_10">
+    <text x="14" y="36.586" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.5" transform="scale(1 0.5405405405405405)"><tspan x="14" dy="0">Retain receipt and validation records at exit</tspan></text></g>
+  </g>
+ </g>
+ </g></svg>

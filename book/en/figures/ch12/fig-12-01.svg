@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504pt" height="241.2pt" viewBox="0 0 504 241.2" version="1.1">
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: round}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 241.2  L 504 241.2  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 26.964 86.8923  L 472.248 86.8923  " clip-path="url(#p4c122b2e22)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 26.964 155.30868  L 472.248 155.30868  " clip-path="url(#p4c122b2e22)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 26.964 223.72506  L 472.248 223.72506  " clip-path="url(#p4c122b2e22)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text x="26.964" y="54.219" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="19.0" text-anchor="start"><tspan x="26.964" dy="0">About 2 hours</tspan></text></g>
+   <g id="text_2">
+    <text x="184.968" y="41.399" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="184.968" dy="0">Buyer’s time-saving statement</tspan></text></g>
+   <g id="text_3">
+    <text x="184.968" y="71.988" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="184.968" dy="0">Tasks, sample, and review burden</tspan></text></g>
+   <g id="text_4">
+    <text x="26.964" y="122.635" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="19.0" text-anchor="start"><tspan x="26.964" dy="0">96.0%</tspan></text></g>
+   <g id="text_5">
+    <text x="184.968" y="109.815" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="184.968" dy="0">Timeliness excluding exceptions</tspan></text></g>
+   <g id="text_6">
+    <text x="184.968" y="140.404" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="184.968" dy="0">381 / 397, year 2025</tspan></text></g>
+   <g id="text_7">
+    <text x="26.964" y="191.051" fill="#24564b" font-family="Arial, DejaVu Sans, sans-serif" font-size="19.0" text-anchor="start"><tspan x="26.964" dy="0">£458,000</tspan></text></g>
+   <g id="text_8">
+    <text x="184.968" y="178.232" fill="#252c29" font-family="Arial, DejaVu Sans, sans-serif" font-size="12.0" text-anchor="start"><tspan x="184.968" dy="0">Contract value excluding tax</tspan></text></g>
+   <g id="text_9">
+    <text x="184.968" y="208.820" fill="#58615c" font-family="Arial, DejaVu Sans, sans-serif" font-size="11" text-anchor="start"><tspan x="184.968" dy="0">R&amp;D, services, and other use cases</tspan></text></g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4c122b2e22">
+   <rect x="12.6" y="9.648" width="478.8" height="220.698"/>
+  </clipPath>
+ </defs>
+</svg>

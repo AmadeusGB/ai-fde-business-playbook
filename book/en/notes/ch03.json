@@ -1,0 +1,37 @@
+[
+  {
+    "note": 1,
+    "publication_text": "Palantir, Deployment Strategist. Used to explain how two roles work together, not as an industry-wide job standard.",
+    "urls": [
+      "https://jobs.lever.co/palantir/e0ab8226-b928-4e3a-bf87-08fe7b1ea595"
+    ]
+  },
+  {
+    "note": 2,
+    "publication_text": "Palantir, AI FDE Overview, rechecked September 6, 2026. See the definition, operating mechanisms, permissions, and branching descriptions. Features may change; no delivery outcomes are inferred from this documentation.",
+    "urls": [
+      "https://www.palantir.com/docs/foundry/ai-fde/overview"
+    ]
+  },
+  {
+    "note": 3,
+    "publication_text": "Hunan Provincial Department of Industry and Information Technology, 2026 Hunan Province AI Supply Capability List, PDF page 116, entry 429. Figures and operating descriptions come from submission materials. Projected efficiency has not been confirmed by an independent audit.",
+    "urls": [
+      "https://gxt.hunan.gov.cn/gxt/xhtml/pdfjs/web/images/pdf_rgzn02.pdf"
+    ]
+  },
+  {
+    "note": 4,
+    "publication_text": "China Government Procurement Network (中国政府采购网), award notice for Wuzhou social insurance RPA digital employee services, May 20, 2025. The award amount is not actual payment or benefits already realized.",
+    "urls": [
+      "https://www.ccgp.gov.cn/cggg/dfgg/cjgg/202505/t20250520_24621872.htm"
+    ]
+  },
+  {
+    "note": 5,
+    "publication_text": "Wuzhou Social Insurance Administration Center, competitive consultation documents for the same project. See the procurement requirements on configuration, authorization, operating monitoring, and takeover. This book has not obtained the actual acceptance report.",
+    "urls": [
+      "https://oss-gxhlw.unicloudgov.com/guangxi-gov-open-doc/1023FP/undefined/450406/10007282919/20255/d3a6b151-9124-4e3a-b81d-c02860bb0557.doc"
+    ]
+  }
+]
