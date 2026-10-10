@@ -2,3 +2,7 @@
 Thumbs.db
 *.tmp
 *~
+.site-venv/
+_site/
+.impeccable/
+website-build-manifest.json

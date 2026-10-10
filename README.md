@@ -8,6 +8,8 @@
 
 ## 阅读本书
 
+- [中英文在线阅读站](https://amadeusgb.github.io/ai-fde-business-playbook/)：手机与电脑可直接阅读，含章节目录、图表、行动工具和搜索。
+- [在线中文版](https://amadeusgb.github.io/ai-fde-business-playbook/zh/) · [Read in English](https://amadeusgb.github.io/ai-fde-business-playbook/en/)
 - [v3.6 电子版 PDF（334页）](edition/v3.6/把AI带进经营.pdf)
 - [v3.6 电子版 Word](edition/v3.6/把AI带进经营.docx)
 - [v3.6 修订说明](edition/v3.6/把AI带进经营—修订说明.md)
