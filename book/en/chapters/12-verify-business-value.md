@@ -38,7 +38,7 @@ Table 12-1 | Definitions for recording outcomes of the same task, recommended by
 
 | Element | What to record | Common misjudgment |
 |---|---|---|
-| Object | Task ID, type, and inclusion criteria | Treating easy tasks as all tasks |
+| Task covered | Task ID, type, and inclusion criteria | Treating easy tasks as all tasks |
 | Start and end | Receipt, readiness for processing, first delivery, and final acceptance times | Treating draft generation as completed work |
 | Path | AI-enabled steps, versions, human referrals, and retries | Keeping only successful calls |
 | Outcome | Quality grade, rework, acceptance, and unresolved state | Letting unresolved tasks disappear |
@@ -197,7 +197,7 @@ Table 12-4 | Monthly outcomes and the next-stage decision (completed teaching ex
 
 | Verification item | This month's conclusion | Constraint on the next step |
 |---|---|---|
-| Object and quality | 600 tasks finally accepted, including 40 referred to humans; no severe errors under the teaching assumptions | Continue recording human referrals and unresolved work; validate new scope separately |
+| Task scope and quality | 600 tasks finally accepted, including 40 referred to humans; no severe errors under the teaching assumptions | Continue recording human referrals and unresolved work; validate new scope separately |
 | Net hours | 120−30 = 90 hours; 40 replace external work and 50 clear backlog | Separate hours and cash; avoid double valuation |
 | Cash and cumulative investment | This month: 12,000−7,000 = RMB 5,000; cumulative balance including startup investment: −RMB 25,000 | Investment not yet recovered; six months is the total payback period only if these simplified assumptions remain unchanged |
 | Maintain current scope | Assume comparable demand and replacement of external work continue next month; additional cash capped at RMB 7,000 | Approve 30 days of observation; finance reviews actual costs |

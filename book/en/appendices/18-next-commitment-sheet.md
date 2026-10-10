@@ -10,18 +10,18 @@ Worksheet 18-1 | Next-stage decision sheet
 | Basis and boundaries | Record locations, denominator, and actual observation start/end: ____; what cannot yet be claimed: ____ |
 | Next piece of work | Continue / narrow / add evidence / validate expansion / end: ____; what to provide: ____ |
 | People and time | Decision-maker: ____; executor and recipient: ____; backup: ____; available periods: ____ |
-| Resource ceiling | Cash and index to existing obligations: ____; internal hours: ____; volume and review arrangements: ____ |
+| Resource ceiling | Cash and references to existing obligations: ____; internal hours: ____; volume and review arrangements: ____ |
 | Unmet dependencies | Gap and owner: ____; what to add by a deadline: ____; path if not completed by then: ____ |
 | Early review and resumption | Triggers: ____; who can stop: ____; who approves resumption and on what evidence: ____ |
 | Endpoint and handover | Deadline and starting point: ____; further observation of infrequent work: ____; who takes over existing tasks and support work: ____ |
 
 Completion check: ask the recipient to explain what they receive tomorrow, what they may not do, and whom to contact if conditions change. If any answer is unclear, complete the decision first. See Table 18-6 for a teaching example; actual names, ceilings, and records cannot be copied from it.
 
-## Next-stage observation and receipt record
+## Next-stage observation and handover record
 
 Use this for the actual task. Enter “to be investigated” for unclear matters and specify who investigates and by when.
 
-Worksheet 18-2 | Next-stage observation and receipt record. The author's worksheet.
+Worksheet 18-2 | Next-stage observation and handover record. The author's worksheet.
 
 | Check and record | Entry for this task |
 |---|---|

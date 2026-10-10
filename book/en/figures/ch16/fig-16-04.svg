@@ -1,18 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="132mm" height="113.850mm" viewBox="0 0 374.4 322.920" version="1.1">
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="132mm" height="113.850mm" viewBox="0 0 374.4 322.920" version="1.1">
  <metadata>
-  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <cc:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
     <dc:date>2026-09-09T17:25:26.528372</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
-     <cc:Agent>
+     <ns2:Agent>
       <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
-     </cc:Agent>
+     </ns2:Agent>
     </dc:creator>
-   </cc:Work>
+   </ns2:Work>
   </rdf:RDF>
  </metadata>
  <defs>
@@ -20,51 +19,51 @@
  </defs>
  <g id="figure_1" transform="scale(0.7428571428571428 1.3)">
   <g id="patch_1">
-   <path d="M 0 248.4  L 504 248.4  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+   <path d="M 0 248.4  L 504 248.4  L 504 0  L 0 0  z " style="fill: #ffffff" />
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 26.964 96.30468  L 232.848 96.30468  L 232.848 50.84748  L 26.964 50.84748  z " clip-path="url(#p968abd391e)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+    <path d="M 26.964 96.30468  L 232.848 96.30468  L 232.848 50.84748  L 26.964 50.84748  z " clip-path="url(#p968abd391e)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter" />
    </g>
    <g id="patch_3">
-    <path d="M 26.964 162.21762  L 232.848 162.21762  L 232.848 116.76042  L 26.964 116.76042  z " clip-path="url(#p968abd391e)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+    <path d="M 26.964 162.21762  L 232.848 162.21762  L 232.848 116.76042  L 26.964 116.76042  z " clip-path="url(#p968abd391e)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter" />
    </g>
    <g id="patch_4">
-    <path d="M 26.964 228.13056  L 232.848 228.13056  L 232.848 182.67336  L 26.964 182.67336  z " clip-path="url(#p968abd391e)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+    <path d="M 26.964 228.13056  L 232.848 228.13056  L 232.848 182.67336  L 26.964 182.67336  z " clip-path="url(#p968abd391e)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter" />
    </g>
    <g id="patch_5">
-    <path d="M 266.364 96.30468  L 472.248 96.30468  L 472.248 50.84748  L 266.364 50.84748  z " clip-path="url(#p968abd391e)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+    <path d="M 266.364 96.30468  L 472.248 96.30468  L 472.248 50.84748  L 266.364 50.84748  z " clip-path="url(#p968abd391e)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter" />
    </g>
    <g id="patch_6">
-    <path d="M 266.364 162.21762  L 472.248 162.21762  L 472.248 116.76042  L 266.364 116.76042  z " clip-path="url(#p968abd391e)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+    <path d="M 266.364 162.21762  L 472.248 162.21762  L 472.248 116.76042  L 266.364 116.76042  z " clip-path="url(#p968abd391e)" style="fill: #f1f4ef; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter" />
    </g>
    <g id="patch_7">
-    <path d="M 266.364 228.13056  L 472.248 228.13056  L 472.248 182.67336  L 266.364 182.67336  z " clip-path="url(#p968abd391e)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter"/>
+    <path d="M 266.364 228.13056  L 472.248 228.13056  L 472.248 182.67336  L 266.364 182.67336  z " clip-path="url(#p968abd391e)" style="fill: #ffffff; stroke: #bfc9c0; stroke-width: 0.8; stroke-linejoin: miter" />
    </g>
    <g id="line2d_1">
-    <path d="M 252 232.67628  L 252 12.20886  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square"/>
+    <path d="M 252 232.67628  L 252 12.20886  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #bfc9c0; stroke-linecap: square" />
    </g>
    <g id="patch_8">
-    <path d="M 127.512 100.577945  Q 127.512 106.53266 127.512 111.145733  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
-    <path d="M 129.712 106.745733  L 127.512 111.145733  L 125.312 106.745733  z " clip-path="url(#p968abd391e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 127.512 100.577945  Q 127.512 106.53266 127.512 111.145733  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round" />
+    <path d="M 129.712 106.745733  L 127.512 111.145733  L 125.312 106.745733  z " clip-path="url(#p968abd391e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round" />
    </g>
    <g id="patch_9">
-    <path d="M 127.512 166.490885  Q 127.512 172.4456 127.512 177.058673  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
-    <path d="M 129.712 172.658673  L 127.512 177.058673  L 125.312 172.658673  z " clip-path="url(#p968abd391e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 127.512 166.490885  Q 127.512 172.4456 127.512 177.058673  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round" />
+    <path d="M 129.712 172.658673  L 127.512 177.058673  L 125.312 172.658673  z " clip-path="url(#p968abd391e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round" />
    </g>
    <g id="patch_10">
-    <path d="M 366.912 100.577945  Q 366.912 106.53266 366.912 111.145733  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
-    <path d="M 369.112 106.745733  L 366.912 111.145733  L 364.712 106.745733  z " clip-path="url(#p968abd391e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 366.912 100.577945  Q 366.912 106.53266 366.912 111.145733  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round" />
+    <path d="M 369.112 106.745733  L 366.912 111.145733  L 364.712 106.745733  z " clip-path="url(#p968abd391e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round" />
    </g>
    <g id="patch_11">
-    <path d="M 366.912 166.490885  Q 366.912 172.4456 366.912 177.058673  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
-    <path d="M 369.112 172.658673  L 366.912 177.058673  L 364.712 172.658673  z " clip-path="url(#p968abd391e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 366.912 166.490885  Q 366.912 172.4456 366.912 177.058673  " clip-path="url(#p968abd391e)" style="fill: none; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round" />
+    <path d="M 369.112 172.658673  L 366.912 177.058673  L 364.712 172.658673  z " clip-path="url(#p968abd391e)" style="fill: #24564b; stroke: #24564b; stroke-width: 1.2; stroke-linecap: round" />
    </g>
    </g>
  </g>
  <defs>
   <clipPath id="p968abd391e">
-   <rect x="12.6" y="9.936" width="478.8" height="227.286"/>
+   <rect x="12.6" y="9.936" width="478.8" height="227.286" />
   </clipPath>
  </defs>
-<text x="100.587" y="34.623" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="100.587" dy="0">A: Internal implementation</tspan></text><text x="100.587" y="93.295" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="100.587" dy="0">Enterprise confirms task and</tspan><tspan x="100.587" dy="12.0">rules</tspan></text><text x="100.587" y="184.982" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="100.587" dy="0">Enterprise application team</tspan></text><text x="100.587" y="264.669" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="100.587" dy="0">Enterprise approves operation /</tspan><tspan x="100.587" dy="12.0">receives business work</tspan></text><text x="278.427" y="34.623" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="278.427" dy="0">B: External implementation</tspan></text><text x="278.427" y="93.295" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="278.427" dy="0">Enterprise confirms task and</tspan><tspan x="278.427" dy="12.0">rules</tspan></text><text x="278.427" y="184.982" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="278.427" dy="0">External delivery team</tspan></text><text x="278.427" y="264.669" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="278.427" dy="0">Enterprise approves operation /</tspan><tspan x="278.427" dy="12.0">receives business work</tspan></text></svg>
+<text x="100.587" y="34.623" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="100.587" dy="0">A: Internal implementation</tspan></text><text x="100.587" y="93.295" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="100.587" dy="0">Enterprise confirms task and</tspan><tspan x="100.587" dy="12.0">rules</tspan></text><text x="100.587" y="184.982" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="100.587" dy="0">Enterprise application team</tspan></text><text x="100.587" y="264.669" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="100.587" dy="0">Company authorizes use /</tspan><tspan x="100.587" dy="12.0">accepts the delivered work</tspan></text><text x="278.427" y="34.623" fill="#24564b" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="278.427" dy="0">B: External implementation</tspan></text><text x="278.427" y="93.295" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="278.427" dy="0">Enterprise confirms task and</tspan><tspan x="278.427" dy="12.0">rules</tspan></text><text x="278.427" y="184.982" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="278.427" dy="0">External delivery team</tspan></text><text x="278.427" y="264.669" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="10" text-anchor="middle"><tspan x="278.427" dy="0">Company authorizes use /</tspan><tspan x="278.427" dy="12.0">accepts the delivered work</tspan></text></svg>

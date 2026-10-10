@@ -177,7 +177,7 @@ Figure 16-11 | Who handles changes after payment? The author's analytical tool; 
 
 The business owner need not chair every technical meeting but should be able to find the complete grounds for a piece of work from requirements through receipt. Start by sampling the most recent handover: what the receiving party obtained, which conditions remain unmet, and who made the next decision. If the answer consists only of separate completion reports from several teams, ask the coordinator to align them to the same task, version, and scope of use.
 
-The chapter worksheet records an actual delivery across eight handovers: requirements confirmation, information authorization, development and integration, validation, business receipt, procurement and payment, operations and maintenance, and feedback from experience. For each, record the receiving party and the grounds for acceptance. The procurement and payment row also separates acceptance confirmation from actual payment status; contractual payment conditions cannot substitute for a payment that has occurred. Where there is no separate department, enter the person actually holding the combined role. A blank with an assigned action to fill it is more useful than assuming a title means someone is responsible.
+The chapter worksheet records an actual delivery across eight handovers: requirements confirmation, information authorization, development and integration, validation, business handover, procurement and payment, operations and maintenance, and feedback from experience. For each, record the receiving party and the grounds for acceptance. The procurement and payment row also separates acceptance confirmation from actual payment status; contractual payment conditions cannot substitute for a payment that has occurred. Where there is no separate department, enter the person actually holding the combined role. A blank with an assigned action to fill it is more useful than assuming a title means someone is responsible.
 
 ![Figure 16-12 What a handover record adds to a contact list](../figures/ch16/fig-16-12.png)
 
@@ -206,7 +206,7 @@ Table 16-4 | Task replay sheet for a three-party meeting. The author's checking 
 
 Whatever organizational arrangement is chosen, someone must establish the task, implement functionality within authorization, check the results, and handle later changes. Titles may stay the same and people may come from different organizations; what must be clear is who performs each step, what they provide, and who confirms it.
 
-Once external teams' responsibilities are clear, the enterprise faces an internal question: does past experience still apply? Who can revise it, and how should later recipients use it? A supplier can maintain the system, but the enterprise must keep and check the business grounds underlying that experience. The next chapter discusses how to record individual experience so that others can understand, test, and update it.
+Once external teams' responsibilities are clear, the enterprise faces an internal question: does past experience still apply? Who can revise it, and how should later recipients use it? A supplier can maintain the system, but the enterprise must keep and check the business rules and evidence underlying that experience. The next chapter discusses how to record individual experience so that others can understand, test, and update it.
 
 ## Notes and sources
 

@@ -11,7 +11,7 @@ Worksheet 09-1 | Material governance record
 | Material governance item | Agreement for this round | Confirming person/record location |
 |---|---|---|
 | Rule name and version | ________ | ________ |
-| Applicable objects and effective time | ________ | ________ |
+| Equipment or records covered, and effective date | ________ | ________ |
 | Authoritative source and retrieval location | ________ | ________ |
 | Recipient for conflicting materials or insufficient evidence | ________ | ________ |
 | Revision release and uses of old versions | ________ | ________ |
@@ -20,13 +20,13 @@ Worksheet 09-2 | Action governance record
 
 | Action governance item | Agreement for this round | Confirming person/record location |
 |---|---|---|
-| Permitted action and objects | ________ | ________ |
+| Permitted action and affected records | ________ | ________ |
 | Execution identity and permissions | ________ | ________ |
 | Parameters and approved version | ________ | ________ |
 | Handling of timeouts/duplicate submissions | ________ | ________ |
 | Logs, retention, and takeover | ________ | ________ |
 
-Example: after a rule revision, update current retrieval scope and retain old versions for historical traceability. Before modifying a record, check the approved object and version. If status is unknown, query the result first.
+Example: after a rule revision, update current retrieval scope and retain old versions for historical traceability. Before modifying a record, check the approved target record and version. If status is unknown, query the result first.
 
 What is still missing when the task is checked against the design? ________________________
 
@@ -43,7 +43,7 @@ Worksheet 09-3 | Rule conflict handling record (the author's worksheet)
 | Item to check and record | Entry for this round |
 |---|---|
 | Locations and versions of conflicting materials | ________________________ |
-| Applicable objects and conflicting conditions | ________________________ |
+| Equipment or records covered, and conflicting conditions | ________________________ |
 | Authorized decision-maker, decision, and basis | ________________________ |
 | Update scope, people to notify, and retest tasks | ________________________ |
 
@@ -58,7 +58,7 @@ Worksheet 09-4 | Replay record for one write action (the author's worksheet)
 
 | Item to check and record | Entry for this round |
 |---|---|
-| Task ID, execution objects, and parameters | ________________________ |
+| Task ID, affected records, and action parameters | ________________________ |
 | Approver, approved version, and expiry | ________________________ |
 | Actual execution result and status-query record | ________________________ |
 | Takeover and business correction after an exception | ________________________ |

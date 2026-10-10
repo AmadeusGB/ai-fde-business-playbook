@@ -1,18 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="504.0pt" height="432.90000000000003pt" viewBox="0 0 504.0 432.90000000000003" version="1.1">
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="504.0pt" height="432.90000000000003pt" viewBox="0 0 504.0 432.90000000000003" version="1.1">
  <metadata>
-  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <cc:Work>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
     <dc:date>2026-09-09T17:25:13.731875</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
-     <cc:Agent>
+     <ns2:Agent>
       <dc:title>Matplotlib v3.9.4, https://matplotlib.org/</dc:title>
-     </cc:Agent>
+     </ns2:Agent>
     </dc:creator>
-   </cc:Work>
+   </ns2:Work>
   </rdf:RDF>
  </metadata>
  <defs>
@@ -20,17 +19,17 @@
  </defs>
  <defs>
   <clipPath id="pa9bdbbffb5">
-   <rect x="12.6" y="9.36" width="478.8" height="215.28"/>
+   <rect x="12.6" y="9.36" width="478.8" height="215.28" />
   </clipPath>
  </defs>
 <g transform="scale(1 1.85)"><g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 234  L 504 234  L 504 0  L 0 0  z " style="fill: #ffffff"/>
+   <path d="M 0 234  L 504 234  L 504 0  L 0 0  z " style="fill: #ffffff" />
   </g>
   <g id="axes_1">
    <g id="line2d_1">
-    <path d="M 213.696 190.1952  L 213.696 35.1936  " clip-path="url(#pa9bdbbffb5)" style="fill: none; stroke: #98522e; stroke-width: 1.3; stroke-linecap: square"/>
+    <path d="M 213.696 190.1952  L 213.696 35.1936  " clip-path="url(#pa9bdbbffb5)" style="fill: none; stroke: #98522e; stroke-width: 1.3; stroke-linecap: square" />
    </g>
    </g>
  </g>
- </g><text x="31.752" y="92.361" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="24.0" text-anchor="start" id="text_1"><tspan x="31.752" dy="0">Accuracy ≥90%</tspan></text><text x="31.752" y="146.854" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_2"><tspan x="31.752" dy="0">Seeing this number, also</tspan><tspan x="31.752" dy="14.16">check</tspan></text><text x="226" y="98.176" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_3"><tspan x="226" dy="0">Object</tspan></text><text x="320" y="91.332" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_4"><tspan x="320" dy="0">One field or a whole</tspan><tspan x="320" dy="14.16">statement?</tspan></text><text x="226" y="185.795" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_5"><tspan x="226" dy="0">Denominator</tspan></text><text x="320" y="178.951" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_6"><tspan x="320" dy="0">Which tasks enter the</tspan><tspan x="320" dy="14.16">count?</tspan></text><text x="226" y="273.414" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_7"><tspan x="226" dy="0">Judgment</tspan></text><text x="320" y="266.57" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_8"><tspan x="320" dy="0">Who confirms it, on what</tspan><tspan x="320" dy="14.16">evidence?</tspan></text><text x="226" y="361.033" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_9"><tspan x="226" dy="0">Consequences</tspan></text><text x="320" y="354.189" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_10"><tspan x="320" dy="0">Which errors require an</tspan><tspan x="320" dy="14.16">immediate stop?</tspan></text><text x="31.752" y="320.048" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_11"><tspan x="31.752" dy="0">Define measurement details</tspan><tspan x="31.752" dy="14.16">together with the target</tspan></text></svg>
+ </g><text x="31.752" y="92.361" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="24.0" text-anchor="start" id="text_1"><tspan x="31.752" dy="0">Accuracy ≥90%</tspan></text><text x="31.752" y="146.854" fill="#58615c" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_2"><tspan x="31.752" dy="0">Seeing this number, also</tspan><tspan x="31.752" dy="14.16">check</tspan></text><text x="226" y="98.176" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_3"><tspan x="226" dy="0">Unit assessed</tspan></text><text x="320" y="91.332" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_4"><tspan x="320" dy="0">One field or a whole</tspan><tspan x="320" dy="14.16">statement?</tspan></text><text x="226" y="185.795" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_5"><tspan x="226" dy="0">Denominator</tspan></text><text x="320" y="178.951" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_6"><tspan x="320" dy="0">Which tasks enter the</tspan><tspan x="320" dy="14.16">count?</tspan></text><text x="226" y="273.414" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_7"><tspan x="226" dy="0">Judgment</tspan></text><text x="320" y="266.57" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_8"><tspan x="320" dy="0">Who confirms it, on what</tspan><tspan x="320" dy="14.16">evidence?</tspan></text><text x="226" y="361.033" fill="#98522e" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_9"><tspan x="226" dy="0">Consequences</tspan></text><text x="320" y="354.189" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="start" id="text_10"><tspan x="320" dy="0">Which errors require an</tspan><tspan x="320" dy="14.16">immediate stop?</tspan></text><text x="31.752" y="320.048" fill="#252c29" font-family="Arial, Helvetica, sans-serif" font-size="12.0" text-anchor="start" id="text_11"><tspan x="31.752" dy="0">Define measurement details</tspan><tspan x="31.752" dy="14.16">together with the target</tspan></text></svg>

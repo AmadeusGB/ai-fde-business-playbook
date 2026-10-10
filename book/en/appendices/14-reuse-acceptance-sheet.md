@@ -8,7 +8,7 @@ Worksheet 14-1 | Accept the reuse of a delivery asset
 |---|---|
 | Asset, version, and maintainer | Name: ________  Version: ________  Maintainer: ________ |
 | Original purpose → new purpose | Original: ________  New: ________ |
-| Inheritable parts / required adaptation | Inheritable: ________  Differences and changes: ________ |
+| Reusable parts / required adaptation | Reusable: ________  Differences and changes: ________ |
 | Required revalidation / explicit exclusions | New material and acceptance conditions: ________  Not for: ________ |
 | Reuse by a different team | Team: ________  Evidence identifier: ________  Failures / unresolved items: ________ |
 | Original developer support | Intervention and hours: ________  Critical decisions made on the team's behalf?: ________ |

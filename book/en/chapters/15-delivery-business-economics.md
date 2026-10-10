@@ -88,11 +88,11 @@ When reading a gross margin figure, first identify its revenue scope and deducti
 
 DXC's Form 10-Q for the quarter ended June 30, 2026 includes costs of services, selling, general and administrative expenses, and depreciation and amortization in its segment profit definition, with a separate reconciliation to company-level profit. The filing does not report OASIS revenue and profit separately.[5] A segment margin therefore cannot be entered into a product gross margin field, nor does the absence of separate disclosure mean that the product contributes nothing.
 
-For practical management, start with accounts traceable to activity records. An implementation engineer reconfiguring one client's interface incurs delivery labor for that project. A maintainer repairing a component shared by several projects incurs shared maintenance. Presales staff validating three opportunities that never become contracts still incur acquisition activity costs. One person may undertake several activities at different times; cost attribution should follow the activity, rather than just the department name.
+For practical management, start with accounts traceable to activity records. An implementation engineer reconfiguring one client's interface incurs delivery labor for that project. A maintainer repairing a component shared by several projects incurs shared maintenance. Presales staff validating three opportunities that never become contracts still incur customer acquisition costs. One person may undertake several activities at different times; cost attribution should follow the activity, rather than just the department name.
 
-Group A: project and cohort accounts. These are teaching assumptions. All amounts are in renminbi (RMB); figures and tables specify when values are shown in units of RMB 10,000. These accounts have no conversion relationship to the preceding chapter's labor hours. Assume a type of project generates RMB 200,000 during the 12 months from the start of delivery, covering agreed implementation and services. First-cohort projects require an average of RMB 80,000 in delivery labor, RMB 20,000 in cloud and third-party services, and RMB 30,000 in subsequent dedicated support. After these three deductions, RMB 70,000 remains. Deduct another RMB 20,000 allocated from acquisition activities for the same cohort, leaving RMB 50,000 for shared capabilities and other expenses.
+Group A: project and cohort accounts. These are teaching assumptions. All amounts are in renminbi (RMB); figures and tables specify when values are shown in units of RMB 10,000. These accounts have no conversion relationship to the preceding chapter's labor hours. Assume a type of project generates RMB 200,000 during the 12 months from the start of delivery, covering agreed implementation and services. First-cohort projects require an average of RMB 80,000 in delivery labor, RMB 20,000 in cloud and third-party services, and RMB 30,000 in subsequent dedicated support. After these three deductions, RMB 70,000 remains. Deduct another RMB 20,000 allocated from customer acquisition activities for the same cohort, leaving RMB 50,000 for shared capabilities and other expenses.
 
-Labor amounts here are assumed actual labor costs, including the corresponding employment burden. They cannot be inferred from “hours saved.” The RMB 20,000 acquisition cost also includes a reasonable allocation from unsuccessful opportunities, rather than just sales work after signing. If failed presales work is excluded entirely, contracted projects may look increasingly attractive while the overall sales system grows more expensive.
+Labor amounts here are assumed actual labor costs, including the corresponding employment burden. They cannot be inferred from “hours saved.” The RMB 20,000 customer acquisition cost also includes a reasonable allocation from unsuccessful opportunities, rather than just sales work after signing. If failed presales work is excluded entirely, contracted projects may look increasingly attractive while the overall sales system grows more expensive.
 
 ![Figure 15-4 The deductions from RMB 200,000 in revenue](../figures/ch15/fig-15-04.png)
 
@@ -110,15 +110,15 @@ Figure 15-5 | Align these bases before comparing gross margins. The author's ana
 
 ## Is the second cohort really easier to deliver?
 
-RMB 50,000 left by one project does not yet show whether platform investment is worthwhile. Assume the first cohort has 4 projects of the same type, each with RMB 200,000 in revenue and RMB 150,000 in combined delivery, operation, support, and acquisition costs. Shared development adds RMB 240,000 and shared maintenance RMB 80,000, totaling RMB 320,000. The first cohort's total revenue is RMB 800,000 and listed costs RMB 920,000, leaving a negative balance of RMB 120,000.
+RMB 50,000 left by one project does not yet show whether platform investment is worthwhile. Assume the first cohort has 4 projects of the same type, each with RMB 200,000 in revenue and RMB 150,000 in combined delivery, operation, support, and customer acquisition costs. Shared development adds RMB 240,000 and shared maintenance RMB 80,000, totaling RMB 320,000. The first cohort's total revenue is RMB 800,000 and listed costs RMB 920,000, leaving a negative balance of RMB 120,000.
 
-The second cohort increases to 8 projects. Assume reusable assets reduce each project's delivery cost from RMB 80,000 to RMB 50,000. Cloud and third-party costs remain RMB 20,000 and acquisition costs RMB 20,000, while dedicated support rises from RMB 30,000 to RMB 40,000. This simulates a difficult economic judgment: initial adaptation falls, but later compatibility problems increase. Listed costs are RMB 130,000 per project, leaving RMB 70,000 after deductions from revenue.
+The second cohort increases to 8 projects. Assume reusable assets reduce each project's delivery cost from RMB 80,000 to RMB 50,000. Cloud and third-party costs remain RMB 20,000 and customer acquisition costs RMB 20,000, while dedicated support rises from RMB 30,000 to RMB 40,000. This simulates a difficult economic judgment: initial adaptation falls, but later compatibility problems increase. Listed costs are RMB 130,000 per project, leaving RMB 70,000 after deductions from revenue.
 
 Both cohorts must be measured through each project's twelfth month from the start of delivery, with comparable service scope, workload, and quality requirements. The first cohort's full year of support expenses cannot be compared with expenses from the second cohort's first three weeks after going live. This chapter groups projects by the start of delivery and compares records after equal service durations. Actual analysis must also distinguish project complexity and retain costs of exited or failed projects.
 
 ![Figure 15-6 Combine lower delivery costs with higher support expenses](../figures/ch15/fig-15-06.png)
 
-Figure 15-6 | Combine lower delivery costs with higher support expenses. Independent teaching assumptions; 12 months per project; units: RMB 10,000. First cohort: 8 + 2 + 3 + 2 = 15; second cohort: 5 + 2 + 4 + 2 = 13. Both include acquisition; shared investment is recorded separately.
+Figure 15-6 | Combine lower delivery costs with higher support expenses. Independent teaching assumptions; 12 months per project; units: RMB 10,000. First cohort: 8 + 2 + 3 + 2 = 15; second cohort: 5 + 2 + 4 + 2 = 13. Both include customer acquisition costs; shared investment is recorded separately.
 
 To account for shared expenses, assume further that the two cohorts begin in different years. All agreed services for the first cohort end in the first year, with no renewals or residual obligations entering the second. The second cohort incurs no new shared development, while shared maintenance is RMB 160,000. Second-cohort revenue is therefore RMB 1,600,000 and project-related costs RMB 1,040,000. After deducting RMB 160,000 in shared maintenance, the balance is RMB 400,000. Combined listed revenue for both cohorts is RMB 2,400,000 and costs RMB 2,120,000, leaving a cumulative balance of RMB 280,000.
 
@@ -129,7 +129,7 @@ Table 15-3 | How two project cohorts bear shared investment; teaching assumption
 | Item | First cohort: 4 projects | Second cohort: 8 projects | Both cohorts |
 |---|---:|---:|---:|
 | Revenue | 80 | 160 | 240 |
-| Project and acquisition costs | 60 | 104 | 164 |
+| Project and customer acquisition costs | 60 | 104 | 164 |
 | Shared development | 24 | 0 | 24 |
 | Shared maintenance | 8 | 16 | 24 |
 | Balance after listed costs | −12 | 40 | 28 |

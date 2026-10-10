@@ -157,7 +157,7 @@ Table 8-3 | Counterexample prompts when examining experience (the author's check
 
 | Initial statement | Follow-up question |
 |---|---|
-| “It has always been this way” | Which objects, versions, or time conditions are exceptions? |
+| “It has always been this way” | Which records, versions, or time conditions are exceptions? |
 | “You can tell at a glance” | Which visible clue did you notice first? |
 | “Someone else cannot do it” | Are they missing materials, authority, or a basis for judgment? |
 

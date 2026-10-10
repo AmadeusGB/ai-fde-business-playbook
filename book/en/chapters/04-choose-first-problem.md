@@ -81,7 +81,7 @@ Table 4-1 | The author's example problem card. No savings amount is entered beca
 
 | Problem-card field | Fictional entry | Check before approval |
 |---|---|---|
-| Object and users | Promotional settlement statements handled by regional finance | Whether all discrepancy types are included |
+| Work covered and users | Promotional settlement statements handled by regional finance | Whether all discrepancy types are included |
 | Current burden and desired outcome | Long waits for checking; aim to shorten end-to-end processing time | A set of actual records and the manual steps |
 | Scope and observation period | One region, one settlement cycle, with human approval retained | Data availability, staff time, and someone to handle exceptions |
 

@@ -18,7 +18,7 @@ This book discusses the three separately. A human FDE is an engineer responsible
 
 ![Figure 3-1 The relationship between people, agents, and digital roles](../figures/ch03/fig-03-01.png)
 
-Figure 3-1 | The relationship between people, agents, and digital roles. Author's diagram for identifying the objects involved. A human team builds and maintains software; the company decides which work the software undertakes and who is responsible. A digital role may use several tools or rely entirely on rule-based automation.
+Figure 3-1 | The relationship between people, agents, and digital roles. Author's diagram for distinguishing the categories involved. A human team builds and maintains software; the company decides which work the software undertakes and who is responsible. A digital role may use several tools or rely entirely on rule-based automation.
 
 Consider financial reconciliation: read statements, match records, identify differences, then notify finance staff for review. An agent can perform some of these steps. Completion still depends on whether statements arrive on time, who handles exceptions, and how results are written back to the accounting system. Buying software that can call tools addresses only part of the work.
 
@@ -102,7 +102,7 @@ The three designer configurations and eight agent configurations are quantities 
 
 Table 3-1 | Author's comparison of counting units. Wuzhou configurations come from the procurement documents; the explanatory rules support the distinctions in this chapter.[5]
 
-| Object being counted | Questions it can answer | What it should not directly convert into |
+| Unit being counted | Questions it can answer | What it should not directly convert into |
 |---|---|---|
 | Designer or agent software, or licenses | Which operating resources were purchased | Actual active tasks or employee numbers |
 | Processes and completed task volume | Which work is covered and how much is processed | Complete jobs requiring no human involvement |
@@ -126,7 +126,7 @@ Figure 3-9 | Different execution states require different takeover actions. Auth
 
 The delivery team must now work with the business lead. Software cannot decide which losses the company should bear or what commitments it should make to whom. Assigning one AI lead is insufficient. The business owner should know who initiates business remedies, technical recovery, and external communication. Specific arrangements must fit the company's existing responsibilities. This chapter's diagram does not assign legal liability.
 
-The mistaken match clarifies the three objects. The human FDE investigates why matching failed to check customer identifiers and corrects the system. Software uses authorized data to propose matches again. The complete reconciliation task also includes sending conflicts to finance for confirmation and recording how they were resolved. More software instances cannot perform those responsibilities by themselves.
+The mistaken match clarifies the distinction between people, software, and digital roles. The human FDE investigates why matching failed to check customer identifiers and corrects the system. Software uses authorized data to propose matches again. The complete reconciliation task also includes sending conflicts to finance for confirmation and recording how they were resolved. More software instances cannot perform those responsibilities by themselves.
 
 The human work remaining after software takes over some tasks may become harder. Someone who once entered records one at a time may now specialize in complex exceptions, each requiring more effort. Even if total hours fall, check whether the exception handler has enough capacity and needs training. Software record counts do not reveal these changes.
 
@@ -166,17 +166,17 @@ Faced with the three opening proposals, the business owner can first ask for sep
 
 For example, a reconciliation proposal should specify that the service team delivers interfaces and test records; software reads the agreed data and proposes candidate matches; finance approves the treatment of differences; and operations staff handle failures. Check the service scope, software permissions, and work arrangements separately to identify what the quote leaves out.
 
-![Figure 3-13 Three objects call for three sets of acceptance questions](../figures/ch03/fig-03-13.png)
+![Figure 3-13 Three categories call for three sets of acceptance questions](../figures/ch03/fig-03-13.png)
 
-Figure 3-13 | Three objects call for three sets of acceptance questions. Example of the author's identification tool. A delivery team, software, and a digital role each require different checks. The questions initiate verification; use the blank worksheet at the chapter's end for a complete record.
+Figure 3-13 | Three categories call for three sets of acceptance questions. Example of the author's identification tool. A delivery team, software, and a digital role each require different checks. The questions initiate verification; use the blank worksheet at the chapter's end for a complete record.
 
 The distinction also clarifies prices. Software licenses, ongoing deployment services, and business services that include human review need different staff and incur different ongoing costs. Calling an offering a digital employee does not make delivery and service costs disappear.
 
 The distinction matters equally in system design. “Have the agent complete reconciliation” does not specify authority. “Propose matches, then write back through the agreed interface after finance approval” tells engineers which interfaces to build, which situations to test, and what to restore after an error. Future expansion of permissions should also be validated first, with approval recorded.
 
-Table 3-2 | Check for mixed objects in a procurement proposal. Author's checklist.
+Table 3-2 | Check for mixed categories in a procurement proposal. Author's checklist.
 
-| Proposal wording | Object description still needed |
+| Proposal wording | Details still needed |
 |---|---|
 | “Provide one FDE” | Is this staff time or a software license, and what work does it cover? |
 | “Add one role” | What are its tasks, authority, recipient, and work outputs? |

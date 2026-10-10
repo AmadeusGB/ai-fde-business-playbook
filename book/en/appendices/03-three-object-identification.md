@@ -6,7 +6,7 @@ Proposal / project: ________________    Recorded by: ________________    Date: _
 
 Worksheet 03-1 | Identify people, software, and digital roles
 
-| Object | What this project specifically provides | How to check it and who is responsible |
+| Category | What this project specifically provides | How to check it and who is responsible |
 |---|---|---|
 | Human delivery team | People and work scope: ________ | Development and handover records: ________ |
 | Software agent or automation | Product, version, environment: ______ | Capabilities and limits: ____________ |
@@ -15,7 +15,7 @@ Worksheet 03-1 | Identify people, software, and digital roles
 | Exceptions and takeover | When to stop; actions already taken: __ | Person taking over and recovery method: ______ |
 | Counting unit | License / instance / process / task: __ | How human steps are counted: ______ |
 
-Have the three objects been distinguished? □ Yes    □ Still mixed; verification needed
+Have people, software, and digital roles been distinguished? □ Yes    □ Still mixed; verification needed
 
 Effects the current materials cannot confirm: ______________________________________
 
@@ -23,13 +23,13 @@ Shared data and interfaces, and who communicates changes: ______________________
 
 Next item to check / responsible person / date: ____________________________________
 
-Filling-in guidance: record “eight agent configurations” as software configuration, not “eight employees.” The number of digital roles does not represent people saved. Results require records of complete tasks and human participation.
+Filling-in guidance: record “eight agent configurations” as software configuration, not “eight employees.” The number of digital roles does not establish a reduction in staffing. Results require records of complete tasks and human participation.
 
-## Record for clarifying objects and commitments
+## Record for clarifying categories and commitments
 
 Use this for the current actual task. Mark unclear items “to investigate” and specify who will investigate them and by when.
 
-Worksheet 03-2 | Record for clarifying objects and commitments. Author's worksheet.
+Worksheet 03-2 | Record for clarifying categories and commitments. Author's worksheet.
 
 | Check and record | Entry for this task |
 |---|---|

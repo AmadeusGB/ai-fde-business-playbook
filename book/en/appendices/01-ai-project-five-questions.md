@@ -15,7 +15,7 @@ Worksheet 01-1 | Five questions about the actual status of an AI project. Design
 | What has already been invested? Specify the number of accounts, staff assignments, purchased services, and budget. | ______________ | ______________ |
 | Which tasks can the system handle reliably? Who can use it, and who handles errors? | ______________ | ______________ |
 | Who regularly uses it for which tasks? Why do people not use it or hand tasks back to a person? | ______________ | ______________ |
-| What has changed since using it? Compare quality, total time, and additional work. | ______________ | ______________ |
+| How has AI changed the work? Compare quality, total time, and added work. | ______________ | ______________ |
 | Should the next step be to correct, continue, expand, narrow, or stop? On what evidence? | ______________ | ______________ |
 
 Decision and reason: __________________________________________

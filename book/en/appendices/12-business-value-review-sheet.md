@@ -12,7 +12,7 @@ Worksheet 12-1 | Business outcome verification
 
 | Verification item | Record, conclusion, or evidence still needed |
 |---|---|
-| Object and denominator | Inclusion / exclusion rules; unique task IDs; arrival cohort and tasks accepted this period reported separately |
+| Task scope and denominator | Inclusion / exclusion rules; unique task IDs; arrival cohort and tasks accepted this period reported separately |
 | Task arrivals and handling | Opening unresolved + new arrivals + other transfers in = accepted + other closures or transfers out + closing unresolved |
 | Comparison baseline | Earlier period / comparison group; start and end; other concurrent changes |
 | AI participation | Step; version; first use and scope changes |

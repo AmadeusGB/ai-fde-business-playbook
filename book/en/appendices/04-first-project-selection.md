@@ -8,7 +8,7 @@ Candidate task: ________________  Business lead: ____________  Date: ___________
 
 Most recent actual task / inspectable record: __________________________________
 
-Users, object, and frequency: ____________________________________________
+Users, work covered, and frequency: ____________________________________________
 
 Desired improvement / current process / observation period: __________________________
 

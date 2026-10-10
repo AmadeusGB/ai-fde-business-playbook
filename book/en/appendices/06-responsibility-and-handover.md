@@ -15,7 +15,7 @@ Worksheet 06-1 | Responsibility and Takeover for One Task
 | Business acceptance | Who judges task completion? | Representative samples and judgment basis |
 | Production release | Who approves and who implements? | Release conditions and recovery plan |
 | Pause and resumption | Who may pause and who confirms resumption? | Trigger conditions and confirmation records |
-| Routine maintenance and substitutes | Who takes over, with what permissions? | A second person independently completes a task |
+| Routine maintenance and backup staff | Who takes over, with what permissions? | A second person independently completes a task |
 | Resource-conflict decisions | Who has authority to make tradeoffs? | Each person's existing commitments and remaining time |
 
 Walkthrough record: sample used ____________; recipient ____________.
@@ -24,13 +24,13 @@ Information, authorization, or capability still missing: _______________________
 
 Person resolving gaps and date: ____________; reviewer and method: ____________.
 
-The author's worksheet. Attach details as needed. Arrange review of high-impact matters under existing company controls. Completion still requires verification; signatures and training counts cannot establish executability.
+The author's worksheet. Attach details as needed. Arrange review of high-impact matters under existing company controls. Completion still requires verification; signatures and training counts do not establish that the task can be performed.
 
-## Substitute exercise record for critical staff
+## Backup coverage drill for critical staff
 
 Use for the actual task under consideration. Enter “to be investigated” for unknowns and specify who will investigate and by when.
 
-Worksheet 06-2 | Substitute Exercise Record for Critical Staff (the author's worksheet)
+Worksheet 06-2 | Backup Coverage Drill for Critical Staff (the author's worksheet)
 
 | Check and record | Current entry |
 |---|---|

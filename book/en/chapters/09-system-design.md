@@ -86,7 +86,7 @@ Table 9-2 | Maintenance responsibilities when materials become invalid (the auth
 | Change | What must be checked again | Who receives the findings |
 |---|---|---|
 | A new version is released | Whether old tasks still use old rules | Material maintainer and business approver |
-| Applicable objects change | Retrieval filters and rule conditions | Business and technical owners |
+| The equipment or records covered change | Retrieval filters and rule conditions | Business and technical owners |
 | Source cannot be located | Evidence validity and alternative sources | Rule maintainer |
 
 ## Retrieval must explain its choices and acknowledge missing evidence
@@ -139,11 +139,11 @@ Alibaba Cloud's QoderWake CN (China edition) documentation configures roles, mem
 
 Figure 9-11 | Different actions require different authorization. Permission arrangements for the fictional settlement system permit only updates to the discrepancy record's status, not changes to accounts. This is not a universal classification across industries; bar length is not a numerical measure of risk. Initiating payments is outside this pilot's scope.
 
-Approval also needs invalidation conditions. If the source statement is updated or the candidate discrepancy list changes after finance approves it, the old approval does not automatically extend to the new content. The system can bind the approved version and objects, checking again before execution and returning to confirmation if something has changed. This adds a check but prevents a past click on “Agree” from becoming continuing authorization.
+Approval also needs invalidation conditions. If the source statement is updated or the candidate discrepancy list changes after finance approves it, the old approval does not automatically extend to the new content. The system can bind approval to the specific version and affected records, checking again before execution and returning to confirmation if something has changed. This adds a check but prevents a past click on “Agree” from becoming continuing authorization.
 
 The cost of human participation also belongs in the design. A pop-up for every low-risk query may quickly reduce approvers to mechanical clicking; one approval covering all future writes removes the boundary. Preset policies can cover already authorized, traceable read-only queries, reserving individual confirmation for actions that actually change business state. The task's consequences determine the arrangement; pop-up counts are not a safety measure.
 
-Accounts must also be distinguished. An employee's query can run under their existing permissions. A scheduled task has no person continuously online and needs its own service identity with restricted permissions. For convenience, the business owner's account must not be handed to all automated tasks to share indefinitely. Logs should connect which identity read what, on whose behalf it acted, and which approval it received.
+Accounts must also be distinguished. An employee's query can run under their existing permissions. A scheduled task has no person continuously online and needs its own service identity with restricted permissions. Do not let all automated tasks share the business owner's account indefinitely merely for convenience. Logs should connect which identity read what, on whose behalf it acted, and which approval it received.
 
 ![Figure 9-12 What exactly does human approval approve?](../figures/ch09/fig-09-12.png)
 
@@ -214,7 +214,7 @@ Table 9-4 | Replay of one settlement task (the author's teaching records)
 | Approval invalidated | v8 found before execution; difference becomes RMB 150 | A1 cannot authorize a write; A2 obtained after review of C2 |
 | Submit the write | A2 passes object, version, and expiry checks; execution key K09-027-2 | Server writes W-1042; reply times out; client records “unknown status” |
 | Check the result | Query using the same execution key; retrieve W-1042 and the target status | No second write submitted; query receipt retained |
-| Receipt by the business team | Finance confirms that the discrepancy record entered the queue for additional materials, with a designated store recipient | This system action ends; the settlement dispute and payment remain unfinished |
+| Handover to the business team | Finance confirms that the discrepancy record entered the queue for additional materials, with a designated store recipient | This system action ends; the settlement dispute and payment remain unfinished |
 
 Version checking and submission must also stay connected. The writer must check the expected version and approval conditions within the same submission operation, rejecting it if they are not met. If materials reside in different systems and the interface cannot ensure this, retain the candidate and hand it to a human for this round, without claiming to have eliminated the risk of changes during the process.
 

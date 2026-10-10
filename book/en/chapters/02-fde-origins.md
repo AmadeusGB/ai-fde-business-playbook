@@ -224,7 +224,7 @@ Table 2-4 | Handover exercise after the field team leaves. Author's checklist.
 
 The chapter's blank checklist can be used with providers or when forming an internal team. Select one project and specify its tasks and required outputs. “Have the recipient handle an order exception using the instructions” is easier to verify than “empower the business.”
 
-The history of FDEs helps a company decide whether engineers should engage with business problems earlier, what authority they need, and how feedback and handover should work. The next chapter distinguishes several easily confused objects: an FDE in a job posting is a person, software with the same name is a product, and a digital role concerns how the company assigns work. The distinctions affect whether a company should hire, procure, or reorganize responsibilities.
+The history of FDEs helps a company decide whether engineers should engage with business problems earlier, what authority they need, and how feedback and handover should work. The next chapter distinguishes several categories that are easily confused: an FDE in a job posting is a person, software with the same name is a product, and a digital role concerns how the company assigns work. The distinctions affect whether a company should hire, procure, or reorganize responsibilities.
 
 ## Notes and sources
 

@@ -13,7 +13,7 @@ Worksheet 05-1 | Investment, Baseline, and Continuation Conditions
 | Cash ceiling, staged commitments, and exit reserve | __________________ | ______________ |
 | Internal staff hours and actual participation periods | __________________ | ______________ |
 | Expected benefit path and the assumption most affecting the result | __________________ | ______________ |
-| Samples, denominator, judge, and system version | __________________ | ______________ |
+| Samples, denominator, reviewer, and system version | __________________ | ______________ |
 | Conditions to continue, repair, pause, or close | __________________ | ______________ |
 
 Explicitly prohibited actions / retained human approval: ________________________________
