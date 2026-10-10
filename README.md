@@ -37,3 +37,5 @@
 ## English edition
 
 The complete English edition, **Bringing AI into Business Operations**, is available as [18 chapters and 18 worksheets](book/en/README.md). The October 10, 2026 edition completed AI-assisted translation and production review; native English editorial review remains pending.
+
+Download the English [PDF, Word, offline HTML and source package](https://github.com/AmadeusGB/ai-fde-business-playbook/releases/tag/en-v1.1-20261010).

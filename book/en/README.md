@@ -4,6 +4,10 @@ By Guo Bin. Complete English translation of the Chinese v3.6 edition, prepared o
 
 18 chapters, 18 worksheets, 247 figures, 125 tables and 69 source notes. The downloadable PDF has 454 physical pages.
 
+## Downloads
+
+[English release: PDF, Word, offline HTML and source package](https://github.com/AmadeusGB/ai-fde-business-playbook/releases/tag/en-v1.1-20261010). Edition en-full-1.1-r2-steg, with eight verified encrypted authorship image markers.
+
 ## Read the book
 
 - [Chapter 1 Strong AI models: why are businesses still waiting for results?](chapters/01-ai-demo-to-business-result.md)
