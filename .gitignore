@@ -6,3 +6,5 @@ Thumbs.db
 _site/
 .impeccable/
 website-build-manifest.json
+__pycache__/
+*.py[cod]
