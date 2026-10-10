@@ -1,6 +1,6 @@
 # Bringing AI into Business Operations
 
-By Guo Bin. Complete English translation of the Chinese v3.6 edition, prepared on 2026-10-10. Revised as en-full-1.1-r1; see [revision notes](REVISION-NOTES.md).
+By Guo Bin. Complete English translation of the Chinese v3.6 edition, prepared on 2026-10-10. Revised as en-full-1.1-r2-steg; see [revision notes](REVISION-NOTES.md).
 
 18 chapters, 18 worksheets, 247 figures, 125 tables and 69 source notes. The downloadable PDF has 454 physical pages.
 
