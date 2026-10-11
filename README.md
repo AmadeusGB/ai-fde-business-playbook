@@ -10,6 +10,8 @@
 
 - [中英文在线阅读站](https://amadeusgb.github.io/ai-fde-business-playbook/)：手机与电脑可直接阅读，含章节目录、图表、行动工具和搜索。
 - [在线中文版](https://amadeusgb.github.io/ai-fde-business-playbook/zh/) · [Read in English](https://amadeusgb.github.io/ai-fde-business-playbook/en/)
+- [ChatGPT Sites 中英文阅读站](https://bringing-ai-into-business-operations.arthur-bin.chatgpt.site/)：公开访问，完整中英文内容。
+- ChatGPT Sites：[中文版](https://bringing-ai-into-business-operations.arthur-bin.chatgpt.site/zh/) · [English edition](https://bringing-ai-into-business-operations.arthur-bin.chatgpt.site/en/)
 - [v3.6 电子版 PDF（334页）](edition/v3.6/把AI带进经营.pdf)
 - [v3.6 电子版 Word](edition/v3.6/把AI带进经营.docx)
 - [v3.6 修订说明](edition/v3.6/把AI带进经营—修订说明.md)
@@ -41,3 +43,5 @@
 The complete English edition, **Bringing AI into Business Operations**, is available as [18 chapters and 18 worksheets](book/en/README.md). The October 10, 2026 edition completed AI-assisted translation and production review; native English editorial review remains pending.
 
 Download the English [PDF, Word, offline HTML and source package](https://github.com/AmadeusGB/ai-fde-business-playbook/releases/tag/en-v1.1-20261010).
+
+Read online: [GitHub Pages](https://amadeusgb.github.io/ai-fde-business-playbook/en/) · [ChatGPT Sites](https://bringing-ai-into-business-operations.arthur-bin.chatgpt.site/en/). Both sites provide the full English text, figures, worksheets and search. ChatGPT Sites currently mirrors the published edition; later source changes need a separate Sites publication.

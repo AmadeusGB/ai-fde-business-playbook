@@ -8,6 +8,14 @@ By Guo Bin. Complete English translation of the Chinese v3.6 edition, prepared o
 
 [English release: PDF, Word, offline HTML and source package](https://github.com/AmadeusGB/ai-fde-business-playbook/releases/tag/en-v1.1-20261010). Edition en-full-1.1-r2-steg, with eight verified encrypted authorship image markers.
 
+## Read online
+
+- [GitHub Pages — complete English reading edition](https://amadeusgb.github.io/ai-fde-business-playbook/en/)
+- [ChatGPT Sites — complete English reading edition](https://bringing-ai-into-business-operations.arthur-bin.chatgpt.site/en/)
+- Chinese edition: [GitHub Pages](https://amadeusgb.github.io/ai-fde-business-playbook/zh/) · [ChatGPT Sites](https://bringing-ai-into-business-operations.arthur-bin.chatgpt.site/zh/)
+
+Both reading sites include chapters, figures, worksheets, full-text search and document downloads. ChatGPT Sites currently mirrors the published edition; subsequent source changes require another Sites publication.
+
 ## Read the book
 
 - [Chapter 1 Strong AI models: why are businesses still waiting for results?](chapters/01-ai-demo-to-business-result.md)
